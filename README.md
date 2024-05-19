@@ -1,12 +1,11 @@
 # Awesome_Grasp_Tasks
 
-1. Gripper
-   - https://github.com/PKU-MARL/DexterousHands
-   - https://srl-ethz.github.io/get-ball-rolling/
-3. Motion Generation
-4. Task Planning
+This curation covers a wide range of robotic manipulation tasks. 
+> #Gripper #Motion_Generation #Task_Planning #Grasp_Synthesis
 
 ---
+
+# Papers
 
 ## 2024
 - [ASID: Active Exploration for System Identification in Robotic Manipulation](https://openreview.net/forum?id=jNR6s6OSBT)
@@ -14,18 +13,22 @@
 
 ## 2023
 
-
+- [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) + [🅿](http://tactilesim.csail.mit.edu/)
 
 ## 2022
-- [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf)
-   - [🅿](http://tactilesim.csail.mit.edu/)
+- [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) + [🅿](http://tactilesim.csail.mit.edu/)
 
 ## 2021
-- [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167)
-   - [🅿](https://sites.google.com/view/tactileinsertion)
+- [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) + [🅿](https://sites.google.com/view/tactileinsertion)
+- [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation
+](https://arxiv.org/abs/2110.00704)
 
 ## 2020
-- [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/abs/1910.02860)
-   - [🅿](http://gelsight.csail.mit.edu/cable/)
-- [A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects](https://arxiv.org/abs/2011.08177)
-   - [🅿](https://anthonysimeonov.github.io/rpo-planning-framework/)
+- [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/abs/1910.02860) + [🅿](http://gelsight.csail.mit.edu/cable/)
+- [A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects](https://arxiv.org/abs/2011.08177) + [🅿](https://anthonysimeonov.github.io/rpo-planning-framework/)
+
+---
+
+# Github
+
+- [![](https://img.shields.io/badge/PKU--MARL-DexterousHands-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=flat-square&color=yellow">
