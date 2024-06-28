@@ -1,7 +1,7 @@
-# Awesome_Grasp_Tasks
+# Awesome_Manipulation
 
 This curation covers a wide range of robotic manipulation tasks. 
-> #Gripper #Motion_Generation #Task_Planning #Grasp_Synthesis
+> #Gripper #Dexterous #Motion_Generation #Task_Planning #Grasp_Synthesis
 
 ---
 
