@@ -8,6 +8,7 @@ This curation covers a wide range of robotic manipulation tasks.
 # Papers
 
 ## 2024
+- [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://arxiv.org/abs/2405.07391) + [🅿](https://maxyang27896.github.io/anyrotate/)
 - [ASID: Active Exploration for System Identification in Robotic Manipulation](https://openreview.net/forum?id=jNR6s6OSBT)
 - [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) + [🅿]([https://yzqin.github.io/anyteleop/)
 - [Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient](https://arxiv.org/abs/2406.00681)
