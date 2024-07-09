@@ -26,9 +26,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) + [🅿](http://tactilesim.csail.mit.edu/)
 
 ## 2021
-- [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation
+- [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation](https://arxiv.org/abs/2110.00704)
 - [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) + [🅿](https://sites.google.com/view/tactileinsertion)
-](https://arxiv.org/abs/2110.00704)
+
 
 ## 2020
 - [A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects](https://arxiv.org/abs/2011.08177) + [🅿](https://anthonysimeonov.github.io/rpo-planning-framework/)
