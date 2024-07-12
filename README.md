@@ -16,6 +16,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient](https://arxiv.org/abs/2406.00681)
 - [METRA: Scalable Unsupervised RL with Metric-Aware Abstraction](https://openreview.net/forum?id=c5pwL0Soay)
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
+- [Towards Tight Convex Relaxations for Contact-Rich Manipulation](https://arxiv.org/abs/2402.10312) + [🅿](https://bernhardgraesdal.com/rss24-towards-tight-convex-relaxations/)
 
 ## 2023
 
