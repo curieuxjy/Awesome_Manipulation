@@ -10,6 +10,7 @@ This curation covers a wide range of robotic manipulation tasks.
 ## 2024
 - [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://arxiv.org/abs/2405.07391) + [🅿](https://maxyang27896.github.io/anyrotate/)
 - [ASID: Active Exploration for System Identification in Robotic Manipulation](https://openreview.net/forum?id=jNR6s6OSBT)
+- [AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries](https://arxiv.org/abs/2407.08028)
 - [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) + [🅿](https://consistency-policy.github.io/)
 - [Grasp Multiple Objects with One Hand](https://arxiv.org/abs/2310.15599)
 - [Grasping Diverse Objects with Simulated Humanoids](https://yzhu.io/publication/grasp2024ral/paper.pdf) + [🅿](https://www.zhengyiluo.com/Omnigrasp-Site/)
