@@ -12,12 +12,15 @@ This curation covers a wide range of robotic manipulation tasks.
 - [ASID: Active Exploration for System Identification in Robotic Manipulation](https://openreview.net/forum?id=jNR6s6OSBT)
 - [AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries](https://arxiv.org/abs/2407.08028) + [🅿](https://bingjietang718.github.io/automate/)
 - [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) + [🅿](https://consistency-policy.github.io/)
+- [Flow Matching Imitation Learning for Multi-Support Manipulation](https://arxiv.org/abs/2407.12381) + [🅿](https://hucebot.github.io/flow_multisupport_website/)
 - [Grasp Multiple Objects with One Hand](https://arxiv.org/abs/2310.15599)
 - [Grasping Diverse Objects with Simulated Humanoids](https://yzhu.io/publication/grasp2024ral/paper.pdf) + [🅿](https://www.zhengyiluo.com/Omnigrasp-Site/)
 - [Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient](https://arxiv.org/abs/2406.00681)
 - [METRA: Scalable Unsupervised RL with Metric-Aware Abstraction](https://openreview.net/forum?id=c5pwL0Soay)
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
+- [ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real](https://openreview.net/pdf?id=EndKKLLegn)
 - [Towards Tight Convex Relaxations for Contact-Rich Manipulation](https://arxiv.org/abs/2402.10312) + [🅿](https://bernhardgraesdal.com/rss24-towards-tight-convex-relaxations/)
+- [VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation](https://arxiv.org/abs/2407.09829)
 
 ## 2023
 
