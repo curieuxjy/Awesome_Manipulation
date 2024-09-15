@@ -22,6 +22,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
 - [ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real](https://openreview.net/pdf?id=EndKKLLegn)
 - [Towards Tight Convex Relaxations for Contact-Rich Manipulation](https://arxiv.org/abs/2402.10312) + [🅿](https://bernhardgraesdal.com/rss24-towards-tight-convex-relaxations/)
+- [Twisting Lids Off with Two Hands](https://arxiv.org/abs/2403.02338)
 - [Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation](https://arxiv.org/abs/2407.07884) + [🅿](https://taochenshh.github.io/projects/veg-peeling)
 - [VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation](https://arxiv.org/abs/2407.09829)
 
