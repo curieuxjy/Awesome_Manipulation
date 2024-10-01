@@ -5,6 +5,17 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ---
 
+# Platforms
+
+## End Effectors
+- [Allegro Hand](https://www.allegrohand.com/)
+- [DLR Hand](https://ieeexplore.ieee.org/document/932538/)
+- [Leap Hand](https://arxiv.org/abs/2309.06440)
+
+## Arms
+- [Franka](https://franka.de/)
+- [UR](https://www.universal-robots.com/)
+
 # Papers
 
 ## 2024
