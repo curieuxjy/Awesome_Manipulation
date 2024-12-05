@@ -30,6 +30,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) + [🅿](https://consistency-policy.github.io/)
 - [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) + [🅿](https://dex-cap.github.io/)
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) + [🅿](https://dexdiffuser.github.io/)
+- [DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality](https://arxiv.org/abs/2210.13702) + [🅿](https://dextreme.org/)
 - [Effective Virtual Reality Teleoperation of an Upper-body Humanoid with Modified Task Jacobians and Relaxed Barrier Functions for Self-Collision Avoidance](https://www.arxiv.org/abs/2411.07534)
 - [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221)
 - [Error-Feedback Model for Output Correction in Bilateral Control-Based Imitation Learning](https://arxiv.org/abs/2411.12255)
@@ -48,6 +49,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer](https://arxiv.org/abs/2312.03673)
 - [PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments](https://arxiv.org/abs/2404.03634) + [🅿](https://air-discover.github.io/PreAfford/)
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
+- [Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing](https://arxiv.org/abs/2312.01853) + [🅿](https://yingyuan0414.github.io/visuotactile/)
 - [Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand](https://arxiv.org/abs/2411.06183)
 - [ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real](https://openreview.net/pdf?id=EndKKLLegn)
 - [SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks](https://arxiv.org/abs/2411.12173)
@@ -68,6 +70,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) + [🅿](http://tactilesim.csail.mit.edu/)
 - [IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality](https://arxiv.org/abs/2305.17110) + [🅿](https://sites.google.com/nvidia.com/industreal)
 - [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469)
+- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880) + [🅿](https://touchdexterity.github.io/)
 - [Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes](https://arxiv.org/abs/2211.11744)
 
 ## 2022
@@ -78,6 +81,7 @@ This curation covers a wide range of robotic manipulation tasks.
 ## 2021
 - [A System for General In-Hand Object Re-Orientation](https://arxiv.org/abs/2111.03043)
 - [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation](https://arxiv.org/abs/2110.00704)
+- [ReSkin: versatile, replaceable, lasting tactile skins](https://arxiv.org/abs/2111.00071) + [🅿](https://reskin.dev/)
 - [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) + [🅿](https://sites.google.com/view/tactileinsertion)
 
 
