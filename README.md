@@ -30,6 +30,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503) + [🅿](https://consistency-policy.github.io/)
 - [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) + [🅿](https://dex-cap.github.io/)
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) + [🅿](https://dexdiffuser.github.io/)
+- [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://arxiv.org/abs/2407.02274)
 - [DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality](https://arxiv.org/abs/2210.13702) + [🅿](https://dextreme.org/)
 - [Effective Virtual Reality Teleoperation of an Upper-body Humanoid with Modified Task Jacobians and Relaxed Barrier Functions for Self-Collision Avoidance](https://www.arxiv.org/abs/2411.07534)
 - [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221)
@@ -55,6 +56,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks](https://arxiv.org/abs/2411.12173)
 - [SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation](https://arxiv.org/abs/2410.18065) + [🅿](https://sites.google.com/view/spire-corl-2024)
 - [STEER: Flexible Robotic Manipulation via Dense Language Grounding](https://arxiv.org/abs/2411.03409)
+- [TacEx: GelSight Tactile Simulation in Isaac Sim - Combining Soft-Body and Visuotactile Simulators](https://arxiv.org/abs/2411.04776)
+- [TacSL: A Library for Visuotactile Sensor Simulation and Learning](https://arxiv.org/abs/2408.06506)
 - [The Role of Action Abstractions in Robot Manipulation Learning and Sim-to-Real Transfer](https://openreview.net/pdf?id=oDKc2H00ok)
 - [Towards Tight Convex Relaxations for Contact-Rich Manipulation](https://arxiv.org/abs/2402.10312) + [🅿](https://bernhardgraesdal.com/rss24-towards-tight-convex-relaxations/)
 - [Twisting Lids Off with Two Hands](https://arxiv.org/abs/2403.02338)
@@ -82,6 +85,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [A System for General In-Hand Object Re-Orientation](https://arxiv.org/abs/2111.03043)
 - [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation](https://arxiv.org/abs/2110.00704)
 - [ReSkin: versatile, replaceable, lasting tactile skins](https://arxiv.org/abs/2111.00071) + [🅿](https://reskin.dev/)
+- [STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation](https://arxiv.org/abs/2104.13542)
 - [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) + [🅿](https://sites.google.com/view/tactileinsertion)
 
 
