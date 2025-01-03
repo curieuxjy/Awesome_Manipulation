@@ -18,6 +18,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 # Papers
 
+## 2025
+
 ## 2024
 
 - [ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](https://arxiv.org/abs/2411.09942)
@@ -51,6 +53,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer](https://arxiv.org/abs/2312.03673)
 - [PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments](https://arxiv.org/abs/2404.03634) + [🅿](https://air-discover.github.io/PreAfford/)
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
+- [RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective](https://arxiv.org/abs/2404.12281) + [🅿](https://rise-policy.github.io/)
 - [Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing](https://arxiv.org/abs/2312.01853) + [🅿](https://yingyuan0414.github.io/visuotactile/)
 - [Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand](https://arxiv.org/abs/2411.06183)
 - [ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real](https://openreview.net/pdf?id=EndKKLLegn)
