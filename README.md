@@ -34,6 +34,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) + [🅿](https://dexdiffuser.github.io/)
 - [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://arxiv.org/abs/2407.02274)
 - [DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality](https://arxiv.org/abs/2210.13702) + [🅿](https://dextreme.org/)
+- [Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning](https://arxiv.org/html/2404.12539v2) + [🅿](https://diff-control.github.io/)
 - [DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation](https://arxiv.org/abs/2403.08716)
 - [Effective Virtual Reality Teleoperation of an Upper-body Humanoid with Modified Task Jacobians and Relaxed Barrier Functions for Self-Collision Avoidance](https://www.arxiv.org/abs/2411.07534)
 - [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221)
