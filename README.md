@@ -3,7 +3,7 @@
 This curation covers a wide range of robotic manipulation tasks. 
 > #Gripper #Dexterous #Motion_Generation #Task_Planning #Grasp_Synthesis
 
-![](./assets/cover.png)
+![](./asset/cover.png)
 
 ---
 
