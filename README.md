@@ -9,20 +9,26 @@ This curation covers a wide range of robotic manipulation tasks.
 
 # Platforms
 
-## End Effectors
-- [Allegro Hand](https://www.allegrohand.com/)
-- [DLR Hand](https://ieeexplore.ieee.org/document/932538/)
-- [Leap Hand](https://arxiv.org/abs/2309.06440)
+| End Effectors                                                                                           | Arms                                                         |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| - [Allegro Hand](https://www.allegrohand.com/)                                                         | - [Franka](https://franka.de/)                              |
+| - [DG-5F](https://en.tesollo.com/DG-5F)                                                                | - [UR](https://www.universal-robots.com/)                   |
+| - [DLR Hand](https://ieeexplore.ieee.org/document/932538/)                                             |                                                             |
+| - [Leap Hand](https://arxiv.org/abs/2309.06440)                                                        |                                                             |
 
-## Arms
-- [Franka](https://franka.de/)
-- [UR](https://www.universal-robots.com/)
 
 # Papers
 
-## 2025
+<details>
+<summary><b>2025</b></summary>
 
-## 2024
+# Happy New Year!
+
+</details>
+
+
+<details>
+<summary><b>2024</b></summary>
 
 - [ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](https://arxiv.org/abs/2411.09942)
 - [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://arxiv.org/abs/2405.07391) + [🅿](https://maxyang27896.github.io/anyrotate/)
@@ -74,7 +80,12 @@ This curation covers a wide range of robotic manipulation tasks.
 - [VQ-ACE: Efficient Policy Search for Dexterous Robotic Manipulation via Action Chunking Embedding](https://arxiv.org/abs/2411.03556) + [🅿](https://srl-ethz.github.io/page-vq-ace/)
 - [WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making](https://arxiv.org/abs/2411.05619)
 
-## 2023
+</details>
+
+
+<details>
+<summary><b>2023</b></summary>
+
 - [AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System](https://arxiv.org/abs/2307.04577) + [🅿](https://yzqin.github.io/anyteleop/)
 - [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979)
 - [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) + [🅿](http://tactilesim.csail.mit.edu/)
@@ -86,24 +97,45 @@ This curation covers a wide range of robotic manipulation tasks.
 - [UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://arxiv.org/abs/2304.00464) + [🅿](https://pku-epic.github.io/UniDexGrasp++/)
 - [Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes](https://arxiv.org/abs/2211.11744)
 
-## 2022
+</details>
+
+
+<details>
+<summary><b>2022</b></summary>
+
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) + [🅿](http://tactilesim.csail.mit.edu/)
 - [Factory: Fast Contact for Robotic Assembly](https://arxiv.org/abs/2205.03532) + [🅿](https://sites.google.com/nvidia.com/factory)
 - [In-Hand Object Rotation via Rapid Motor Adaptation](https://arxiv.org/abs/2210.04887)
 
-## 2021
+</details>
+
+<details>
+<summary><b>2021</b></summary>
+
 - [A System for General In-Hand Object Re-Orientation](https://arxiv.org/abs/2111.03043)
 - [OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation](https://arxiv.org/abs/2110.00704)
 - [ReSkin: versatile, replaceable, lasting tactile skins](https://arxiv.org/abs/2111.00071) + [🅿](https://reskin.dev/)
 - [STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation](https://arxiv.org/abs/2104.13542)
 - [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) + [🅿](https://sites.google.com/view/tactileinsertion)
 
+</details>
 
-## 2020
+<details>
+<summary><b>2020</b></summary>
+
 - [A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects](https://arxiv.org/abs/2011.08177) + [🅿](https://anthonysimeonov.github.io/rpo-planning-framework/)
 - [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/abs/1910.02860) + [🅿](http://gelsight.csail.mit.edu/cable/)
 - [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://arxiv.org/abs/2005.14679)
 - [TACTO: A Fast, Flexible and Open-source Simulator for High-Resolution Vision-based Tactile Sensors](https://arxiv.org/abs/2012.08456)
+</details>
+
+<details>
+<summary><b>~2019</b></summary>
+
+- [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
+- [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
+
+</details>
 
 ---
 
