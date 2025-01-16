@@ -3,18 +3,20 @@
 This curation covers a wide range of robotic manipulation tasks. 
 > #Gripper #Dexterous #Motion_Generation #Task_Planning #Grasp_Synthesis
 
+**Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Manipulation/issues) or [discussions](https://github.com/curieuxjy/Awesome_Manipulation/discussions) to me if there are any corrections or errors.**
+
 ![](./asset/main.png)
 
 ---
 
 # Platforms
 
-| End Effectors                                                                                           | Arms                                                         |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| - [Allegro Hand](https://www.allegrohand.com/)                                                         | - [Franka](https://franka.de/)                              |
-| - [DG-5F](https://en.tesollo.com/DG-5F)                                                                | - [UR](https://www.universal-robots.com/)                   |
-| - [DLR Hand](https://ieeexplore.ieee.org/document/932538/)                                             |                                                             |
-| - [Leap Hand](https://arxiv.org/abs/2309.06440)                                                        |                                                             |
+| End Effectors             | Arms                |
+|------------------------------------------------------------|-------------------------------------------------------------|
+| - [Allegro Hand](https://www.allegrohand.com/)             | - [Franka](https://franka.de/)                              |
+| - [DG-5F](https://en.tesollo.com/DG-5F)                    | - [UR](https://www.universal-robots.com/)                   |
+| - [DLR Hand](https://ieeexplore.ieee.org/document/932538/) |                                                             |
+| - [Leap Hand](https://arxiv.org/abs/2309.06440)            |                                                             |
 
 
 # Papers
@@ -30,6 +32,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2024</b></summary>
 
+- [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) + [🅿](https://3d-diffuser-actor.github.io/)
 - [ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](https://arxiv.org/abs/2411.09942)
 - [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://arxiv.org/abs/2405.07391) + [🅿](https://maxyang27896.github.io/anyrotate/)
 - [ASID: Active Exploration for System Identification in Robotic Manipulation](https://openreview.net/forum?id=jNR6s6OSBT)
@@ -71,6 +74,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [STEER: Flexible Robotic Manipulation via Dense Language Grounding](https://arxiv.org/abs/2411.03409)
 - [TacEx: GelSight Tactile Simulation in Isaac Sim - Combining Soft-Body and Visuotactile Simulators](https://arxiv.org/abs/2411.04776)
 - [TacSL: A Library for Visuotactile Sensor Simulation and Learning](https://arxiv.org/abs/2408.06506)
+- [THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation](https://arxiv.org/abs/2402.08191) + [🅿](https://robot-colosseum.github.io/)
 - [The Role of Action Abstractions in Robot Manipulation Learning and Sim-to-Real Transfer](https://openreview.net/pdf?id=oDKc2H00ok)
 - [Towards Tight Convex Relaxations for Contact-Rich Manipulation](https://arxiv.org/abs/2402.10312) + [🅿](https://bernhardgraesdal.com/rss24-towards-tight-convex-relaxations/)
 - [Twisting Lids Off with Two Hands](https://arxiv.org/abs/2403.02338)
