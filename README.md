@@ -9,7 +9,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ---
 
-# Platforms
+# Platforms ⚙️
 
 | End Effectors             | Arms                |
 |------------------------------------------------------------|-------------------------------------------------------------|
@@ -19,7 +19,7 @@ This curation covers a wide range of robotic manipulation tasks.
 | - [Leap Hand](https://arxiv.org/abs/2309.06440)            |                                                             |
 
 
-# Papers
+# Papers 📑
 
 <details>
 <summary><b>2025</b></summary>
@@ -134,7 +134,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details>
-<summary><b>~2019</b></summary>
+<summary><b>~ 2019</b></summary>
 
 - [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
@@ -143,5 +143,20 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ---
 
-# Github
+# Github 💻
 
+<details>
+<summary><b>Repositories</b></summary>
+
+- [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/j96w-DexCap-black?style=flat-square&logo=github)](https://github.com/j96w/DexCap) <img src="https://img.shields.io/github/stars/j96w/DexCap?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/linchangyi1-Awesome--Touch-black?style=flat-square&logo=github)](https://github.com/linchangyi1/Awesome-Touch) <img src="https://img.shields.io/github/stars/linchangyi1/Awesome-Touch?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVlabs-sim--web--visualizer-black?style=flat-square&logo=github)](https://github.com/NVlabs/sim-web-visualizer) <img src="https://img.shields.io/github/stars/NVlabs/sim-web-visualizer?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/PKU--MARL-DexterousHands-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/rhett--chen-Robotic--grasping--papers-black?style=flat-square&logo=github)](https://github.com/rhett-chen/Robotic-grasping-papers) <img src="https://img.shields.io/github/stars/rhett-chen/Robotic-grasping-papers?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robot--colosseum-robot--colosseum-black?style=flat-square&logo=github)](https://github.com/robot-colosseum/robot-colosseum) <img src="https://img.shields.io/github/stars/robot-colosseum/robot-colosseum?style=flat-square&color=yellow">
+
+</details>
