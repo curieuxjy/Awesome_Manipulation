@@ -56,7 +56,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation](https://arxiv.org/abs/2411.18369)
 - [Grasp Multiple Objects with One Hand](https://arxiv.org/abs/2310.15599)
 - [Grasping Diverse Objects with Simulated Humanoids](https://yzhu.io/publication/grasp2024ral/paper.pdf) [➕](https://www.zhengyiluo.com/Omnigrasp-Site/)
-- [Hand-Object Interaction Pretraining from Videos](https://arxiv.org/abs/2409.08273)
+- [Hand-Object Interaction Pretraining from Videos](https://arxiv.org/abs/2409.08273) [➕](https://hgaurav2k.github.io/hop/)
 - [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://arxiv.org/abs/2411.12633) [➕](https://www.robot-learning.uk/instant-policy)
 - [Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations](https://arxiv.org/abs/2402.04820)
 - [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834) [➕](https://aidx-lab.org/manipulation/iros24)
