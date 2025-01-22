@@ -135,6 +135,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [A Long Horizon Planning Framework for Manipulating Rigid Pointcloud Objects](https://arxiv.org/abs/2011.08177) [➕](https://anthonysimeonov.github.io/rpo-planning-framework/)
 - [Cable Manipulation with a Tactile-Reactive Gripper](https://arxiv.org/abs/1910.02860) [➕](http://gelsight.csail.mit.edu/cable/)
 - [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://arxiv.org/abs/2005.14679)
+- [Precise and realistic grasping and manipulation in Virtual Reality without force feedback](https://ieeexplore.ieee.org/document/9089499)
 - [TACTO: A Fast, Flexible and Open-source Simulator for High-Resolution Vision-based Tactile Sensors](https://arxiv.org/abs/2012.08456)
 </details>
 
