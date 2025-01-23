@@ -56,6 +56,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation](https://arxiv.org/abs/2411.18369)
 - [Grasp Multiple Objects with One Hand](https://arxiv.org/abs/2310.15599)
 - [Grasping Diverse Objects with Simulated Humanoids](https://yzhu.io/publication/grasp2024ral/paper.pdf) [➕](https://www.zhengyiluo.com/Omnigrasp-Site/)
+- [GraspXL: Generating Grasping Motions for Diverse Objects at Scale](https://arxiv.org/abs/2403.19649) [➕](https://eth-ait.github.io/graspxl/)
 - [Hand-Object Interaction Pretraining from Videos](https://arxiv.org/abs/2409.08273) [➕](https://hgaurav2k.github.io/hop/)
 - [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://arxiv.org/abs/2411.12633) [➕](https://www.robot-learning.uk/instant-policy)
 - [Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations](https://arxiv.org/abs/2402.04820)
@@ -164,5 +165,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/PKU--MARL-DexterousHands-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/rhett--chen-Robotic--grasping--papers-black?style=flat-square&logo=github)](https://github.com/rhett-chen/Robotic-grasping-papers) <img src="https://img.shields.io/github/stars/rhett-chen/Robotic-grasping-papers?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--colosseum-robot--colosseum-black?style=flat-square&logo=github)](https://github.com/robot-colosseum/robot-colosseum) <img src="https://img.shields.io/github/stars/robot-colosseum/robot-colosseum?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 
 </details>
