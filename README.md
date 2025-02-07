@@ -5,7 +5,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 **Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Manipulation/issues) or [discussions](https://github.com/curieuxjy/Awesome_Manipulation/discussions) to me if there are any corrections or errors.**
 
-![](./asset/main.png)
+![](./asset/intro.png)
 
 ---
 
@@ -13,10 +13,11 @@ This curation covers a wide range of robotic manipulation tasks.
 
 | End Effectors             | Arms                |
 |------------------------------------------------------------|-------------------------------------------------------------|
-| - [Allegro Hand](https://www.allegrohand.com/)             | - [Franka](https://franka.de/)                              |
-| - [DG-5F](https://en.tesollo.com/DG-5F)                    | - [UR](https://www.universal-robots.com/)                   |
-| - [DLR Hand](https://ieeexplore.ieee.org/document/932538/) |                                                             |
-| - [Leap Hand](https://arxiv.org/abs/2309.06440)            |                                                             |
+| [Allegro Hand](https://www.allegrohand.com/)  | [Franka](https://franka.de/)             |
+| [DG-5F](https://en.tesollo.com/DG-5F)                    | [UR](https://www.universal-robots.com/)   |
+| [DLR Hand](https://ieeexplore.ieee.org/document/932538/) | [Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)                      |
+| [Leap Hand](https://arxiv.org/abs/2309.06440)     | [Ufactory](https://www.ufactory.us/xarm)                             |
+| [Shadow hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
 
 
 # Papers 📑
@@ -118,6 +119,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) [➕](http://tactilesim.csail.mit.edu/)
 - [Factory: Fast Contact for Robotic Assembly](https://arxiv.org/abs/2205.03532) [➕](https://sites.google.com/nvidia.com/factory)
 - [In-Hand Object Rotation via Rapid Motor Adaptation](https://arxiv.org/abs/2210.04887)
+- [Tactile Gym 2.0: Sim-to-real Deep Reinforcement Learning for Comparing Low-cost High-Resolution Robot Touch](https://arxiv.org/abs/2207.10763)
 
 </details>
 
