@@ -25,8 +25,15 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+- [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) + [➕](https://dexmots.github.io/)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
+- [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Learning to Transfer Human Hand Skills for Robot Manipulations](https://arxiv.org/abs/2501.04169) [➕](https://rureadyo.github.io/MocapRobot/)
+- [Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools](https://arxiv.org/abs/2311.02787)
+- [MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress](https://arxiv.org/abs/2502.02753)
+- [Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](https://arxiv.org/abs/2502.02853)
+- [When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning](https://arxiv.org/abs/2502.03270)
+- [ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking](https://arxiv.org/abs/2502.01004)
 
 </details>
 
@@ -101,6 +108,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System](https://arxiv.org/abs/2307.04577) [➕](https://yzqin.github.io/anyteleop/)
 - [Contact Edit: Artist Tools for Intuitive Modeling of Hand-Object Interactions](https://arxiv.org/abs/2305.02051)
+- [DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics](https://arxiv.org/abs/2304.03223) + [➕](https://sites.google.com/view/dexdeform)
 - [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979)
 - [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) [➕](http://tactilesim.csail.mit.edu/)
 - [IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality](https://arxiv.org/abs/2305.17110) [➕](https://sites.google.com/nvidia.com/industreal)
@@ -150,6 +158,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
+- [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
 
 </details>
 
