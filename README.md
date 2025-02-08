@@ -25,6 +25,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+- [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
 - [Learning to Transfer Human Hand Skills for Robot Manipulations](https://arxiv.org/abs/2501.04169) [➕](https://rureadyo.github.io/MocapRobot/)
 
 </details>
