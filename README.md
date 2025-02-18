@@ -25,6 +25,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+- [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) + [➕](https://dexmots.github.io/)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
