@@ -9,18 +9,17 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ---
 
-# Platforms ⚙️
+# Good to Start 🤓
+- [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
+- [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
+- [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
+- [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
+- [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)
 
-| End Effectors             | Arms                |
-|------------------------------------------------------------|-------------------------------------------------------------|
-| [Allegro Hand](https://www.allegrohand.com/)  | [Franka](https://franka.de/)             |
-| [DG-5F](https://en.tesollo.com/DG-5F)                    | [UR](https://www.universal-robots.com/)   |
-| [DLR Hand](https://ieeexplore.ieee.org/document/932538/) | [Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)                      |
-| [Leap Hand](https://arxiv.org/abs/2309.06440)     | [Ufactory](https://www.ufactory.us/xarm)                             |
-| [Shadow hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
-
+---
 
 # Papers 📑
+> 🔤 The items below are in alphabetical order.
 
 <details>
 <summary><b>2025</b></summary>
@@ -196,3 +195,17 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 
 </details>
+
+---
+
+# Platforms 🦾
+
+| End Effectors             | Arms                |
+|------------------------------------------------------------|-------------------------------------------------------------|
+| [Allegro Hand](https://www.allegrohand.com/)  | [Franka](https://franka.de/)             |
+| [DG-5F](https://en.tesollo.com/DG-5F)                    | [UR](https://www.universal-robots.com/)   |
+| [DLR Hand](https://ieeexplore.ieee.org/document/932538/) | [Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)                      |
+| [Leap Hand](https://arxiv.org/abs/2309.06440)     | [Ufactory](https://www.ufactory.us/xarm)                             |
+| [Shadow hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
+
+
