@@ -10,11 +10,11 @@ This curation covers a wide range of robotic manipulation tasks.
 ---
 
 # Good to Start 🤓
-- [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
-- [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
-- [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
+- [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
 - [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)
+- [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
+- [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
 
 ---
 
@@ -117,6 +117,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2023</b></summary>
 
+- [A Model-Free Approach to Fingertip Slip and Disturbance Detection for Grasp Stability Inference](https://ieeexplore.ieee.org/document/10364337/)
 - [AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System](https://arxiv.org/abs/2307.04577) [➕](https://yzqin.github.io/anyteleop/)
 - [Contact Edit: Artist Tools for Intuitive Modeling of Hand-Object Interactions](https://arxiv.org/abs/2305.02051)
 - [Deep Reinforcement Learning of Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping](https://arxiv.org/abs/2307.16752)
@@ -185,6 +186,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_playground/) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/j96w-DexCap-black?style=flat-square&logo=github)](https://github.com/j96w/DexCap) <img src="https://img.shields.io/github/stars/j96w/DexCap?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/kevinzakka-mink-black?style=flat-square&logo=github)](https://github.com/kevinzakka/mink) <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/linchangyi1-Awesome--Touch-black?style=flat-square&logo=github)](https://github.com/linchangyi1/Awesome-Touch) <img src="https://img.shields.io/github/stars/linchangyi1/Awesome-Touch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow">
@@ -207,6 +209,5 @@ This curation covers a wide range of robotic manipulation tasks.
 | [DG-5F](https://en.tesollo.com/DG-5F)                    | [UR](https://www.universal-robots.com/)   |
 | [DLR Hand](https://ieeexplore.ieee.org/document/932538/) | [Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)                      |
 | [Leap Hand](https://arxiv.org/abs/2309.06440)     | [Ufactory](https://www.ufactory.us/xarm)                             |
-| [Shadow hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
-
-
+| [Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
+| [RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) ||
