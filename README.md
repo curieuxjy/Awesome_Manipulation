@@ -61,6 +61,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries](https://arxiv.org/abs/2407.08028) [➕](https://bingjietang718.github.io/automate/)
 - [Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning](https://openreview.net/pdf/d04a076c1b1b0e51cf759c1e124928c58b22657e.pdf) [➕](https://avoid-everything.github.io/)
 - [Behavior Generation with Latent Actions](https://arxiv.org/abs/2403.03181) [➕](https://sjlee.cc/vq-bet/)
+- [Bimanual Dexterity for Complex Tasks](https://arxiv.org/abs/2411.13677) [➕](https://bidex-teleop.github.io/)
 - [Bridging the Resource Gap: Deploying Advanced Imitation Learning Models onto Affordable Embedded Platforms](https://arxiv.org/abs/2411.11406)
 - [CHG-DAgger: Interactive Imitation Learning with Human-Policy Cooperative Control](https://openreview.net/pdf?id=nWiHRy3ZXy)
 - [ClevrSkills: Compositional Language and Visual Reasoning in Robotics](https://arxiv.org/abs/2411.09052)
