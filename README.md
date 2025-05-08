@@ -34,6 +34,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664)
+- [Learning Gentle Grasping Using Vision, Sound, and Touch](https://arxiv.org/abs/2503.07926) [➕](https://lasr.org/research/gentle-grasping)
+- [Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481) [➕](https://lasr.org/research/learning-to-play-piano)
 - [Learning to Transfer Human Hand Skills for Robot Manipulations](https://arxiv.org/abs/2501.04169) [➕](https://rureadyo.github.io/MocapRobot/)
 - [Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools](https://arxiv.org/abs/2311.02787)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
