@@ -166,6 +166,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [ReSkin: versatile, replaceable, lasting tactile skins](https://arxiv.org/abs/2111.00071) [➕](https://reskin.dev/)
 - [STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation](https://arxiv.org/abs/2104.13542)
 - [Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry](https://arxiv.org/abs/2104.01167) [➕](https://sites.google.com/view/tactileinsertion)
+- [Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design](https://arxiv.org/pdf/2012.10981)
 
 </details>
 
