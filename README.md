@@ -28,8 +28,10 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
 - [Development of a Five-Fingerd Biomimetic Soft Robotic Hand by 3D Printing the Skin and Skeleton as One Unit](https://arxiv.org/abs/2503.00789v1)
+- [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083)
 - [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) [➕](https://dexmots.github.io/)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
+- [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515)
 - [Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping: Deep Reinforcement Learning and Grasp Representations](https://doi.org/10.1109/TASE.2025.3541768)
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.07730v1) [➕](https://do-glove.github.io/)
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
@@ -187,6 +189,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
+- [Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation](https://arxiv.org/abs/1810.01845)
 
 </details>
 
