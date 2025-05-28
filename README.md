@@ -24,6 +24,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+- [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](https://arxiv.org/abs/2502.07645)
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
