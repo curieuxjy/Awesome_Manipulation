@@ -1,7 +1,7 @@
 # Awesome_Manipulation
 
 This curation covers a wide range of robotic manipulation tasks. 
-> #Gripper #Dexterous #Motion_Generation #Task_Planning #Grasp_Synthesis
+> #Gripper #Dexterous #Motion_Generation #Tactile_Sensors #Task_Planning #Grasp_Synthesis #Learning_Methods
 
 **Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Manipulation/issues) or [discussions](https://github.com/curieuxjy/Awesome_Manipulation/discussions) to me if there are any corrections or errors.**
 
@@ -24,7 +24,6 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
-- [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](https://arxiv.org/abs/2502.07645)
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
@@ -34,6 +33,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
 - [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515)
 - [Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping: Deep Reinforcement Learning and Grasp Representations](https://doi.org/10.1109/TASE.2025.3541768)
+- [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.07730v1) [➕](https://do-glove.github.io/)
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
@@ -49,6 +49,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation](https://arxiv.org/abs/2502.09389v2)
 - [SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation](https://arxiv.org/abs/2501.18564)
 - [Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](https://arxiv.org/abs/2502.01071)
+- [Self-supervised perception for tactile skin covered dexterous hands](https://arxiv.org/abs/2505.11420)
 - [SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation](https://arxiv.org/abs/2501.14400)
 - [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105)
 - [When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning](https://arxiv.org/abs/2502.03270)
@@ -188,6 +189,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <summary><b>~ 2019</b></summary>
 
 - [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
+- [A modular, distributed, soft, 3-axis sensor system for robot hands](https://www.researchgate.net/publication/312316362_A_modular_distributed_soft_3-axis_sensor_system_for_robot_hands)
+- [Covering a Robot Fingertip with uSkin: a Soft Electronic Skin with Distributed 3-axis Force Sensitive Elements for Robot Hands](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/28528/Jamone%20Covering%20a%20Robot%202017%20Accepted.pdf;jsessionid=7C1C26BC085D1D790F5EF4D2F9099FB7?sequence=1)
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
 - [Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation](https://arxiv.org/abs/1810.01845)
