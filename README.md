@@ -106,6 +106,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer](https://arxiv.org/abs/2312.03673)
 - [PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments](https://arxiv.org/abs/2404.03634) [➕](https://air-discover.github.io/PreAfford/)
 - [RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/abs/2402.13853)
+- [ResPilot: Teleoperated Finger Gaiting via Gaussian Process Residual Learning](https://arxiv.org/abs/2409.09140)
 - [RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective](https://arxiv.org/abs/2404.12281) [➕](https://rise-policy.github.io/)
 - [Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing](https://arxiv.org/abs/2312.01853) [➕](https://yingyuan0414.github.io/visuotactile/)
 - [Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets](https://arxiv.org/abs/2410.22325) [➕](https://robots-pretrain-robots.github.io/)
@@ -158,7 +159,9 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) [➕](http://tactilesim.csail.mit.edu/)
 - [Factory: Fast Contact for Robotic Assembly](https://arxiv.org/abs/2205.03532) [➕](https://sites.google.com/nvidia.com/factory)
+- [Human to Robot Hand Motion Mapping Methods: Review and Classification](https://ieeexplore.ieee.org/document/9896989)
 - [In-Hand Object Rotation via Rapid Motor Adaptation](https://arxiv.org/abs/2210.04887)
+- [Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube](https://arxiv.org/abs/2202.10448)
 - [Tactile Gym 2.0: Sim-to-real Deep Reinforcement Learning for Comparing Low-cost High-Resolution Robot Touch](https://arxiv.org/abs/2207.10763)
 
 </details>
@@ -191,6 +194,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [A grasp strategy with the geometric centroid of a groped object shape derived from contact spots](https://ieeexplore.ieee.org/document/6225379)
 - [A modular, distributed, soft, 3-axis sensor system for robot hands](https://www.researchgate.net/publication/312316362_A_modular_distributed_soft_3-axis_sensor_system_for_robot_hands)
 - [Covering a Robot Fingertip with uSkin: a Soft Electronic Skin with Distributed 3-axis Force Sensitive Elements for Robot Hands](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/28528/Jamone%20Covering%20a%20Robot%202017%20Accepted.pdf;jsessionid=7C1C26BC085D1D790F5EF4D2F9099FB7?sequence=1)
+- [DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System](https://arxiv.org/abs/1910.03135)
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
 - [Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation](https://arxiv.org/abs/1810.01845)
