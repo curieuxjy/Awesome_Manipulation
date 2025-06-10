@@ -208,7 +208,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>Repositories</b></summary>
 
-- [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/dexsuite-dex--urdf-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-urdf) <img src="https://img.shields.io/github/stars/dexsuite/dex-urdf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_playground/) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/j96w-DexCap-black?style=flat-square&logo=github)](https://github.com/j96w/DexCap) <img src="https://img.shields.io/github/stars/j96w/DexCap?style=flat-square&color=yellow">
