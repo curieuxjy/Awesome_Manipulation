@@ -221,7 +221,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/rhett--chen-Robotic--grasping--papers-black?style=flat-square&logo=github)](https://github.com/rhett-chen/Robotic-grasping-papers) <img src="https://img.shields.io/github/stars/rhett-chen/Robotic-grasping-papers?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--colosseum-robot--colosseum-black?style=flat-square&logo=github)](https://github.com/robot-colosseum/robot-colosseum) <img src="https://img.shields.io/github/stars/robot-colosseum/robot-colosseum?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/sam2act-SAM2Act-black?style=flat-square&logo=github)](https://github.com/sam2act/SAM2Act) <img src="https://img.shields.io/github/stars/sam2act/SAM2Act?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/xinghaochen-awesome--hand--pose--estimation-black?style=flat-square&logo=github)](https://github.com/xinghaochen/awesome-hand-pose-estimation) <img src="https://img.shields.io/github/stars/xinghaochen/awesome-hand-pose-estimation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
+
 
 </details>
 
