@@ -5,7 +5,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 **Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Manipulation/issues) or [discussions](https://github.com/curieuxjy/Awesome_Manipulation/discussions) to me if there are any corrections or errors.**
 
-![](./asset/intro.png)
+![](./asset/main.png)
 
 ---
 
