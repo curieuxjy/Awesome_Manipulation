@@ -246,6 +246,13 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/HaozhiQi-hora-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/hora) <img src="https://img.shields.io/github/stars/HaozhiQi/hora?style=flat-square&color=yellow">
 
+<b>Gripper Grasp generation</b>
+
+- [![](https://img.shields.io/badge/nvidia-PhysicalAI--Robotics--GraspGen-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GraspGen) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/nvidia/PhysicalAI-Robotics-GraspGen&query=$.downloads&label=Downloads&logo=huggingface&color=orange)
+- [![](https://img.shields.io/badge/boschresearch-mj--grasp--sim-black?style=flat-square&logo=github)](https://github.com/boschresearch/mj-grasp-sim) <img src="https://img.shields.io/github/stars/boschresearch/mj-grasp-sim?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/IRVLUTD-neuralgrasps--dataset--generation-black?style=flat-square&logo=github)](https://github.com/IRVLUTD/neuralgrasps-dataset-generation/tree/multigrippergrasp) <img src="https://img.shields.io/github/stars/IRVLUTD/neuralgrasps-dataset-generation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/graspnet-anygrasp_sdk-black?style=flat-square&logo=github)](https://github.com/graspnet/anygrasp_sdk) <img src="https://img.shields.io/github/stars/graspnet/anygrasp_sdk?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
 </details>
 
 ---
