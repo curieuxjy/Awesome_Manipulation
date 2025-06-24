@@ -240,7 +240,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/SeanChenxy-Hand3DResearch-black?style=flat-square&logo=github)](https://github.com/SeanChenxy/Hand3DResearch) <img src="https://img.shields.io/github/stars/SeanChenxy/Hand3DResearch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/HaozhiQi-hora-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/hora) <img src="https://img.shields.io/github/stars/HaozhiQi/hora?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/UM--ARM--Lab-MultiFingerTrajOpt-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/MultiFingerTrajOpt) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/MultiFingerTrajOpt?style=flat-square&color=yellow">
 
 <b>Gripper Grasp generation</b>
 
@@ -270,7 +269,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/adubredu-KinodynamicFabrics.jl-black?style=flat-square&logo=github)](https://github.com/adubredu/KinodynamicFabrics.jl) <img src="https://img.shields.io/github/stars/adubredu/KinodynamicFabrics.jl?style=flat-square&color=yellow">
 
 <b>Training-free in-hand manipulation</b>
-
+- [![](https://img.shields.io/badge/UM--ARM--Lab-MultiFingerTrajOpt-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/MultiFingerTrajOpt) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/MultiFingerTrajOpt?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Director--of--G-in_hand_manipulation_2-black?style=flat-square&logo=github)](https://github.com/Director-of-G/in_hand_manipulation_2) <img src="https://img.shields.io/github/stars/Director-of-G/in_hand_manipulation_2?style=flat-square&color=yellow">
@@ -278,6 +277,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/PatrizioPerugini-Probabilistic_prehensile_pushing-black?style=flat-square&logo=github)](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing) <img src="https://img.shields.io/github/stars/PatrizioPerugini/Probabilistic_prehensile_pushing?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/jsll-MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robot--learning-in_hand_manipulation-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/in_hand_manipulation)
+- [![](https://img.shields.io/badge/robot--learning-relaxed_rigidity_in_grasp-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/relaxed_rigidity_in_grasp) [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
 
 <b>Sampling-based MPC</b>
 
