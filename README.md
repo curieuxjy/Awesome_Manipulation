@@ -209,7 +209,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Integration of recognition and planning for robot hand grasping](https://ieeexplore.ieee.org/document/6677505)
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087)
 - [Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation](https://arxiv.org/abs/1810.01845)
-
+- [Relaxed-Rigidity Constraints: In-Grasp Manipulation using Purely Kinematic Trajectory Optimization}](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
 </details>
 
 ---
@@ -269,6 +269,16 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/riddhiman13-predictive--multi--agent--framework-black?style=flat-square&logo=github)](https://github.com/riddhiman13/predictive-multi-agent-framework) <img src="https://img.shields.io/github/stars/riddhiman13/predictive-multi-agent-framework?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/adubredu-KinodynamicFabrics.jl-black?style=flat-square&logo=github)](https://github.com/adubredu/KinodynamicFabrics.jl) <img src="https://img.shields.io/github/stars/adubredu/KinodynamicFabrics.jl?style=flat-square&color=yellow">
 
+<b>Training-free in-hand manipulation</b>
+
+- [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Director--of--G-in_hand_manipulation_2-black?style=flat-square&logo=github)](https://github.com/Director-of-G/in_hand_manipulation_2) <img src="https://img.shields.io/github/stars/Director-of-G/in_hand_manipulation_2?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RGMC--XL--team-ingrasp_manipulation-black?style=flat-square&logo=github)](https://github.com/RGMC-XL-team/ingrasp_manipulation) <img src="https://img.shields.io/github/stars/RGMC-XL-team/ingrasp_manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/PatrizioPerugini-Probabilistic_prehensile_pushing-black?style=flat-square&logo=github)](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing) <img src="https://img.shields.io/github/stars/PatrizioPerugini/Probabilistic_prehensile_pushing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/jsll-MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
+
 <b>Sampling-based MPC</b>
 
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_mpc) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow">
@@ -288,3 +298,4 @@ This curation covers a wide range of robotic manipulation tasks.
 | [Leap Hand](https://arxiv.org/abs/2309.06440)     | [Ufactory](https://www.ufactory.us/xarm)                             |
 | [Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series/)  | [Kinova](https://www.kinovarobotics.com/)                                |
 | [RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) | [Kuka](https://www.kuka.com)|
+| | [Doosan](https://www.doosanrobotics.com) - [MJCF](https://github.com/KisangPark/mujoco_practice)|
