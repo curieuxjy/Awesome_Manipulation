@@ -219,7 +219,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>Repositories</b></summary>
 
-- [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/MIT--Manipulation-gray?style=flat-square)](https://manipulation.csail.mit.edu)
 - [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/pinocchio) <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--urdf-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-urdf) <img src="https://img.shields.io/github/stars/dexsuite/dex-urdf?style=flat-square&color=yellow">
