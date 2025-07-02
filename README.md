@@ -34,6 +34,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) [➕](https://dexmots.github.io/)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
 - [Dexterous Contact-Rich Manipulation via the Contact Trust Region](https://www.arxiv.org/abs/2505.02291)
+- [Dexterous hand towards intelligent manufacturing: A review of technologies, trends, and potential applications](https://www.researchgate.net/publication/390403129_Dexterous_hand_towards_intelligent_manufacturing_A_review_of_technologies_trends_and_potential_applications)
 - [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515)
 - [Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping: Deep Reinforcement Learning and Grasp Representations](https://doi.org/10.1109/TASE.2025.3541768)
 - [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
