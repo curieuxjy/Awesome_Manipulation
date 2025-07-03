@@ -62,6 +62,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](https://arxiv.org/abs/2502.01071)
 - [Self-supervised perception for tactile skin covered dexterous hands](https://arxiv.org/abs/2505.11420)
 - [SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation](https://arxiv.org/abs/2501.14400)
+- [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/abs/2506.13762)
 - [Training Strategies for Efficient Embodied Reasoning](https://arxiv.org/abs/2505.08243)
 - [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105)
 - [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/pdf/2505.18719)
