@@ -307,9 +307,11 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>Collision avoidance</b>
 - [![](https://img.shields.io/badge/adubredu-KinodynamicFabrics.jl-black?style=flat-square&logo=github)](https://github.com/adubredu/KinodynamicFabrics.jl) <img src="https://img.shields.io/github/stars/adubredu/KinodynamicFabrics.jl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/CoMMALab-foam-black?style=flat-square&logo=github)](https://github.com/CoMMALab/foam) <img src="https://img.shields.io/github/stars/CoMMALab/foam?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/riddhiman13-predictive--multi--agent--framework-black?style=flat-square&logo=github)](https://github.com/riddhiman13/predictive-multi-agent-framework) <img src="https://img.shields.io/github/stars/riddhiman13/predictive-multi-agent-framework?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tud--amr-fabrics-black?style=flat-square&logo=github)](https://github.com/tud-amr/fabrics) <img src="https://img.shields.io/github/stars/tud-amr/fabrics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_volumetric-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_volumetric) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_volumetric?style=flat-square&color=yellow">
 
 <b>Training-free in-hand manipulation</b>
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
