@@ -358,7 +358,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/vincekurtz-passivity_cbf_demo-black?style=flat-square&logo=github)](https://github.com/vincekurtz/passivity_cbf_demo) <img src="https://img.shields.io/github/stars/vincekurtz/passivity_cbf_demo?style=flat-square&color=yellow">
 
 <b>Optimal control</b>
+- [![](https://img.shields.io/badge/acados-acados-black?style=flat-square&logo=github)](https://github.com/acados/acados) <img src="https://img.shields.io/github/stars/acados/acados?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google-trajax-black?style=flat-square&logo=github)](https://github.com/google/trajax) <img src="https://img.shields.io/github/stars/google/trajax?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ICube--Robotics-acados_solver_ros2-black?style=flat-square&logo=github)](https://github.com/ICube-Robotics/acados_solver_ros2) <img src="https://img.shields.io/github/stars/ICube-Robotics/acados_solver_ros2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Simple--Robotics-aligator-black?style=flat-square&logo=github)](https://github.com/Simple-Robotics/aligator) <img src="https://img.shields.io/github/stars/Simple-Robotics/aligator?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stack--of--tasks-tsid-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/tsid) <img src="https://img.shields.io/github/stars/stack-of-tasks/tsid?style=flat-square&color=yellow">
 
