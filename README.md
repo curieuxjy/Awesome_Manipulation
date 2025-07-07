@@ -307,6 +307,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Planning - FK - IK</b>
 - [![](https://img.shields.io/badge/ALRhub-MP_PyTorch-black?style=flat-square&logo=github)](https://github.com/ALRhub/MP_PyTorch) <img src="https://img.shields.io/github/stars/ALRhub/MP_PyTorch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/based--robotics-mjinx-black?style=flat-square&logo=github)](https://github.com/based-robotics/mjinx) <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chungmin99-pyroki-black?style=flat-square&logo=github)](https://github.com/chungmin99/pyroki) <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dfki--ric-movement_primitives-black?style=flat-square&logo=github)](https://github.com/dfki-ric/movement_primitives) <img src="https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kevinzakka-mink-black?style=flat-square&logo=github)](https://github.com/kevinzakka/mink) <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
