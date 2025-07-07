@@ -349,7 +349,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>Control</b>
 - [![](https://img.shields.io/badge/abr-abr_control-black?style=flat-square&logo=github)](https://github.com/abr/abr_control) <img src="https://img.shields.io/github/stars/abr/abr_control?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/DQ--Robotics-lightblue?style=flat-square)](https://github.com/dqrobotics)
+- [![](https://img.shields.io/badge/DQ--Robotics-lightblue?style=flat-square)](https://dqrobotics.github.io) [![](https://img.shields.io/badge/dqrobotics-gray?style=flat-square&logo=github)](https://github.com/dqrobotics)
+- [![](https://img.shields.io/badge/EPFL-Learning--Adaptive--Reactive--Robot--Control-lightblue?style=flat-square)](https://learningadaptivereactiverobotcontrol.github.io/book-website.io) [![](https://img.shields.io/badge/learningadaptivereactiverobotcontrol-book--code-black?style=flat-square&logo=github)](https://github.com/learningadaptivereactiverobotcontrol/book-code) <img src="https://img.shields.io/github/stars/learningadaptivereactiverobotcontrol/book-code?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-dm_robotics-black?style=flat-square&logo=github)](https://github.com/google-deepmind/dm_robotics) <img src="https://img.shields.io/github/stars/google-deepmind/dm_robotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kevinzakka-mjctrl-black?style=flat-square&logo=github)](https://github.com/kevinzakka/mjctrl) <img src="https://img.shields.io/github/stars/kevinzakka/mjctrl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/machines--in--motion-mim_control-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/mim_control) <img src="https://img.shields.io/github/stars/machines-in-motion/mim_control?style=flat-square&color=yellow">
