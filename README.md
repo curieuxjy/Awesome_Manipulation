@@ -76,6 +76,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/abs/2506.13762)
 - [Training Strategies for Efficient Embodied Reasoning](https://arxiv.org/abs/2505.08243)
 - [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105)
+- [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953)
 - [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/pdf/2505.18719)
 - [What Matters for Batch Online Reinforcement Learning in Robotics?](https://arxiv.org/pdf/2505.08078)
 - [When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning](https://arxiv.org/abs/2502.03270)
