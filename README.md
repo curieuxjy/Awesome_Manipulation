@@ -19,6 +19,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
 - [Robotic Manipulation Perception, Planning, and Control, Russ Tedrake](https://manipulation.csail.mit.edu)
 - [Robotics Modelling, Planning and Control, Siciliano et al.](https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling,%20Planning%20and%20Control_Sciavicco_extract.pdf)
+- [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
 
 ## Surveys
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
@@ -337,6 +338,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/sea--bass-pyroboplan-black?style=flat-square&logo=github)](https://github.com/sea-bass/pyroboplan) <img src="https://img.shields.io/github/stars/sea-bass/pyroboplan?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stephane--caron-pink-black?style=flat-square&logo=github)](https://github.com/stephane-caron/pink) <img src="https://img.shields.io/github/stars/stephane-caron/pink?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tesseract--robotics-tesseract-black?style=flat-square&logo=github)](https://github.com/tesseract-robotics/tesseract) <img src="https://img.shields.io/github/stars/tesseract-robotics/tesseract?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/tesseract--robotics-trajopt-black?style=flat-square&logo=github)](https://github.com/tesseract-robotics/trajopt) <img src="https://img.shields.io/github/stars/tesseract-robotics/trajopt?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_kinematics-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_kinematics) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_kinematics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-ltl_gcs-black?style=flat-square&logo=github)](https://github.com/vincekurtz/ltl_gcs) <img src="https://img.shields.io/github/stars/vincekurtz/ltl_gcs?style=flat-square&color=yellow">
 
