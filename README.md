@@ -12,9 +12,9 @@ This curation covers a wide range of robotic manipulation tasks.
 # Good to Start 🤓
 
 ## Books/Tutorials
-- [A Math Cookbook for Robot Manipulation, Calinon](https://rcfs.ch/doc/rcfs.pdf)
+- [A Math Cookbook for Robot Manipulation, Calinon](https://dl.acm.org/doi/10.5555/561828)
 - [A Mathematical Introduction to Robotic Manipulation, Richard Murray](https://www.ce.cit.tum.de/fileadmin/w00cgn/rm/pdf/murray-li-sastry-94-complete.pdf)
-- [Introduction to Robotics: Mechanics and Control, John J. Craig](https://www.changjiangcai.com/files/text-books/Introduction-to-Robotics-3rd-edition.pdf)
+- [Introduction to Robotics: Mechanics and Control, John J. Craig](https://elibrary.pearson.de/book/99.150005/9781292164953)
 - [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 - [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
 - [Robotic Manipulation Perception, Planning, and Control, Russ Tedrake](https://manipulation.csail.mit.edu)
