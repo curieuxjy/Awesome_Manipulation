@@ -41,9 +41,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
 - [Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations](https://arxiv.org/pdf/2505.10760)
 - [Development of a Five-Fingerd Biomimetic Soft Robotic Hand by 3D Printing the Skin and Skeleton as One Unit](https://arxiv.org/abs/2503.00789)
+- [DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning](https://arxiv.org/abs/2505.00991)
 - [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083)
 - [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2503.08257)
 - [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) [➕](https://dexmots.github.io/)
+- [Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy](https://arxiv.org/abs/2504.18829)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
 - [Dexterous Contact-Rich Manipulation via the Contact Trust Region](https://www.arxiv.org/abs/2505.02291)
 - [Dexterous hand towards intelligent manufacturing: A review of technologies, trends, and potential applications](https://www.researchgate.net/publication/390403129_Dexterous_hand_towards_intelligent_manufacturing_A_review_of_technologies_trends_and_potential_applications)
@@ -55,6 +57,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Generative Artificial Intelligence in Robotic Manipulation: A Survey](https://arxiv.org/pdf/2503.03464)
 - [GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation](https://arxiv.org/pdf/2505.11865)
+- [Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges](https://arxiv.org/abs/2506.02489)
 - [Grounded Vision-Language Interpreter for Integrated Task and Motion Planning](https://arxiv.org/pdf/2506.03270)
 - [HOMER: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control](https://arxiv.org/pdf/2506.01185)
 - [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664)
@@ -76,6 +79,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation](https://arxiv.org/abs/2501.14400)
 - [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/abs/2506.13762)
 - [Training Strategies for Efficient Embodied Reasoning](https://arxiv.org/abs/2505.08243)
+- [TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types](https://arxiv.org/abs/2507.01857)
 - [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105)
 - [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953)
 - [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/pdf/2505.18719)
@@ -420,6 +424,15 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>- Bimanual/Dual-arm-hand learning</b>
 - [![](https://img.shields.io/badge/DexMachina-lightblue?style=flat-square)](https://project-dexmachina.github.io) [![](https://img.shields.io/badge/MandiZhao-dexmachina-black?style=flat-square&logo=github)](https://github.com/MandiZhao/dexmachina) <img src="https://img.shields.io/github/stars/MandiZhao/dexmachina?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ManipTrans-lightblue?style=flat-square)](https://maniptrans.github.io) [![](https://img.shields.io/badge/ManipTrans-ManipTrans-black?style=flat-square&logo=github)](https://github.com/ManipTrans/ManipTrans) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/LiKailin-DexManipNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/LiKailin/DexManipNet)
+
+</details>
+
+# Youtube 🎥
+
+<details>
+<summary><b>Videos</b></summary>
+
+- [Learning Meets Model-Based Methods for Contact-Rich Manipulation](https://youtu.be/jBvzCXBEK_M?si=ZuU29IFFs1BI_2dG)
 
 </details>
 
