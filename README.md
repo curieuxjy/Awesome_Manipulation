@@ -78,11 +78,13 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Self-supervised perception for tactile skin covered dexterous hands](https://arxiv.org/abs/2505.11420)
 - [SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation](https://arxiv.org/abs/2501.14400)
 - [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/abs/2506.13762)
+- [Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper](https://binghao-huang.github.io/touch_in_the_wild//Touch_in_the_Wild_arxiv.pdf)
 - [Training Strategies for Efficient Embodied Reasoning](https://arxiv.org/abs/2505.08243)
 - [TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types](https://arxiv.org/abs/2507.01857)
 - [Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105)
 - [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953)
 - [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/pdf/2505.18719)
+- [VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning](https://openreview.net/pdf?id=mV3W5givYb)
 - [What Matters for Batch Online Reinforcement Learning in Robotics?](https://arxiv.org/pdf/2505.08078)
 - [When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning](https://arxiv.org/abs/2502.03270)
 - [Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks](https://arxiv.org/pdf/2505.02915)
@@ -95,6 +97,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <summary><b>2024</b></summary>
 
 - [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) [➕](https://3d-diffuser-actor.github.io/)
+- [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://openreview.net/pdf?id=bk28WlkqZn)
 - [ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](https://arxiv.org/abs/2411.09942)
 - [AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch](https://arxiv.org/abs/2405.07391) [➕](https://maxyang27896.github.io/anyrotate/)
 - [AnySkin: Plug-and-play Skin Sensing for Robotic Touch](https://arxiv.org/abs/2409.08276)
