@@ -58,6 +58,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Generative Artificial Intelligence in Robotic Manipulation: A Survey](https://arxiv.org/pdf/2503.03464)
 - [GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation](https://arxiv.org/pdf/2505.11865)
 - [Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges](https://arxiv.org/abs/2506.02489)
+- [GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training](https://arxiv.org/abs/2507.13097)
 - [Grounded Vision-Language Interpreter for Integrated Task and Motion Planning](https://arxiv.org/pdf/2506.03270)
 - [HOMER: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control](https://arxiv.org/pdf/2506.01185)
 - [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664)
