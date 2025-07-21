@@ -445,9 +445,10 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Courses/Tutorials</b>
 - [Advanced Robotics, Fall 2019, Pieter Abbeel, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19)
 - [Control Bootcamp, Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF) 
 - [MATLAB Tech Talks](https://www.mathworks.com/videos/tech-talks.html)
 - [Robotic Manipulation, Fall 2023, Russ Tedrake, MIT](https://www.youtube.com/watch?v=v04rn86Dehg&list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX) - [Final Projects](https://www.youtube.com/playlist?list=PLkx8KyIQkMfXgWkN-4ary4u4E2-vMOIz9) - [Further](https://www.youtube.com/@underactuated5171/playlists)
-  
+
 <b>Contact-Rich Manipulation<b>
 - [ICRA 2025 Workshop: Beyond Pick and Place-Unifying Learning-Based and Model-Based Approaches for Contact-Rich Manipulation](https://drive.google.com/drive/folders/1bMc6_oi1Rz26poM5pERi6duVFcQWs9f2) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/Beyond_Pick_and_Place)
 - [ICRA 2025 Workshop: Learning Meets Model-Based Methods for Contact-Rich Manipulation](https://youtu.be/jBvzCXBEK_M?si=ZuU29IFFs1BI_2dG) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/CRM)
