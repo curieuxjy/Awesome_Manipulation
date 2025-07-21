@@ -18,9 +18,10 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 - [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
 - [Robotic Manipulation Perception, Planning, and Control, Russ Tedrake](https://manipulation.csail.mit.edu)
+- [Robotic Systems, Kris Hauser, University of Illinois](https://motion.cs.illinois.edu/RoboticSystems)
 - [Robotics Modelling, Planning and Control, Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
 - [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
-
+  
 ## Surveys
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
@@ -264,6 +265,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/BaiShuanghao-Awesome--Robotics--Manipulation-black?style=flat-square&logo=github)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) <img src="https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GeorgeDu-vision--based--robotic--grasping-black?style=flat-square&logo=github)](https://github.com/GeorgeDu/vision-based-robotic-grasping) <img src="https://img.shields.io/github/stars/GeorgeDu/vision-based-robotic-grasping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kingchou007-Awesome--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/kingchou007/Awesome-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/kingchou007/Awesome-Dexterous-Manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/krishauser-RoboticSystemsBook-black?style=flat-square&logo=github)](https://github.com/krishauser/RoboticSystemsBook) <img src="https://img.shields.io/github/stars/krishauser/RoboticSystemsBook?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/linchangyi1-Awesome--Touch-black?style=flat-square&logo=github)](https://github.com/linchangyi1/Awesome-Touch) <img src="https://img.shields.io/github/stars/linchangyi1/Awesome-Touch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NxRLab-ModernRobotics-black?style=flat-square&logo=github)](https://github.com/NxRLab/ModernRobotics) <img src="https://img.shields.io/github/stars/NxRLab/ModernRobotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/petercorke-robotics--toolbox--python-black?style=flat-square&logo=github)](https://github.com/petercorke/robotics-toolbox-python) <img src="https://img.shields.io/github/stars/petercorke/robotics-toolbox-python?style=flat-square&color=yellow">
@@ -440,6 +442,12 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>Videos</b></summary>
 
+<b>Courses/Tutorials</b>
+- [Advanced Robotics, Fall 2019, Pieter Abbeel, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19)
+- [Control Bootcamp, Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- [MATLAB Tech Talks](https://www.mathworks.com/videos/tech-talks.html)
+- [Robotic Manipulation, Fall 2023, Russ Tedrake, MIT](https://www.youtube.com/watch?v=v04rn86Dehg&list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX) - [Final Projects](https://www.youtube.com/playlist?list=PLkx8KyIQkMfXgWkN-4ary4u4E2-vMOIz9) - [Further](https://www.youtube.com/@underactuated5171/playlists)
+  
 <b>Contact-Rich Manipulation<b>
 - [ICRA 2025 Workshop: Beyond Pick and Place-Unifying Learning-Based and Model-Based Approaches for Contact-Rich Manipulation](https://drive.google.com/drive/folders/1bMc6_oi1Rz26poM5pERi6duVFcQWs9f2) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/Beyond_Pick_and_Place)
 - [ICRA 2025 Workshop: Learning Meets Model-Based Methods for Contact-Rich Manipulation](https://youtu.be/jBvzCXBEK_M?si=ZuU29IFFs1BI_2dG) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/CRM)
