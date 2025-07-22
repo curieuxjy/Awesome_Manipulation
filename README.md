@@ -294,6 +294,20 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Multi--Robot--Multi--Goal--Path--Planning-lightblue?style=flat-square)](https://vhartmann.com/mrmg-planning) [![](https://img.shields.io/badge/vhartman-multirobot--pathplanning--benchmark-black?style=flat-square&logo=github)](https://github.com/vhartman/multirobot-pathplanning-benchmark) <img src="https://img.shields.io/github/stars/vhartman/multirobot-pathplanning-benchmark?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboTwin-lightblue?style=flat-square)](https://robotwin-platform.github.io) [![](https://img.shields.io/badge/robotwin--Platform-RoboTwin-black?style=flat-square&logo=github)](https://github.com/robotwin-Platform/RoboTwin) <img src="https://img.shields.io/github/stars/robotwin-Platform/RoboTwin?style=flat-square&color=yellow">
 
+<b>Models</b>
+
+<b>- LLM-LAM-VLAM Surveys</b>
+- [![](https://img.shields.io/badge/AoqunJin-Awesome--VLA--Post--Training-black?style=flat-square&logo=github)](https://github.com/AoqunJin/Awesome-VLA-Post-Training) <img src="https://img.shields.io/github/stars/AoqunJin/Awesome-VLA-Post-Training?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/cheryyunl-awesome--generalist--agents-black?style=flat-square&logo=github)](https://github.com/cheryyunl/awesome-generalist-agents) <img src="https://img.shields.io/github/stars/cheryyunl/awesome-generalist-agents?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/GAI4Manipulation-AwesomeGAIManipulation-black?style=flat-square&logo=github)](https://github.com/GAI4Manipulation/AwesomeGAIManipulation) <img src="https://img.shields.io/github/stars/GAI4Manipulation/AwesomeGAIManipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/GT--RIPL-Awesome--LLM--Robotics-black?style=flat-square&logo=github)](https://github.com/GT-RIPL/Awesome-LLM-Robotics) <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Jiaaqiliu-Awesome--VLA--Robotics-black?style=flat-square&logo=github)](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) <img src="https://img.shields.io/github/stars/Jiaaqiliu/Awesome-VLA-Robotics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/jonyzhang2023-awesome--embodied--vla--va--vln-black?style=flat-square&logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) <img src="https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NJU3DV--LoongGroup-Embodied--World--Models--Survey-black?style=flat-square&logo=github)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) <img src="https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robotics--survey-Awesome--Robotics--Foundation--Models-black?style=flat-square&logo=github)](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) <img src="https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/XiaoWei--i-Awesome--VLA--RL-black?style=flat-square&logo=github)](https://github.com/XiaoWei-i/Awesome-VLA-RL) <img src="https://img.shields.io/github/stars/XiaoWei-i/Awesome-VLA-RL?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/yuanmingqi-awesome--bfm--papers-black?style=flat-square&logo=github)](https://github.com/yuanmingqi/awesome-bfm-papers) <img src="https://img.shields.io/github/stars/yuanmingqi/awesome-bfm-papers?style=flat-square&color=yellow">
+
 <b>Datasets</b>
 
 <b>- Manipulation Datasets</b>
