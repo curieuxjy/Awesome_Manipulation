@@ -250,6 +250,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>Repositories</b></summary>
 
+<b>GENERAL - UNSORTED</b>
 - [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--urdf-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-urdf) <img src="https://img.shields.io/github/stars/dexsuite/dex-urdf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
@@ -262,7 +263,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/sam2act-SAM2Act-black?style=flat-square&logo=github)](https://github.com/sam2act/SAM2Act) <img src="https://img.shields.io/github/stars/sam2act/SAM2Act?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
-<b>Tutorials/Surveys</b>
+<b>TUTORIALS - SURVEYS</b>
 
 - [![](https://img.shields.io/badge/BaiShuanghao-Awesome--Robotics--Manipulation-black?style=flat-square&logo=github)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) <img src="https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GeorgeDu-vision--based--robotic--grasping-black?style=flat-square&logo=github)](https://github.com/GeorgeDu/vision-based-robotic-grasping) <img src="https://img.shields.io/github/stars/GeorgeDu/vision-based-robotic-grasping?style=flat-square&color=yellow">
@@ -279,7 +280,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/xinghaochen-awesome--hand--pose--estimation-black?style=flat-square&logo=github)](https://github.com/xinghaochen/awesome-hand-pose-estimation) <img src="https://img.shields.io/github/stars/xinghaochen/awesome-hand-pose-estimation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/YanjieZe-Paper--List-black?style=flat-square&logo=github)](https://github.com/YanjieZe/Paper-List) <img src="https://img.shields.io/github/stars/YanjieZe/Paper-List?style=flat-square&color=yellow">
 
-<b>Benchmarks</b>
+<b>BENCHMARKS</b>
 - [![](https://img.shields.io/badge/BEHAVIOR--1K-lightblue?style=flat-square)](https://behavior.stanford.edu/behavior-1k) [![](https://img.shields.io/badge/StanfordVL-BEHAVIOR--1K-black?style=flat-square&logo=github)](https://github.com/StanfordVL/BEHAVIOR-1K) <img src="https://img.shields.io/github/stars/StanfordVL/BEHAVIOR-1K?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/BiGym-lightblue?style=flat-square)](https://chernyadev.github.io/bigym) [![](https://img.shields.io/badge/chernyadev-bigym-black?style=flat-square&logo=github)](https://github.com/chernyadev/bigym) <img src="https://img.shields.io/github/stars/chernyadev/bigym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Calvin-lightblue?style=flat-square)](http://calvin.cs.uni-freiburg.de) [![](https://img.shields.io/badge/mees-calvin-black?style=flat-square&logo=github)](https://github.com/mees/calvin) <img src="https://img.shields.io/github/stars/mees/calvin?style=flat-square&color=yellow">
@@ -294,9 +295,15 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Multi--Robot--Multi--Goal--Path--Planning-lightblue?style=flat-square)](https://vhartmann.com/mrmg-planning) [![](https://img.shields.io/badge/vhartman-multirobot--pathplanning--benchmark-black?style=flat-square&logo=github)](https://github.com/vhartman/multirobot-pathplanning-benchmark) <img src="https://img.shields.io/github/stars/vhartman/multirobot-pathplanning-benchmark?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboTwin-lightblue?style=flat-square)](https://robotwin-platform.github.io) [![](https://img.shields.io/badge/robotwin--Platform-RoboTwin-black?style=flat-square&logo=github)](https://github.com/robotwin-Platform/RoboTwin) <img src="https://img.shields.io/github/stars/robotwin-Platform/RoboTwin?style=flat-square&color=yellow">
 
-<b>Models</b>
+<b>LEARNING</b>
 
-<b>- LLM-LAM-VLAM Surveys</b>
+<b>- Learning: Bimanual/Dual-arm-hand</b>
+- [![](https://img.shields.io/badge/DexMachina-lightblue?style=flat-square)](https://project-dexmachina.github.io) [![](https://img.shields.io/badge/MandiZhao-dexmachina-black?style=flat-square&logo=github)](https://github.com/MandiZhao/dexmachina) <img src="https://img.shields.io/github/stars/MandiZhao/dexmachina?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ManipTrans-lightblue?style=flat-square)](https://maniptrans.github.io) [![](https://img.shields.io/badge/ManipTrans-ManipTrans-black?style=flat-square&logo=github)](https://github.com/ManipTrans/ManipTrans) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/LiKailin-DexManipNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/LiKailin/DexManipNet)
+
+<b>LEARNING - MODELS</b>
+
+<b>- Models: LLM-LAM-VLAM Surveys</b>
 - [![](https://img.shields.io/badge/AoqunJin-Awesome--VLA--Post--Training-black?style=flat-square&logo=github)](https://github.com/AoqunJin/Awesome-VLA-Post-Training) <img src="https://img.shields.io/github/stars/AoqunJin/Awesome-VLA-Post-Training?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/cheryyunl-awesome--generalist--agents-black?style=flat-square&logo=github)](https://github.com/cheryyunl/awesome-generalist-agents) <img src="https://img.shields.io/github/stars/cheryyunl/awesome-generalist-agents?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GAI4Manipulation-AwesomeGAIManipulation-black?style=flat-square&logo=github)](https://github.com/GAI4Manipulation/AwesomeGAIManipulation) <img src="https://img.shields.io/github/stars/GAI4Manipulation/AwesomeGAIManipulation?style=flat-square&color=yellow">
@@ -308,19 +315,19 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/XiaoWei--i-Awesome--VLA--RL-black?style=flat-square&logo=github)](https://github.com/XiaoWei-i/Awesome-VLA-RL) <img src="https://img.shields.io/github/stars/XiaoWei-i/Awesome-VLA-RL?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/yuanmingqi-awesome--bfm--papers-black?style=flat-square&logo=github)](https://github.com/yuanmingqi/awesome-bfm-papers) <img src="https://img.shields.io/github/stars/yuanmingqi/awesome-bfm-papers?style=flat-square&color=yellow">
 
-<b>Datasets</b>
+<b>LEARNING - DATASETS</b>
 
-<b>- Manipulation Datasets</b>
+<b>- Datasets: Manipulation</b>
 - [![](https://img.shields.io/badge/FastUMI-lightblue?style=flat-square)](https://fastumi.com) [![](https://img.shields.io/badge/IPEC--COMMUNITY-FastUMI--Data-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI-Data)
 - [![](https://img.shields.io/badge/huggingface-LeRobot-black?style=flat-square&logo=huggingface)](https://huggingface.co/lerobot) [![](https://img.shields.io/badge/huggingface-lerobot-black?style=flat-square&logo=github)](https://github.com/huggingface/lerobot) <img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Open--X--Embodiment-lightblue?style=flat-square)](https://robotics-transformer-x.github.io) [![](https://img.shields.io/badge/google--deepmind-open_x_embodiment-black?style=flat-square&logo=github)](https://github.com/google-deepmind/open_x_embodiment) <img src="https://img.shields.io/github/stars/google-deepmind/open_x_embodiment?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RH20T-lightblue?style=flat-square)](https://rh20t.github.io) [![](https://img.shields.io/badge/rh20t-rh20t_api-black?style=flat-square&logo=github)](https://github.com/rh20t/rh20t_api) <img src="https://img.shields.io/github/stars/rh20t/rh20t_api?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UMI-lightblue?style=flat-square)](https://umi-data.github.io) [![](https://img.shields.io/badge/real--stanford-universal_manipulation_interface-black?style=flat-square&logo=github)](https://github.com/real-stanford/universal_manipulation_interface) <img src="https://img.shields.io/github/stars/real-stanford/universal_manipulation_interface?style=flat-square&color=yellow">
 
-<b>- Assembly Datasets</b>
+<b>- Datasets: Assembly</b>
 - [![](https://img.shields.io/badge/REASSEMBLE-lightblue?style=flat-square)](https://tuwien-asl.github.io/REASSEMBLE_page) [![](https://img.shields.io/badge/TUWIEN--ASL-REASSEMBLE-black?style=flat-square&logo=github)](https://github.com/TUWIEN-ASL/REASSEMBLE) <img src="https://img.shields.io/github/stars/TUWIEN-ASL/REASSEMBLE?style=flat-square&color=yellow">
 
-<b>- Bimanual/Dual-arm-hand Datasets</b>
+<b>- Datasets: Bimanual/Dual-arm-hand</b>
 - [![](https://img.shields.io/badge/ActionNet-lightblue?style=flat-square)](https://action-net.org) [![](https://img.shields.io/badge/FourierIntelligence-ActionNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/FourierIntelligence/ActionNet)
 - [![](https://img.shields.io/badge/AgiBot--World-lightblue?style=flat-square)](https://agibot-world.com) [![](https://img.shields.io/badge/agibot--world-black?style=flat-square&logo=huggingface)](https://huggingface.co/agibot-world) [![](https://img.shields.io/badge/OpenDriveLab-Agibot--World-black?style=flat-square&logo=github)](https://github.com/OpenDriveLab/Agibot-World) <img src="https://img.shields.io/github/stars/OpenDriveLab/Agibot-World?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Bimanual--Actions-lightblue?style=flat-square)](https://bimanual-actions.humanoids.kit.edu) [![](https://img.shields.io/badge/KIT--H2T-Bimanual--Actions-black?style=flat-square&logo=gitlab)](https://git.h2t.iar.kit.edu/sw/bimanual-actions)
@@ -333,26 +340,26 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/nvidia-PhysicalAI--Robotics--GR00T--X--Embodiment--Sim-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim) [![](https://img.shields.io/badge/NVIDIA-Isaac--GR00T-black?style=flat-square&logo=github)](https://github.com/NVIDIA/Isaac-GR00T) <img src="https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-black?style=flat-square&logo=huggingface)](https://huggingface.co/unitreerobotics)
 
-<b>- Grasp Synthesis/Datasets</b>
+<b>- Datasets: Grasp Synthesis</b>
 - [![](https://img.shields.io/badge/ACRONYM-lightblue?style=flat-square)](https://sites.google.com/view/graspdataset) [![](https://img.shields.io/badge/NVlabs-acronym-black?style=flat-square&logo=github)](https://github.com/NVlabs/acronym) <img src="https://img.shields.io/github/stars/NVlabs/acronym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ContactDB-lightblue?style=flat-square)](https://contactdb.cc.gatech.edu) [![](https://img.shields.io/badge/samarth--robo-contactdb_predictione-black?style=flat-square&logo=github)](https://github.com/samarth-robo/contactdb_prediction) <img src="https://img.shields.io/github/stars/samarth-robo/contactdb_prediction?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ContactPose-lightblue?style=flat-square)](https://contactpose.cc.gatech.edu) [![](https://img.shields.io/badge/facebookresearch-ContactPose-black?style=flat-square&logo=github)](https://github.com/facebookresearch/ContactPose) <img src="https://img.shields.io/github/stars/facebookresearch/ContactPose?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GraspXL-lightblue?style=flat-square)](https://eth-ait.github.io/graspxl) [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 
-<b>- Dual-grasp Synthesis/Datasets</b>
+<b>- Datasets: Dual-grasp Synthesis</b>
 - [![](https://img.shields.io/badge/DexGraspNet-lightblue?style=flat-square)](https://pku-epic.github.io/DexGraspNet) [![](https://img.shields.io/badge/PKU--EPIC-DexGraspNet-black?style=flat-square&logo=github)](https://github.com/PKU-EPIC/DexGraspNet) <img src="https://img.shields.io/github/stars/PKU-EPIC/DexGraspNet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexGraspNet2.0-lightblue?style=flat-square)](https://pku-epic.github.io/DexGraspNet2.0) [![](https://img.shields.io/badge/PKU--EPIC-DexGraspNet2-black?style=flat-square&logo=github)](https://github.com/PKU-EPIC/DexGraspNet2) <img src="https://img.shields.io/github/stars/PKU-EPIC/DexGraspNet2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GraspNet-lightblue?style=flat-square)](https://graspnet.net/datasets.html) [![](https://img.shields.io/badge/graspnetAPI-black?style=flat-square&logo=github)](https://github.com/graspnet/graspnetAPI) <img src="https://img.shields.io/github/stars/graspnet/graspnetAPI?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Tsunami--kun-BimanGrasp--Dataset-black?style=flat-square&logo=github)](https://github.com/Tsunami-kun/BimanGrasp-Dataset) <img src="https://img.shields.io/github/stars/Tsunami-kun/BimanGrasp-Dataset?style=flat-square&color=yellow">
 
-<b>- Human grasp Synthesis/Datasets (for Imitation learning/Functional retargeting)</b>
+<b>- Datasets: Human grasp Synthesis (for Imitation learning/Functional retargeting)</b>
 - [![](https://img.shields.io/badge/ARCTIC-lightblue?style=flat-square)](https://arctic.is.tue.mpg.de) [![](https://img.shields.io/badge/zc--alexfan-arctic-black?style=flat-square&logo=github)](https://github.com/zc-alexfan/arctic) <img src="https://img.shields.io/github/stars/zc-alexfan/arctic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ArtiGrasp-lightblue?style=flat-square)](https://eth-ait.github.io/artigrasp) [![](https://img.shields.io/badge/zdchan-artigrasp-black?style=flat-square&logo=github)](https://github.com/zdchan/artigrasp) <img src="https://img.shields.io/github/stars/zdchan/artigrasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexYCB-lightblue?style=flat-square)](https://dex-ycb.github.io) [![](https://img.shields.io/badge/NVlabs-dex--ycb--toolkit-black?style=flat-square&logo=github)](https://github.com/NVlabs/dex-ycb-toolkit) <img src="https://img.shields.io/github/stars/NVlabs/dex-ycb-toolkit?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Grasp'D-lightblue?style=flat-square)](https://eric-heiden.com/publication/2022-graspd-eccv) [![](https://img.shields.io/badge/dylanturpin-graspd-black?style=flat-square&logo=github)](https://github.com/dylanturpin/graspd) <img src="https://img.shields.io/github/stars/dylanturpin/graspd?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OakInk-lightblue?style=flat-square)](https://oakink.net) [![](https://img.shields.io/badge/oakink-OakInk2-black?style=flat-square&logo=github)](https://github.com/oakink/OakInk2) <img src="https://img.shields.io/github/stars/oakink/OakInk2?style=flat-square&color=yellow">
 
-<b>Gripper Grasp generation</b>
+<b>GRIPPER GRASP GENERATION</b>
 - [![](https://img.shields.io/badge/boschresearch-mj--grasp--sim-black?style=flat-square&logo=github)](https://github.com/boschresearch/mj-grasp-sim) <img src="https://img.shields.io/github/stars/boschresearch/mj-grasp-sim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DA2-lightblue?style=flat-square)](https://sites.google.com/view/da2dataset) [![](https://img.shields.io/badge/ymxlzgy-DA2-black?style=flat-square&logo=github)](https://github.com/ymxlzgy/DA2) <img src="https://img.shields.io/github/stars/ymxlzgy/DA2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/graspnet-anygrasp_sdk-black?style=flat-square&logo=github)](https://github.com/graspnet/anygrasp_sdk) <img src="https://img.shields.io/github/stars/graspnet/anygrasp_sdk?style=flat-square&color=yellow">
@@ -361,7 +368,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nvidia-PhysicalAI--Robotics--GraspGen-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GraspGen) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/nvidia/PhysicalAI-Robotics-GraspGen&query=$.downloads&label=Downloads&style=flat-square&color=orange)
 
-<b>Planning - FK - IK</b>
+<b>PLANNING - FK - IK</b>
 - [![](https://img.shields.io/badge/ALRhub-MP_PyTorch-black?style=flat-square&logo=github)](https://github.com/ALRhub/MP_PyTorch) <img src="https://img.shields.io/github/stars/ALRhub/MP_PyTorch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/based--robotics-mjinx-black?style=flat-square&logo=github)](https://github.com/based-robotics/mjinx) <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
@@ -379,7 +386,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_kinematics-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_kinematics) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_kinematics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-ltl_gcs-black?style=flat-square&logo=github)](https://github.com/vincekurtz/ltl_gcs) <img src="https://img.shields.io/github/stars/vincekurtz/ltl_gcs?style=flat-square&color=yellow">
 
-<b>Collision</b>
+<b>COLLISION</b>
 - [![](https://img.shields.io/badge/BerkeleyAutomation-python--fcl-black?style=flat-square&logo=github)](https://github.com/BerkeleyAutomation/python-fcl) <img src="https://img.shields.io/github/stars/BerkeleyAutomation/python-fcl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/coal--library-coal-black?style=flat-square&logo=github)](https://github.com/coal-library/coal) <img src="https://img.shields.io/github/stars/coal-library/coal?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/CoMMALab-foam-black?style=flat-square&logo=github)](https://github.com/CoMMALab/foam) <img src="https://img.shields.io/github/stars/CoMMALab/foam?style=flat-square&color=yellow">
@@ -389,7 +396,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/MuJoCo--Collision--Detection-lightblue?style=flat-square)](https://mujoco.readthedocs.io/en/stable/computation/index.html#collision)
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_volumetric-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_volumetric) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_volumetric?style=flat-square&color=yellow">
 
-<b>Collision avoidance</b>
+<b>- Collision avoidance</b>
 - [![](https://img.shields.io/badge/adubredu-KinodynamicFabrics.jl-black?style=flat-square&logo=github)](https://github.com/adubredu/KinodynamicFabrics.jl) <img src="https://img.shields.io/github/stars/adubredu/KinodynamicFabrics.jl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OSCBF-lightblue?style=flat-square)](https://stanfordasl.github.io/oscbf) [![](https://img.shields.io/badge/StanfordASL-oscbf-black?style=flat-square&logo=github)](https://github.com/StanfordASL/oscbf) <img src="https://img.shields.io/github/stars/StanfordASL/oscbf?style=flat-square&color=yellow">
@@ -398,7 +405,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Roahm--Lab-RAPTOR-lightblue?style=flat-square)](https://roahmlab.github.io/RAPTOR) [![](https://img.shields.io/badge/ARMOUR-lightblue?style=flat-square)](https://roahmlab.github.io/armour) [![](https://img.shields.io/badge/roahmlab-RAPTOR-black?style=flat-square&logo=github)](https://github.com/roahmlab/RAPTOR) <img src="https://img.shields.io/github/stars/roahmlab/RAPTOR?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tud--amr-fabrics-black?style=flat-square&logo=github)](https://github.com/tud-amr/fabrics) <img src="https://img.shields.io/github/stars/tud-amr/fabrics?style=flat-square&color=yellow">
 
-<b>Training-free in-hand manipulation</b>
+<b>TRAINING-FREE IN-HAND MANIPULATION</b>
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
@@ -410,11 +417,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/robot--learning-relaxed_rigidity_in_grasp-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/relaxed_rigidity_in_grasp) [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
 - [![](https://img.shields.io/badge/UM--ARM--Lab-MultiFingerTrajOpt-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/MultiFingerTrajOpt) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/MultiFingerTrajOpt?style=flat-square&color=yellow">
 
-<b>Dynamics</b>
+<b>DYNAMICS</b>
 - [![](https://img.shields.io/badge/LAAS--CNRS-Pinocchio-lightblue?style=flat-square)](https://stack-of-tasks.github.io/pinocchio) [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/pinocchio) <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MIT-Drake-lightblue?style=flat-square)](https://drake.mit.edu) [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
 
-<b>Control</b>
+<b>CONTROL</b>
 - [![](https://img.shields.io/badge/A--make-awesome--control--theory-black?style=flat-square&logo=github)](https://github.com/A-make/awesome-control-theory) <img src="https://img.shields.io/github/stars/A-make/awesome-control-theory?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/abr-abr_control-black?style=flat-square&logo=github)](https://github.com/abr/abr_control) <img src="https://img.shields.io/github/stars/abr/abr_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DQ--Robotics-lightblue?style=flat-square)](https://dqrobotics.github.io) [![](https://img.shields.io/badge/dqrobotics-gray?style=flat-square&logo=github)](https://github.com/dqrobotics)
@@ -448,12 +455,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/NVlabs-OSCAR-lightblue?style=flat-square)](https://cremebrule.github.io/oscar-web) [![](https://img.shields.io/badge/NVlabs-oscar-black?style=flat-square&logo=github)](https://github.com/NVlabs/oscar) <img src="https://img.shields.io/github/stars/NVlabs/oscar?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Steve--Brunton--Lab-lightblue?style=flat-square)](https://www.eigensteve.com) [![](https://img.shields.io/badge/Data--Driven--Book-lightblue?style=flat-square)](https://www.databookuw.com) [![](https://img.shields.io/badge/dynamicslab-databook_python-black?style=flat-square&logo=github)](https://github.com/dynamicslab/databook_python) <img src="https://img.shields.io/github/stars/dynamicslab/databook_python?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Data--Driven--Control--ML-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 
-<b>Learning</b>
-
-<b>- Bimanual/Dual-arm-hand learning</b>
-- [![](https://img.shields.io/badge/DexMachina-lightblue?style=flat-square)](https://project-dexmachina.github.io) [![](https://img.shields.io/badge/MandiZhao-dexmachina-black?style=flat-square&logo=github)](https://github.com/MandiZhao/dexmachina) <img src="https://img.shields.io/github/stars/MandiZhao/dexmachina?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/ManipTrans-lightblue?style=flat-square)](https://maniptrans.github.io) [![](https://img.shields.io/badge/ManipTrans-ManipTrans-black?style=flat-square&logo=github)](https://github.com/ManipTrans/ManipTrans) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/LiKailin-DexManipNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/LiKailin/DexManipNet)
-
 </details>
 
 # Youtube 🎥
@@ -483,7 +484,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Mobile Manipulation</b>
 - [ICRA 2024 Workshop: 2nd on Mobile Manipulation and Embodied Intelligence](https://www.youtube.com/watch?v=bEVx_E3iUyk) - [OpenReview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/MoMa)
 
-<b>Learning-based/Data-driven Manipulation</b>
+<b>Learning-based & Data-driven Manipulation</b>
 - [CoRL 2024 Workshop: Mastering Robot Manipulation in a World of Abundant Data](https://www.youtube.com/live/GhwCIjEEBBs) - [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Workshop/MRM-D)
 
 <b>TAMP-Task and Motion Planning</b>
