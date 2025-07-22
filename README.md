@@ -469,6 +469,9 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Mobile Manipulation</b>
 - [ICRA 2024 Workshop: 2nd on Mobile Manipulation and Embodied Intelligence](https://www.youtube.com/watch?v=bEVx_E3iUyk) - [OpenReview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/MoMa)
 
+<b>Learning-based/Data-driven Manipulation</b>
+- [CoRL 2024 Workshop: Mastering Robot Manipulation in a World of Abundant Data](https://www.youtube.com/live/GhwCIjEEBBs) - [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Workshop/MRM-D)
+
 <b>TAMP-Task and Motion Planning</b>
 - [ICRA 2025 Workshop: Language and Semantics of Task and Motion Planning](https://youtu.be/Iw-x-N4gqkw?si=bk5zZoLkeC93GaFL) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/TAMP)
 
