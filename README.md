@@ -18,9 +18,10 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 - [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
 - [Robotic Manipulation Perception, Planning, and Control, Russ Tedrake](https://manipulation.csail.mit.edu)
+- [Robotic Systems, Kris Hauser, University of Illinois](https://motion.cs.illinois.edu/RoboticSystems)
 - [Robotics Modelling, Planning and Control, Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
 - [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
-
+  
 ## Surveys
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
@@ -266,6 +267,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/BaiShuanghao-Awesome--Robotics--Manipulation-black?style=flat-square&logo=github)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) <img src="https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GeorgeDu-vision--based--robotic--grasping-black?style=flat-square&logo=github)](https://github.com/GeorgeDu/vision-based-robotic-grasping) <img src="https://img.shields.io/github/stars/GeorgeDu/vision-based-robotic-grasping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kingchou007-Awesome--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/kingchou007/Awesome-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/kingchou007/Awesome-Dexterous-Manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/krishauser-RoboticSystemsBook-black?style=flat-square&logo=github)](https://github.com/krishauser/RoboticSystemsBook) <img src="https://img.shields.io/github/stars/krishauser/RoboticSystemsBook?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/linchangyi1-Awesome--Touch-black?style=flat-square&logo=github)](https://github.com/linchangyi1/Awesome-Touch) <img src="https://img.shields.io/github/stars/linchangyi1/Awesome-Touch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NxRLab-ModernRobotics-black?style=flat-square&logo=github)](https://github.com/NxRLab/ModernRobotics) <img src="https://img.shields.io/github/stars/NxRLab/ModernRobotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/petercorke-robotics--toolbox--python-black?style=flat-square&logo=github)](https://github.com/petercorke/robotics-toolbox-python) <img src="https://img.shields.io/github/stars/petercorke/robotics-toolbox-python?style=flat-square&color=yellow">
@@ -282,8 +284,10 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/BiGym-lightblue?style=flat-square)](https://chernyadev.github.io/bigym) [![](https://img.shields.io/badge/chernyadev-bigym-black?style=flat-square&logo=github)](https://github.com/chernyadev/bigym) <img src="https://img.shields.io/github/stars/chernyadev/bigym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Calvin-lightblue?style=flat-square)](http://calvin.cs.uni-freiburg.de) [![](https://img.shields.io/badge/mees-calvin-black?style=flat-square&logo=github)](https://github.com/mees/calvin) <img src="https://img.shields.io/github/stars/mees/calvin?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/COLOSSEUM-lightblue?style=flat-square)](https://robot-colosseum.github.io) [![](https://img.shields.io/badge/robot--colosseum-robot--colosseum-black?style=flat-square&logo=github)](https://github.com/robot-colosseum/robot-colosseum) <img src="https://img.shields.io/github/stars/robot-colosseum/robot-colosseum?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/DexArt-lightblue?style=flat-square)]( https://www.chenbao.tech/dexart) [![](https://img.shields.io/badge/Kami--code-dexart--release-black?style=flat-square&logo=github)](https://github.com/Kami-code/dexart-release) <img src="https://img.shields.io/github/stars/Kami-code/dexart-release?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DexArt-lightblue?style=flat-square)](https://www.chenbao.tech/dexart) [![](https://img.shields.io/badge/Kami--code-dexart--release-black?style=flat-square&logo=github)](https://github.com/Kami-code/dexart-release) <img src="https://img.shields.io/github/stars/Kami-code/dexart-release?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DexYCB-lightblue?style=flat-square)](https://dex-ycb.github.io) [![](https://img.shields.io/badge/NVlabs-dex--ycb--toolkit-black?style=flat-square&logo=github)](https://github.com/NVlabs/dex-ycb-toolkit) <img src="https://img.shields.io/github/stars/NVlabs/dex-ycb-toolkit?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/fishbotics-robometrics-black?style=flat-square&logo=github)](https://github.com/fishbotics/robometrics) <img src="https://img.shields.io/github/stars/fishbotics/robometrics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/google--research-ravens-black?style=flat-square&logo=github)](https://github.com/google-research/ravens) <img src="https://img.shields.io/github/stars/google-research/ravens?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LIBERO-lightblue?style=flat-square)](https://libero-project.github.io) [![](https://img.shields.io/badge/Lifelong--Robot--Learning-LIBERO-black?style=flat-square&logo=github)](https://github.com/Lifelong-Robot-Learning/LIBERO) <img src="https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MIKASA-lightblue?style=flat-square)](https://sites.google.com/view/memorybenchrobots) [![](https://img.shields.io/badge/CognitiveAISystems-MIKASA--Robo-black?style=flat-square&logo=github)](https://github.com/CognitiveAISystems/MIKASA-Robo) <img src="https://img.shields.io/github/stars/CognitiveAISystems/MIKASA-Robo?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/CognitiveAISystems-MIKASA--Base-black?style=flat-square&logo=github)](https://github.com/CognitiveAISystems/MIKASA-Base) <img src="https://img.shields.io/github/stars/CognitiveAISystems/MIKASA-Base?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/mikasa--robo-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/avanturist/mikasa-robo)
@@ -330,6 +334,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>- Human grasp Synthesis/Datasets (for Imitation learning/Functional retargeting)</b>
 - [![](https://img.shields.io/badge/ARCTIC-lightblue?style=flat-square)](https://arctic.is.tue.mpg.de) [![](https://img.shields.io/badge/zc--alexfan-arctic-black?style=flat-square&logo=github)](https://github.com/zc-alexfan/arctic) <img src="https://img.shields.io/github/stars/zc-alexfan/arctic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ArtiGrasp-lightblue?style=flat-square)](https://eth-ait.github.io/artigrasp) [![](https://img.shields.io/badge/zdchan-artigrasp-black?style=flat-square&logo=github)](https://github.com/zdchan/artigrasp) <img src="https://img.shields.io/github/stars/zdchan/artigrasp?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DexYCB-lightblue?style=flat-square)](https://dex-ycb.github.io) [![](https://img.shields.io/badge/NVlabs-dex--ycb--toolkit-black?style=flat-square&logo=github)](https://github.com/NVlabs/dex-ycb-toolkit) <img src="https://img.shields.io/github/stars/NVlabs/dex-ycb-toolkit?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Grasp'D-lightblue?style=flat-square)](https://eric-heiden.com/publication/2022-graspd-eccv) [![](https://img.shields.io/badge/dylanturpin-graspd-black?style=flat-square&logo=github)](https://github.com/dylanturpin/graspd) <img src="https://img.shields.io/github/stars/dylanturpin/graspd?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OakInk-lightblue?style=flat-square)](https://oakink.net) [![](https://img.shields.io/badge/oakink-OakInk2-black?style=flat-square&logo=github)](https://github.com/oakink/OakInk2) <img src="https://img.shields.io/github/stars/oakink/OakInk2?style=flat-square&color=yellow">
 
@@ -441,6 +446,14 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details>
 <summary><b>Videos</b></summary>
+
+<b>Courses/Tutorials</b>
+- [Advanced Robotics, Fall 2019, Prof. Pieter Abbeel, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19)
+- [Control Bootcamp, Prof. Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF) 
+- [MATLAB Tech Talks](https://www.mathworks.com/videos/tech-talks.html)
+- [Robotic Manipulation, Fall 2023, Prof. Russ Tedrake, MIT](https://www.youtube.com/watch?v=v04rn86Dehg&list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX) - [Final Projects](https://www.youtube.com/playlist?list=PLkx8KyIQkMfXgWkN-4ary4u4E2-vMOIz9) - [Further](https://www.youtube.com/@underactuated5171/playlists)
+- [Robotics Institute Seminar Series, CMU](https://www.youtube.com/playlist?list=PLCFD85BC79FE703DF)
 
 <b>Contact-Rich Manipulation<b>
 - [ICRA 2025 Workshop: Beyond Pick and Place-Unifying Learning-Based and Model-Based Approaches for Contact-Rich Manipulation](https://drive.google.com/drive/folders/1bMc6_oi1Rz26poM5pERi6duVFcQWs9f2) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/Beyond_Pick_and_Place)
