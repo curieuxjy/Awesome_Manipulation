@@ -54,6 +54,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Dexterous hand towards intelligent manufacturing: A review of technologies, trends, and potential applications](https://www.researchgate.net/publication/390403129_Dexterous_hand_towards_intelligent_manufacturing_A_review_of_technologies_trends_and_potential_applications)
 - [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515)
 - [Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping: Deep Reinforcement Learning and Grasp Representations](https://doi.org/10.1109/TASE.2025.3541768)
+- [DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](https://arxiv.org/abs/2505.07813)
 - [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.0773) [➕](https://do-glove.github.io/)
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
@@ -119,6 +120,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) [➕](https://dex-cap.github.io/)
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) [➕](https://dexdiffuser.github.io/)
 - [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://arxiv.org/abs/2407.02274)
+- [DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands](https://arxiv.org/abs/2412.01791)
 - [DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality](https://arxiv.org/abs/2210.13702) [➕](https://dextreme.org/)
 - [Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning](https://arxiv.org/abs/2404.12539) [➕](https://diff-control.github.io/)
 - [DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation](https://arxiv.org/abs/2403.08716)
@@ -181,6 +183,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Contact Edit: Artist Tools for Intuitive Modeling of Hand-Object Interactions](https://arxiv.org/abs/2305.02051)
 - [Deep Reinforcement Learning of Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping](https://arxiv.org/abs/2307.16752)
 - [DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics](https://arxiv.org/abs/2304.03223) [➕](https://sites.google.com/view/dexdeform)
+- [DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training](https://arxiv.org/abs/2305.12127)
 - [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979)
 - [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) [➕](http://tactilesim.csail.mit.edu/)
 - [Global Planning for Contact-Rich Manipulation via Local Smoothing of Quasi-dynamic Contact Models](https://arxiv.org/pdf/2206.10787)
@@ -319,6 +322,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>LEARNING - DATASETS</b>
 
 <b>- Datasets: Manipulation</b>
+- [![](https://img.shields.io/badge/DexWild-lightblue?style=flat-square)](https://dexwild.github.io/) [![](https://img.shields.io/badge/boardd-dexwild--dataset-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/boardd/dexwild-dataset) [![](https://img.shields.io/badge/dexwild-dexwild-black?style=flat-square&logo=github)](https://github.com/dexwild/dexwild) <img src="https://img.shields.io/github/stars/dexwild/dexwild?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/dexwild-dexwild--training-black?style=flat-square&logo=github)](https://github.com/dexwild/dexwild-training) <img src="https://img.shields.io/github/stars/dexwild/dexwild-training?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/FastUMI-lightblue?style=flat-square)](https://fastumi.com) [![](https://img.shields.io/badge/IPEC--COMMUNITY-FastUMI--Data-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI-Data)
 - [![](https://img.shields.io/badge/huggingface-LeRobot-black?style=flat-square&logo=huggingface)](https://huggingface.co/lerobot) [![](https://img.shields.io/badge/huggingface-lerobot-black?style=flat-square&logo=github)](https://github.com/huggingface/lerobot) <img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Open--X--Embodiment-lightblue?style=flat-square)](https://robotics-transformer-x.github.io) [![](https://img.shields.io/badge/google--deepmind-open_x_embodiment-black?style=flat-square&logo=github)](https://github.com/google-deepmind/open_x_embodiment) <img src="https://img.shields.io/github/stars/google-deepmind/open_x_embodiment?style=flat-square&color=yellow">
