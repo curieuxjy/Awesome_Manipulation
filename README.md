@@ -12,7 +12,7 @@ This curation covers a wide range of robotic manipulation tasks.
 # Good to Start 🤓
 
 ## Books/Tutorials
-- [A Math Cookbook for Robot Manipulation, Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch) - [Code](https://gitlab.idiap.ch/rli/robotics-codes-from-scratch)
+- [A Math Cookbook for Robot Manipulation, Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch)
 - [A Mathematical Introduction to Robotic Manipulation, Richard Murray](https://dl.acm.org/doi/10.5555/561828)
 - [Introduction to Robotics: Mechanics and Control, John J. Craig](https://elibrary.pearson.de/book/99.150005/9781292164953)
 - [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
@@ -268,7 +268,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
 <b>TUTORIALS - SURVEYS</b>
-
 - [![](https://img.shields.io/badge/BaiShuanghao-Awesome--Robotics--Manipulation-black?style=flat-square&logo=github)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) <img src="https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GeorgeDu-vision--based--robotic--grasping-black?style=flat-square&logo=github)](https://github.com/GeorgeDu/vision-based-robotic-grasping) <img src="https://img.shields.io/github/stars/GeorgeDu/vision-based-robotic-grasping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kingchou007-Awesome--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/kingchou007/Awesome-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/kingchou007/Awesome-Dexterous-Manipulation?style=flat-square&color=yellow">
@@ -277,6 +276,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/NxRLab-ModernRobotics-black?style=flat-square&logo=github)](https://github.com/NxRLab/ModernRobotics) <img src="https://img.shields.io/github/stars/NxRLab/ModernRobotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/petercorke-robotics--toolbox--python-black?style=flat-square&logo=github)](https://github.com/petercorke/robotics-toolbox-python) <img src="https://img.shields.io/github/stars/petercorke/robotics-toolbox-python?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RayYoh-OCRM_survey-black?style=flat-square&logo=github)](https://github.com/RayYoh/OCRM_survey) <img src="https://img.shields.io/github/stars/RayYoh/OCRM_survey?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RCFS-lightblue?style=flat-square)](https://rcfs.ch) [![](https://img.shields.io/badge/Idiap/rli-robotics--codes--from--scratch-black?style=flat-square&logo=gitlab)](https://gitlab.idiap.ch/rli/robotics-codes-from-scratch)
 - [![](https://img.shields.io/badge/rhett--chen-Robotic--grasping--papers-black?style=flat-square&logo=github)](https://github.com/rhett-chen/Robotic-grasping-papers) <img src="https://img.shields.io/github/stars/rhett-chen/Robotic-grasping-papers?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SeanChenxy-Hand3DResearch-black?style=flat-square&logo=github)](https://github.com/SeanChenxy/Hand3DResearch) <img src="https://img.shields.io/github/stars/SeanChenxy/Hand3DResearch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Skylark0924-awesome--bimanual--manipulation-black?style=flat-square&logo=github)](https://github.com/Skylark0924/awesome-bimanual-manipulation) <img src="https://img.shields.io/github/stars/Skylark0924/awesome-bimanual-manipulation?style=flat-square&color=yellow">
