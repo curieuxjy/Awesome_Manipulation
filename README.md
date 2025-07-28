@@ -38,6 +38,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+- [Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning](https://arxiv.org/abs/2503.04877)
 - [Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](https://arxiv.org/abs/2502.07645)
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
@@ -57,6 +58,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](https://arxiv.org/abs/2505.07813)
 - [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.0773) [➕](https://do-glove.github.io/)
+- [DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation](https://arxiv.org/abs/2507.05627)
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Generative Artificial Intelligence in Robotic Manipulation: A Survey](https://arxiv.org/pdf/2503.03464)
@@ -384,8 +386,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/CAPGrasp-lightblue?style=flat-square)](https://wengzehang.github.io/CAPGrasp) [![](https://img.shields.io/badge/wengzehang-CAPGrasp-black?style=flat-square&logo=github)](https://github.com/wengzehang/CAPGrasp) <img src="https://img.shields.io/github/stars/wengzehang/CAPGrasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Diffusion--EDFs-lightblue?style=flat-square)](https://sites.google.com/view/diffusion-edfs) [![](https://img.shields.io/badge/tomato1mule-diffusion_edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/diffusion_edf) <img src="https://img.shields.io/github/stars/tomato1mule/diffusion_edf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/EquiGraspFlow-lightblue?style=flat-square)](https://equigraspflow.github.io) [![](https://img.shields.io/badge/bdlim99-EquiGraspFlow-black?style=flat-square&logo=github)](https://github.com/bdlim99/EquiGraspFlow) <img src="https://img.shields.io/github/stars/bdlim99/EquiGraspFlow?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/SE2--EquivariantGrasp-lightblue?style=flat-square)](https://zxp-s-works.github.io/equivariant_grasp_site) [![](https://img.shields.io/badge/ZXP--S--works-SE2--equivariant--grasp--learning-black?style=flat-square&logo=github)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning) <img src="https://img.shields.io/github/stars/ZXP-S-works/SE2-equivariant-grasp-learning?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OrbitGrasp-lightblue?style=flat-square)](https://orbitgrasp.github.io) [![](https://img.shields.io/badge/BoceHu-orbitgrasp-black?style=flat-square&logo=github)](https://github.com/BoceHu/orbitgrasp) <img src="https://img.shields.io/github/stars/BoceHu/orbitgrasp?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/SE2--EquivariantGrasp-lightblue?style=flat-square)](https://zxp-s-works.github.io/equivariant_grasp_site) [![](https://img.shields.io/badge/ZXP--S--works-SE2--equivariant--grasp--learning-black?style=flat-square&logo=github)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning) <img src="https://img.shields.io/github/stars/ZXP-S-works/SE2-equivariant-grasp-learning?style=flat-square&color=yellow">
 
 <b>PLANNING - FK - IK</b>
 - [![](https://img.shields.io/badge/ALRhub-MP_PyTorch-black?style=flat-square&logo=github)](https://github.com/ALRhub/MP_PyTorch) <img src="https://img.shields.io/github/stars/ALRhub/MP_PyTorch?style=flat-square&color=yellow">
