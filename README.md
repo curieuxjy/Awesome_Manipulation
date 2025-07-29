@@ -39,6 +39,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <summary><b>2025</b></summary>
 
 - [Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning](https://arxiv.org/abs/2503.04877)
+- [Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2506.09384)
 - [Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](https://arxiv.org/abs/2502.07645)
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
@@ -48,6 +49,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning](https://arxiv.org/abs/2505.00991)
 - [DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction](https://arxiv.org/abs/2505.01083)
 - [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2503.08257)
+- [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](https://arxiv.org/abs/2505.24853)
 - [DexMOTS: Learning Contact-Rich Dexterous Manipulation in an Object-Centric Task Space with Differentiable Simulation](https://dexmots.github.io/dexmots.pdf) [➕](https://dexmots.github.io/)
 - [Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy](https://arxiv.org/abs/2504.18829)
 - [DexterityGen: Foundation Controller for Unprecedented Dexterity](https://arxiv.org/abs/2502.04307)
