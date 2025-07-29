@@ -67,7 +67,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Generative Artificial Intelligence in Robotic Manipulation: A Survey](https://arxiv.org/pdf/2503.03464)
 - [GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation](https://arxiv.org/pdf/2505.11865)
-- [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734)
+- [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734) + [v1.5](https://research.nvidia.com/labs/gear/gr00t-n1_5/)
 - [Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges](https://arxiv.org/abs/2506.02489)
 - [GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training](https://arxiv.org/abs/2507.13097)
 - [Grounded Vision-Language Interpreter for Integrated Task and Motion Planning](https://arxiv.org/pdf/2506.03270)
