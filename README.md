@@ -38,6 +38,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2025</b></summary>
 
+<img src="./asset/2025.png" width="100%" class="center"/>
+
 - [Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning](https://arxiv.org/abs/2503.04877)
 - [Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2506.09384)
 - [Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](https://arxiv.org/abs/2502.07645)
@@ -104,6 +106,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details>
 <summary><b>2024</b></summary>
+
+<img src="./asset/2024.png" width="100%" class="center"/>
 
 - [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) [➕](https://3d-diffuser-actor.github.io/)
 - [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://openreview.net/pdf?id=bk28WlkqZn)
@@ -181,6 +185,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details>
 <summary><b>2023</b></summary>
+
+<img src="./asset/2023.png" width="100%" class="center"/>
 
 - [A Model-Free Approach to Fingertip Slip and Disturbance Detection for Grasp Stability Inference](https://ieeexplore.ieee.org/document/10364337/)
 - [AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System](https://arxiv.org/abs/2307.04577) [➕](https://yzqin.github.io/anyteleop/)
