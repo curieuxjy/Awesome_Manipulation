@@ -311,6 +311,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/MIKASA-lightblue?style=flat-square)](https://sites.google.com/view/memorybenchrobots) [![](https://img.shields.io/badge/CognitiveAISystems-MIKASA--Robo-black?style=flat-square&logo=github)](https://github.com/CognitiveAISystems/MIKASA-Robo) <img src="https://img.shields.io/github/stars/CognitiveAISystems/MIKASA-Robo?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/CognitiveAISystems-MIKASA--Base-black?style=flat-square&logo=github)](https://github.com/CognitiveAISystems/MIKASA-Base) <img src="https://img.shields.io/github/stars/CognitiveAISystems/MIKASA-Base?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/mikasa--robo-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/avanturist/mikasa-robo)
 - [![](https://img.shields.io/badge/Multi--Robot--Multi--Goal--Path--Planning-lightblue?style=flat-square)](https://vhartmann.com/mrmg-planning) [![](https://img.shields.io/badge/vhartman-multirobot--pathplanning--benchmark-black?style=flat-square&logo=github)](https://github.com/vhartman/multirobot-pathplanning-benchmark) <img src="https://img.shields.io/github/stars/vhartman/multirobot-pathplanning-benchmark?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboTwin-lightblue?style=flat-square)](https://robotwin-platform.github.io) [![](https://img.shields.io/badge/robotwin--Platform-RoboTwin-black?style=flat-square&logo=github)](https://github.com/robotwin-Platform/RoboTwin) <img src="https://img.shields.io/github/stars/robotwin-Platform/RoboTwin?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/VTDexManip-lightblue?style=flat-square)](https://lqts.github.io/VTDexManip) [![](https://img.shields.io/badge/LQTS-VTDexManip-black?style=flat-square&logo=github)](https://github.com/LQTS/VTDexManip) <img src="https://img.shields.io/github/stars/LQTS/VTDexManip?style=flat-square&color=yellow">
 
 <b>LEARNING</b>
 
@@ -341,6 +342,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Open--X--Embodiment-lightblue?style=flat-square)](https://robotics-transformer-x.github.io) [![](https://img.shields.io/badge/google--deepmind-open_x_embodiment-black?style=flat-square&logo=github)](https://github.com/google-deepmind/open_x_embodiment) <img src="https://img.shields.io/github/stars/google-deepmind/open_x_embodiment?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RH20T-lightblue?style=flat-square)](https://rh20t.github.io) [![](https://img.shields.io/badge/rh20t-rh20t_api-black?style=flat-square&logo=github)](https://github.com/rh20t/rh20t_api) <img src="https://img.shields.io/github/stars/rh20t/rh20t_api?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UMI-lightblue?style=flat-square)](https://umi-data.github.io) [![](https://img.shields.io/badge/real--stanford-universal_manipulation_interface-black?style=flat-square&logo=github)](https://github.com/real-stanford/universal_manipulation_interface) <img src="https://img.shields.io/github/stars/real-stanford/universal_manipulation_interface?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/VTDexManip-lightblue?style=flat-square)](https://lqts.github.io/VTDexManip) [![](https://img.shields.io/badge/LQTS-VTDexManip-black?style=flat-square&logo=github)](https://github.com/LQTS/VTDexManip) <img src="https://img.shields.io/github/stars/LQTS/VTDexManip?style=flat-square&color=yellow">
 
 <b>- Datasets: Assembly</b>
 - [![](https://img.shields.io/badge/REASSEMBLE-lightblue?style=flat-square)](https://tuwien-asl.github.io/REASSEMBLE_page) [![](https://img.shields.io/badge/TUWIEN--ASL-REASSEMBLE-black?style=flat-square&logo=github)](https://github.com/TUWIEN-ASL/REASSEMBLE) <img src="https://img.shields.io/github/stars/TUWIEN-ASL/REASSEMBLE?style=flat-square&color=yellow">
@@ -448,6 +450,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/robot--learning-in_hand_manipulation-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/in_hand_manipulation)
 - [![](https://img.shields.io/badge/robot--learning-relaxed_rigidity_in_grasp-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/relaxed_rigidity_in_grasp) [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
 - [![](https://img.shields.io/badge/UM--ARM--Lab-MultiFingerTrajOpt-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/MultiFingerTrajOpt) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/MultiFingerTrajOpt?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/XianyiCheng-CMGMP-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/CMGMP) <img src="https://img.shields.io/github/stars/XianyiCheng/CMGMP?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JuLlliG3vGc) [![](https://img.shields.io/badge/Talk-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-xlFyYVJMzg)
+- [![](https://img.shields.io/badge/XianyiCheng-HiDex-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/HiDex) <img src="https://img.shields.io/github/stars/XianyiCheng/HiDex?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fScfat1Ys6U)
 
 <b>DYNAMICS</b>
 - [![](https://img.shields.io/badge/LAAS--CNRS-Pinocchio-lightblue?style=flat-square)](https://stack-of-tasks.github.io/pinocchio) [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/pinocchio) <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
@@ -512,6 +516,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>Dexterous Manipulation</b>
 - [ICRA 2025 Workshop: Handy Moves:Dexterity in Multi-Fingered Hands](https://www.youtube.com/watch?v=cUKNbwqElCw) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/Dexterity)
+- [RSS 2025 Workshop: Dexterous Manipulation:Learning and Control with Diverse Data](https://www.youtube.com/watch?v=7a5HYjQ4wJo) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/Dex)
 
 <b>Mobile Manipulation</b>
 - [ICRA 2024 Workshop: 2nd on Mobile Manipulation and Embodied Intelligence](https://www.youtube.com/watch?v=bEVx_E3iUyk) - [OpenReview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/MoMa)
@@ -521,6 +526,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>TAMP-Task and Motion Planning</b>
 - [ICRA 2025 Workshop: Language and Semantics of Task and Motion Planning](https://youtu.be/Iw-x-N4gqkw?si=bk5zZoLkeC93GaFL) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/TAMP)
+- [RSS 2025 Workshop: Fast Motion Planning and Control in the Era of Parallelism](https://sites.google.com/rice.edu/parallelized-planning-control/schedule) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/Motion_Planning_and_Control_via_Parallelization)
 
 </details>
 
