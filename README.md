@@ -89,6 +89,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation](https://arxiv.org/abs/2502.09389)
 - [SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation](https://arxiv.org/abs/2501.18564)
 - [Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](https://arxiv.org/abs/2502.01071)
+- [scene_synthesizer: A Python Library for Procedural Scene Generation in Robot Manipulation](https://joss.theoj.org/papers/10.21105/joss.07561)
 - [Self-supervised perception for tactile skin covered dexterous hands](https://arxiv.org/abs/2505.11420)
 - [Sequential Multi-Object Grasping with One Dexterous Hand](https://arxiv.org/abs/2503.09078)
 - [SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation](https://arxiv.org/abs/2501.14400)
