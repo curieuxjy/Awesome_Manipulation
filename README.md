@@ -274,14 +274,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--urdf-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-urdf) <img src="https://img.shields.io/github/stars/dexsuite/dex-urdf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_playground/) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/HaozhiQi-hora-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/hora) <img src="https://img.shields.io/github/stars/HaozhiQi/hora?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/j96w-DexCap-black?style=flat-square&logo=github)](https://github.com/j96w/DexCap) <img src="https://img.shields.io/github/stars/j96w/DexCap?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-sim--web--visualizer-black?style=flat-square&logo=github)](https://github.com/NVlabs/sim-web-visualizer) <img src="https://img.shields.io/github/stars/NVlabs/sim-web-visualizer?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/PKU--MARL-DexterousHands-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/sam2act-SAM2Act-black?style=flat-square&logo=github)](https://github.com/sam2act/SAM2Act) <img src="https://img.shields.io/github/stars/sam2act/SAM2Act?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
 <b>TUTORIALS - SURVEYS</b>
 - [![](https://img.shields.io/badge/BaiShuanghao-Awesome--Robotics--Manipulation-black?style=flat-square&logo=github)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) <img src="https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=flat-square&color=yellow">
@@ -321,13 +316,19 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>LEARNING</b>
 
-<b>- Learning: Single-arm-hand</b>
+- [![](https://img.shields.io/badge/MuJoCo--Playground-lightblue?style=flat-square)](https://playground.mujoco.org) [![](https://img.shields.io/badge/google--deepmind-mujoco_playground-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_playground/) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
+
+<b>- Learning: Single-arm/hand</b>
+- [![](https://img.shields.io/badge/hora-lightblue?style=flat-square)](https://haozhi.io/hora) [![](https://img.shields.io/badge/HaozhiQi-hora-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/hora) <img src="https://img.shields.io/github/stars/HaozhiQi/hora?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/IndustReal-lightblue?style=flat-square)](https://research.nvidia.com/publication/2023-05_industreal-transferring-contact-rich-assembly-tasks-simulation-reality) [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Robust_DexGrasp-lightblue?style=flat-square)](https://zdchan.github.io/Robust_DexGrasp) [![](https://img.shields.io/badge/zdchan-RobustDexGrasp-black?style=flat-square&logo=github)](https://github.com/zdchan/RobustDexGrasp) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/VTDexManip-lightblue?style=flat-square)](https://lqts.github.io/VTDexManip) [![](https://img.shields.io/badge/LQTS-VTDexManip-black?style=flat-square&logo=github)](https://github.com/LQTS/VTDexManip) <img src="https://img.shields.io/github/stars/LQTS/VTDexManip?style=flat-square&color=yellow">
 
-<b>- Learning: Bimanual/Dual-arm-hand</b>
+<b>- Learning: Bimanual/Dual-arm/hand</b>
+- [![](https://img.shields.io/badge/Bi--DexHands-lightblue?style=flat-square)](https://pku-marl.github.io/DexterousHands) [![](https://img.shields.io/badge/PKU--MARL-DexterousHands-black?style=flat-square&logo=github)](https://github.com/PKU-MARL/DexterousHands) <img src="https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexMachina-lightblue?style=flat-square)](https://project-dexmachina.github.io) [![](https://img.shields.io/badge/MandiZhao-dexmachina-black?style=flat-square&logo=github)](https://github.com/MandiZhao/dexmachina) <img src="https://img.shields.io/github/stars/MandiZhao/dexmachina?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ManipTrans-lightblue?style=flat-square)](https://maniptrans.github.io) [![](https://img.shields.io/badge/ManipTrans-ManipTrans-black?style=flat-square&logo=github)](https://github.com/ManipTrans/ManipTrans) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/LiKailin-DexManipNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/LiKailin/DexManipNet)
+- [![](https://img.shields.io/badge/Rofunc-lightblue?style=flat-square)](https://rofunc.readthedocs.io) [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
 <b>LEARNING - MODELS</b>
 
@@ -357,7 +358,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>- Datasets: Assembly</b>
 - [![](https://img.shields.io/badge/REASSEMBLE-lightblue?style=flat-square)](https://tuwien-asl.github.io/REASSEMBLE_page) [![](https://img.shields.io/badge/TUWIEN--ASL-REASSEMBLE-black?style=flat-square&logo=github)](https://github.com/TUWIEN-ASL/REASSEMBLE) <img src="https://img.shields.io/github/stars/TUWIEN-ASL/REASSEMBLE?style=flat-square&color=yellow">
 
-<b>- Datasets: Bimanual/Dual-arm-hand</b>
+<b>- Datasets: Bimanual/Dual-arm/hand</b>
 - [![](https://img.shields.io/badge/ActionNet-lightblue?style=flat-square)](https://action-net.org) [![](https://img.shields.io/badge/FourierIntelligence-ActionNet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/FourierIntelligence/ActionNet)
 - [![](https://img.shields.io/badge/AgiBot--World-lightblue?style=flat-square)](https://agibot-world.com) [![](https://img.shields.io/badge/agibot--world-black?style=flat-square&logo=huggingface)](https://huggingface.co/agibot-world) [![](https://img.shields.io/badge/OpenDriveLab-Agibot--World-black?style=flat-square&logo=github)](https://github.com/OpenDriveLab/Agibot-World) <img src="https://img.shields.io/github/stars/OpenDriveLab/Agibot-World?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Bimanual--Actions-lightblue?style=flat-square)](https://bimanual-actions.humanoids.kit.edu) [![](https://img.shields.io/badge/KIT--H2T-Bimanual--Actions-black?style=flat-square&logo=gitlab)](https://git.h2t.iar.kit.edu/sw/bimanual-actions)
