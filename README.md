@@ -80,6 +80,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Learning to Transfer Human Hand Skills for Robot Manipulations](https://arxiv.org/abs/2501.04169) [➕](https://rureadyo.github.io/MocapRobot/)
 - [Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools](https://arxiv.org/abs/2311.02787)
 - [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860)
+- [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI](https://arxiv.org/abs/2410.00425)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
 - [MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress](https://arxiv.org/abs/2502.02753)
 - [Object-centric 3D Motion Field for Robot Learning from Human Videos](https://arxiv.org/pdf/2506.04227)
