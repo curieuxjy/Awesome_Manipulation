@@ -219,6 +219,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2022</b></summary>
 
+- [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2108.05877)
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://people.csail.mit.edu/jiex/papers/TactileSim/paper.pdf) [➕](http://tactilesim.csail.mit.edu/)
 - [Factory: Fast Contact for Robotic Assembly](https://arxiv.org/abs/2205.03532) [➕](https://sites.google.com/nvidia.com/factory)
 - [Human to Robot Hand Motion Mapping Methods: Review and Classification](https://ieeexplore.ieee.org/document/9896989)
