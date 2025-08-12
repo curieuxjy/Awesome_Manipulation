@@ -200,6 +200,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System](https://arxiv.org/abs/2307.04577) [➕](https://yzqin.github.io/anyteleop/)
 - [Contact Edit: Artist Tools for Intuitive Modeling of Hand-Object Interactions](https://arxiv.org/abs/2305.02051)
 - [Deep Reinforcement Learning of Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping](https://arxiv.org/abs/2307.16752)
+- [DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects](https://arxiv.org/abs/2305.05706)
 - [DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics](https://arxiv.org/abs/2304.03223) [➕](https://sites.google.com/view/dexdeform)
 - [DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training](https://arxiv.org/abs/2305.12127)
 - [From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation](https://arxiv.org/abs/2204.12490)
