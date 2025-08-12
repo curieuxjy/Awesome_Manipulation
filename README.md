@@ -84,6 +84,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
 - [MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress](https://arxiv.org/abs/2502.02753)
 - [Object-centric 3D Motion Field for Robot Learning from Human Videos](https://arxiv.org/pdf/2506.04227)
+- [REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly](https://arxiv.org/abs/2502.05086)
 - [Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](https://arxiv.org/abs/2502.02853)
 - [RUKA: Rethinking the Design of Humanoid Hands with Learning](https://arxiv.org/abs/2504.13165) [➕](https://ruka-hand.github.io/)
 - [S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation](https://arxiv.org/abs/2502.09389)
