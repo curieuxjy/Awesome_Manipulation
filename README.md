@@ -154,6 +154,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation](https://arxiv.org/abs/2411.18369)
 - [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://arxiv.org/abs/2310.01361)
 - [Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects](https://arxiv.org/abs/2403.10187)
+- [Grasp as You Say: Language-guided Dexterous Grasp Generation](https://arxiv.org/abs/2405.19291)
 - [Grasp Multiple Objects with One Hand](https://arxiv.org/abs/2310.15599)
 - [Grasping Diverse Objects with Simulated Humanoids](https://yzhu.io/publication/grasp2024ral/paper.pdf) [➕](https://www.zhengyiluo.com/Omnigrasp-Site/)
 - [GraspXL: Generating Grasping Motions for Diverse Objects at Scale](https://arxiv.org/abs/2403.19649) [➕](https://eth-ait.github.io/graspxl/)
