@@ -89,6 +89,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [FFHFlow: A Flow-based Variational Approach for Learning Diverse Dexterous Grasps with Shape-Aware Introspection](https://arxiv.org/abs/2407.15161)
 - [From Real World to Logic and Back: Learning Generalizable Relational Concepts For Long Horizon Robot Planning](https://arxiv.org/abs/2402.11871)
 - [From Simple to Complex Skills: The Case of In-Hand Object Reorientation](https://arxiv.org/abs/2501.05439) [➕](https://dexhier.github.io/)
+- [Generalizable Humanoid Manipulation with 3D Diffusion Policies](https://arxiv.org/abs/2410.10803)
 - [Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis](https://arxiv.org/abs/2502.00935)
 - [Generative Artificial Intelligence in Robotic Manipulation: A Survey](https://arxiv.org/pdf/2503.03464)
 - [Geometry-aware 4D Video Generation for Robot Manipulation](https://arxiv.org/abs/2507.01099v1)
