@@ -907,6 +907,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Seminars/Talks</b>
 - [CMU Robotics Institute Seminar Series](https://www.youtube.com/playlist?list=PLCFD85BC79FE703DF) - [Website](https://www.ri.cmu.edu/ri-seminar-series)
 - [MIT Robotics Seminar](https://www.youtube.com/@MITRoboticsSeminar) - [Website](https://robotics.mit.edu/robotics-seminar)
+- [RSS - Robotics Science and Systems](https://www.youtube.com/@roboticsscienceandsystems2817) - [Website](https://roboticsconference.org)
+  - [RSS 2025: Manipulation I](https://youtu.be/qJgmmudGrY8?t=11013) - [RSS 2025: Manipulation II](https://youtu.be/b6SVm8zuUcc?t=11135) - [RSS 2025: Manipulation III](https://youtu.be/74EDmPwbOYc?t=6382)
 - [Stanford CS25, Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=DYwq9Fem52yk92OU) - [Website](https://web.stanford.edu/class/cs25)
 - [Stanford Robotics Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD) - [Website](https://stanfordasl.github.io/robotics_seminar)
 
@@ -925,6 +927,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>Mobile Manipulation</b>
 - [ICRA 2024 Workshop: 2nd on Mobile Manipulation and Embodied Intelligence](https://www.youtube.com/watch?v=bEVx_E3iUyk) - [OpenReview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/MoMa)
+- [RSS 2025 Day 2: Session 13](https://youtu.be/b6SVm8zuUcc?t=22190)
+- [RSS 2025 Workshop: Whole-body Control and Bimanual Manipulation - Applications in Humanoids and Beyond](https://wcbm-workshop.github.io) - [Videos](https://youtube.com/playlist?list=PLU7vZNuwnM4DNcos0FCcoa9nHYN4pb_lV&si=lG2NVw-N4y99jRey) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/WCBM)
 
 <b>Learning-based & Data-driven Manipulation</b>
 - [CoRL 2022 Workshops](https://corl2022.org/workshopvideos) - [Openreview](https://openreview.net/group?id=robot-learning.org/CoRL/2022/Workshop)
