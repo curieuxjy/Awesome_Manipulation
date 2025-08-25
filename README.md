@@ -102,7 +102,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441)
 - [ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation](https://openreview.net/forum?id=lujxPiu99k)
 - [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664)
-- [KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation]https://arxiv.org/abs/2505.01974)
+- [KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation](https://arxiv.org/abs/2505.01974)
 - [KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands](https://arxiv.org/abs/2503.01078)
 - [Latent Adaptive Planner for Dynamic Manipulation](https://www.arxiv.org/abs/2505.03077)
 - [Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation](https://arxiv.org/abs/2505.09144)
