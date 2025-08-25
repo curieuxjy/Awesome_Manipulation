@@ -281,6 +281,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints](https://arxiv.org/abs/2308.02453) [➕](http://tactilesim.csail.mit.edu/)
 - [Global Planning for Contact-Rich Manipulation via Local Smoothing of Quasi-dynamic Contact Models](https://arxiv.org/pdf/2206.10787)
 - [IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality](https://arxiv.org/abs/2305.17110) [➕](https://sites.google.com/nvidia.com/industreal)
+- [Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations](https://arxiv.org/abs/2207.05053)
 - [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469)
 - [Perceiving Extrinsic Contacts from Touch Improves Learning Insertion Policies](https://arxiv.org/abs/2309.16652)
 - [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880) [➕](https://touchdexterity.github.io/)
