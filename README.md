@@ -514,6 +514,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Real--MVP-lightblue?style=flat-square)](https://tetexiao.com/projects/real-mvp) [![](https://img.shields.io/badge/MVP-lightblue?style=flat-square)](https://tetexiao.com/projects/mvp) [![](https://img.shields.io/badge/ir413-mvp-black?style=flat-square&logo=github)](https://github.com/ir413/mvp) <img src="https://img.shields.io/github/stars/ir413/mvp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RotateIt-lightblue?style=flat-square)](https://haozhi.io/rotateit) [![](https://img.shields.io/badge/General--In--Hand--Object--Rotation--with--Vision--and--Touch-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2309.09979)
 - [![](https://img.shields.io/badge/See--to--Touch-lightblue?style=flat-square)](https://see-to-touch.github.io) [![](https://img.shields.io/badge/irmakguzey-see--to--touch-black?style=flat-square&logo=github)](https://github.com/irmakguzey/see-to-touch) <img src="https://img.shields.io/github/stars/irmakguzey/see-to-touch?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/TacSL-lightblue?style=flat-square)](https://iakinola23.github.io/tacsl) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--tacsl-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/tacsl/isaacgymenvs/tacsl_sensors/install/tacsl_setup.md) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Tactile--Dexterity--MCube-lightblue?style=flat-square)](https://mcube.mit.edu/research/tactile_dexterity.html) [![](https://img.shields.io/badge/Manipulation--Primitives--with--Tactile--Feedback-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2002.03236)
 - [![](https://img.shields.io/badge/Tactile--Dexterity-lightblue?style=flat-square)](https://tactile-dexterity.github.io) [![](https://img.shields.io/badge/irmakguzey-tactile--dexterity-black?style=flat-square&logo=github)](https://github.com/irmakguzey/tactile-dexterity) <img src="https://img.shields.io/github/stars/irmakguzey/tactile-dexterity?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Tactile--Gym-lightblue?style=flat-square)](https://sites.google.com/view/tactile-gym-2) [![](https://img.shields.io/badge/Tactile--RL--Pushing-lightblue?style=flat-square)](https://sites.google.com/view/tactile-rl-pushing) [![](https://img.shields.io/badge/dexterousrobot-tactile_gym-black?style=flat-square&logo=github)](https://github.com/dexterousrobot/tactile_gym) <img src="https://img.shields.io/github/stars/dexterousrobot/tactile_gym?style=flat-square&color=yellow">
@@ -560,7 +561,6 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [![](https://img.shields.io/badge/HACMan++-lightblue?style=flat-square)](https://sgmp-rss2024.github.io) [![](https://img.shields.io/badge/JiangBowen0008-HACManPP-black?style=flat-square&logo=github)](https://github.com/JiangBowen0008/HACManPP) <img src="https://img.shields.io/github/stars/JiangBowen0008/HACManPP?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/hora-lightblue?style=flat-square)](https://haozhi.io/hora) [![](https://img.shields.io/badge/HaozhiQi-hora-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/hora) <img src="https://img.shields.io/github/stars/HaozhiQi/hora?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/IndustReal-lightblue?style=flat-square)](https://research.nvidia.com/publication/2023-05_industreal-transferring-contact-rich-assembly-tasks-simulation-reality) [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/KODex-lightblue?style=flat-square)](https://sites.google.com/view/kodex-corl) [![](https://img.shields.io/badge/GT--STAR--Lab-KODex-black?style=flat-square&logo=github)](https://github.com/GT-STAR-Lab/KODex) <img src="https://img.shields.io/github/stars/GT-STAR-Lab/KODex?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/penspin-lightblue?style=flat-square)](https://penspin.github.io) [![](https://img.shields.io/badge/HaozhiQi-penspin-black?style=flat-square&logo=github)](https://github.com/HaozhiQi/penspin) <img src="https://img.shields.io/github/stars/HaozhiQi/penspin?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ReDMan-lightblue?style=flat-square)](https://link.springer.com/article/10.1007/s10994-025-06825-x) [![](https://img.shields.io/badge/PKU--Alignment-ReDMan-black?style=flat-square&logo=github)](https://github.com/PKU-Alignment/ReDMan) <img src="https://img.shields.io/github/stars/PKU-Alignment/ReDMan?style=flat-square&color=yellow">
@@ -596,7 +596,9 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Mobile/Whole-body manipulation</b></summary>
 
-> These repos are focused on relevancy to manipulation. Please see [here](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots#related-materials) for ones on quadruped/biped locomotion/whole-body movement learning.
+> Please reference [here](#dataset_mobile) for Datasets
+> 
+> These repos are focused on relevancy to manipulation. Please reference [here](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots#related-materials) for ones on quadruped/biped locomotion/whole-body movement learning.
 
 - [![](https://img.shields.io/badge/Arm--Constrained--Curriculum--Learning--for--Loco--Manipulation--of--the--Wheel--Legged--Robot-lightblue?style=flat-square)](https://acodedog.github.io/wheel-legged-loco-manipulation) [![](https://img.shields.io/badge/aCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
@@ -612,6 +614,19 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/RoboCasa-lightblue?style=flat-square)](https://robocasa.ai) [![](https://img.shields.io/badge/robocasa-robocasa-black?style=flat-square&logo=github)](https://github.com/robocasa/robocasa) <img src="https://img.shields.io/github/stars/robocasa/robocasa?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TidyBot++-lightblue?style=flat-square)](https://tidybot2.github.io) [![](https://img.shields.io/badge/jimmyyhwu-tidybot2-black?style=flat-square&logo=github)](https://github.com/jimmyyhwu/tidybot2) <img src="https://img.shields.io/github/stars/jimmyyhwu/tidybot2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sim_isaaclab-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sim_isaaclab) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Learning: Assembly</b></summary>
+
+> Please reference [here](#dataset_assembly) for Datasets
+
+- [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
+- [NVIDIA Robotic Assembly](https://developer.nvidia.com/blog/r2d2-unlocking-robotic-assembly-and-contact-rich-manipulation-with-nvidia-research)
+  - [![](https://img.shields.io/badge/Factory-lightblue?style=flat-square)](https://research.nvidia.com/publication/2022-05_factory-fast-contact-robotic-assembly) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--Factory-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/automate/docs/factory.md) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Factory-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/factory)
+  - [![](https://img.shields.io/badge/FORGE-lightblue?style=flat-square)](https://noseworm.github.io/forge) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Forge-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/forge)
+  - [![](https://img.shields.io/badge/IndustReal-lightblue?style=flat-square)](https://research.nvidia.com/publication/2023-05_industreal-transferring-contact-rich-assembly-tasks-simulation-reality) [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--IndustRealSim-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/main/docs/industreal.md) [Blog](https://developer.nvidia.com/blog/bridging-the-sim-to-real-gap-for-industrial-robotic-assembly-applications-using-nvidia-isaac-lab)
+  - [![](https://img.shields.io/badge/MatchMaker-lightblue?style=flat-square)](https://wangyian-me.github.io/MatchMaker) [![](https://img.shields.io/badge/Automated--Asset--Generation--for--Robotic--Assembly-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.05887)
+  - [![](https://img.shields.io/badge/SRSA-lightblue?style=flat-square)](https://srsa2024.github.io) [![](https://img.shields.io/badge/Skill--Retrieval--and--Adaptation--for--Robotic--Assembly--Tasks-darkred?style=flat-square)](https://openreview.net/forum?id=RInisw1yin)
 </details>
 
 <details><summary><b>LEARNING - MODELS</b></summary>
@@ -659,7 +674,10 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Datasets: Assembly</b></summary>
+<a id="dataset_assembly"></a>
 
+- [![](https://img.shields.io/badge/Assemble--Them--All-lightblue?style=flat-square)](https://assembly.csail.mit.edu) [![](https://img.shields.io/badge/yunshengtian-Assemble--Them--All-black?style=flat-square&logo=github)](https://github.com/yunshengtian/Assemble-Them-All) <img src="https://img.shields.io/github/stars/yunshengtian/Assemble-Them-All?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/AutoMate-lightblue?style=flat-square)](https://developer.nvidia.com/blog/training-sim-to-real-transferable-robotic-assembly-skills-over-diverse-geometries) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--automate-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/automate/docs/automate.md) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--AutoMate-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/automate)
 - [![](https://img.shields.io/badge/Furniture--Bench-lightblue?style=flat-square)](https://clvrai.github.io/furniture-bench/docs/tutorials/dataset.html) [![](https://img.shields.io/badge/clvrai-furniture--bench-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture-bench) <img src="https://img.shields.io/github/stars/clvrai/furniture-bench?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/REASSEMBLE-lightblue?style=flat-square)](https://tuwien-asl.github.io/REASSEMBLE_page) [![](https://img.shields.io/badge/TUWIEN--ASL-REASSEMBLE-black?style=flat-square&logo=github)](https://github.com/TUWIEN-ASL/REASSEMBLE) <img src="https://img.shields.io/github/stars/TUWIEN-ASL/REASSEMBLE?style=flat-square&color=yellow">
@@ -680,7 +698,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/unitreerobotics-DualArmDataSets-black?style=flat-square&logo=huggingface)](https://huggingface.co/unitreerobotics/datasets?search=dualarm)
 </details>
 
-<details><summary><b>&nbsp;&nbsp;- Datasets: Mobile manipulation</b></summary>
+<details><summary><b>&nbsp;&nbsp;- Datasets: Mobile/Whole-body manipulation</b></summary>
+<a id="dataset_mobile"></a>
 
 - [![](https://img.shields.io/badge/MOMART-lightblue?style=flat-square)](https://robomimic.github.io/docs/datasets/momart.html)
 </details>
