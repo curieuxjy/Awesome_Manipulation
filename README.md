@@ -17,9 +17,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Introduction to Robotics: Mechanics and Control, John J. Craig](https://elibrary.pearson.de/book/99.150005/9781292164953)
 - [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 - [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
-- [Robotic Manipulation Perception, Planning, and Control, Russ Tedrake](https://manipulation.csail.mit.edu)
-- [Robotic Systems, Kris Hauser, University of Illinois](https://motion.cs.illinois.edu/RoboticSystems)
-- [Robotics Modelling, Planning and Control, Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
+- [Robotic Manipulation Perception, Planning, and Control, Prof. Russ Tedrake, MIT](https://manipulation.csail.mit.edu)
+- [Robotic Systems, Prof. Kris Hauser, University of Illinois](https://motion.cs.illinois.edu/RoboticSystems)
+- [Robotics Modelling, Planning and Control, Prof. Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
+  - [Robotics Foundations I, Prof. Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=470)
+  - [Robotics Foundations II - Prof. Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=480)
 - [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
   
 ## Surveys
