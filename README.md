@@ -12,16 +12,17 @@ This curation covers a wide range of robotic manipulation tasks.
 # Good to Start 🤓
 
 ## Books/Tutorials
-- [A Math Cookbook for Robot Manipulation, Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch)
+- [A Math Cookbook for Robot Manipulation, Prof. Sylvain Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch)
 - [A Mathematical Introduction to Robotic Manipulation, Richard Murray](https://dl.acm.org/doi/10.5555/561828)
+- [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://see.stanford.edu/course/cs223a)
 - [Introduction to Robotics: Mechanics and Control, John J. Craig](https://elibrary.pearson.de/book/99.150005/9781292164953)
-- [Modern Robotics, Kevin M. Lynch and Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
-- [Robot Dynamics Lecture Notes, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
+- [Modern Robotics, Prof. Kevin M. Lynch & Prof. Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+- [Robot Dynamics Lecture Notes, Robotic Systems Lab, ETH](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf)
 - [Robotic Manipulation Perception, Planning, and Control, Prof. Russ Tedrake, MIT](https://manipulation.csail.mit.edu)
 - [Robotic Systems, Prof. Kris Hauser, University of Illinois](https://motion.cs.illinois.edu/RoboticSystems)
-- [Robotics Modelling, Planning and Control, Prof. Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
-  - [Robotics Foundations I, Prof. Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=470)
-  - [Robotics Foundations II - Prof. Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=480)
+- [Robotics Modelling, Planning and Control, Siciliano et al.](https://link.springer.com/book/10.1007/978-1-84628-642-1)
+  - [Robotics Foundations I, Prof. Bruno Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=470)
+  - [Robotics Foundations II, Prof. Bruno Siciliano, University of Naples Federico II](https://lms.federica.eu/enrol/index.php?id=480)
 - [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
   
 ## Surveys
@@ -535,7 +536,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;- Learning: Visuo-motor policies With VLM/VLA/VA</b></summary>
 
-> Please refer to [Foundation Models](#foundation_models) for more detailed surveys
+> Please refer to [Learning-Models](#foundation_models) for more detailed surveys
 
 - [![](https://img.shields.io/badge/AutoBio-lightblue?style=flat-square)](https://arxiv.org/abs/2505.14030) [![](https://img.shields.io/badge/autobio--bench-AutoBio-black?style=flat-square&logo=github)](https://github.com/autobio-bench/AutoBio) <img src="https://img.shields.io/github/stars/autobio-bench/AutoBio?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AVDC-lightblue?style=flat-square)](https://flow-diffusion.github.io) [![](https://img.shields.io/badge/flow--diffusion-AVDC-black?style=flat-square&logo=github)](https://github.com/flow-diffusion/AVDC) <img src="https://img.shields.io/github/stars/flow-diffusion/AVDC?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/flow--diffusion-AVDC_experiments-black?style=flat-square&logo=github)](https://github.com/flow-diffusion/AVDC_experiments) <img src="https://img.shields.io/github/stars/flow-diffusion/AVDC_experiments?style=flat-square&color=yellow">
@@ -598,7 +599,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Mobile/Whole-body manipulation</b></summary>
 
-> Please reference [here](#dataset_mobile) for Datasets
+> Please reference [Learning-Datasets: Mobile/Whole-body manipulation](#dataset_mobile) for datasets
 > 
 > These repos are focused on relevancy to manipulation. Please reference [here](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots#related-materials) for ones on quadruped/biped locomotion/whole-body movement learning.
 
@@ -620,7 +621,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Assembly</b></summary>
 
-> Please reference [here](#dataset_assembly) for Datasets
+> Please reference [Learning-Datasets: Assembly](#dataset_assembly) for fatasets
 
 - [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
 - [NVIDIA Robotic Assembly](https://developer.nvidia.com/blog/r2d2-unlocking-robotic-assembly-and-contact-rich-manipulation-with-nvidia-research)
@@ -966,7 +967,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <b>Courses/Tutorials</b>
 - [Advanced Robotics, Fall 2019, Prof. Pieter Abbeel, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19)
 - [Control Bootcamp, Prof. Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
-- [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF) 
+- [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)
 - [MATLAB Tech Talks](https://www.mathworks.com/videos/tech-talks.html)
 - [Robotic Manipulation, Fall 2023, Prof. Russ Tedrake, MIT](https://www.youtube.com/watch?v=v04rn86Dehg&list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX) - [Final Projects](https://www.youtube.com/playlist?list=PLkx8KyIQkMfXgWkN-4ary4u4E2-vMOIz9) - [Further](https://www.youtube.com/@underactuated5171/playlists) - [Website](https://manipulation.csail.mit.edu)
 - [Robotics, Engineering Educator Academy](https://www.youtube.com/playlist?list=PLjoIYgWzjQHK8G2O56jsu56dmjWiipguv)
