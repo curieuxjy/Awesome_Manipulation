@@ -928,6 +928,10 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_mpc) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-gpc-black?style=flat-square&logo=github)](https://github.com/vincekurtz/gpc) <img src="https://img.shields.io/github/stars/vincekurtz/gpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-hydrax-black?style=flat-square&logo=github)](https://github.com/vincekurtz/hydrax) <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/tud--amr-gray?style=flat-square&logo=github)](https://github.com/tud-amr)
+  - [![](https://img.shields.io/badge/biased--mppi-lightblue?style=flat-square)](https://autonomousrobots.nl/paper_websites/biased-mppi) [![](https://img.shields.io/badge/tud--amr-biased--mppi-black?style=flat-square&logo=github)](https://github.com/tud-amr/biased-mppi) <img src="https://img.shields.io/github/stars/tud-amr/biased-mppi?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/isaac--mppi-lightblue?style=flat-square)](https://autonomousrobots.nl/paper_websites/isaac-mppi) [![](https://img.shields.io/badge/tud--amr-mppi--isaac-black?style=flat-square&logo=github)](https://github.com/tud-amr/mppi-isaac) <img src="https://img.shields.io/github/stars/tud-amr/mppi-isaac?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/m3p2i--aip-lightblue?style=flat-square)](https://autonomousrobots.nl/paper_websites/m3p2i-aip) [![](https://img.shields.io/badge/tud--amr-m3p2i--aip-black?style=flat-square&logo=github)](https://github.com/tud-amr/m3p2i-aip) <img src="https://img.shields.io/github/stars/tud-amr/m3p2i-aip?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based MPC</b></summary>
