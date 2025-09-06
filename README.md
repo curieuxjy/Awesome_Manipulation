@@ -718,6 +718,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/DexPBT-lightblue?style=flat-square)](https://sites.google.com/view/dexpbt) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--DexPBT-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/main/docs/pbt.md) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Dynamic--Handover-lightblue?style=flat-square)](https://binghao-huang.github.io/dynamic_handover) [![](https://img.shields.io/badge/cypypccpy-dynamic_handover-black?style=flat-square&logo=github)](https://github.com/cypypccpy/dynamic_handover) <img src="https://img.shields.io/github/stars/cypypccpy/dynamic_handover?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/IsaacLab--Shadow--Hand--Over-lightblue?style=flat-square)](https://isaac-sim.github.io/IsaacLab/main/source/overview/environments.html#id2) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Shadow--Hand--Over-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/shadow_hand_over) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Rofunc--BiShadowHand--Hand--Over-lightblue?style=flat-square)](https://rofunc.readthedocs.io/en/latest/examples/index.html) [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Mobile/Whole-body manipulation</b></summary>
@@ -1025,8 +1026,9 @@ This curation covers a wide range of robotic manipulation tasks.
 
 [END PARALLEL GRIPPER GRASP]: #
 
-<details><summary><b>SCISSOR GRIPPER GRASP/CUT</b></summary>
+<details><summary><b>SCISSORS HANDLING</b></summary>
 
+- [![](https://img.shields.io/badge/Rofunc--BiShadowHand--Scissors-lightblue?style=flat-square)](https://rofunc.readthedocs.io/en/latest/examples/index.html) [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ScissorBot-lightblue?style=flat-square)](https://pku-epic.github.io/ScissorBot) [![](https://img.shields.io/badge/jiangranlv-ScissorBot-black?style=flat-square&logo=github)](https://github.com/jiangranlv/ScissorBot) <img src="https://img.shields.io/github/stars/jiangranlv/ScissorBot?style=flat-square&color=yellow">
 </details>
 
