@@ -977,8 +977,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [![](https://img.shields.io/badge/I.AM.-lightblue?style=flat-square)](https://i-am-project.eu) [![](https://img.shields.io/badge/epfl--lasa-iam_dual_arm_control-black?style=flat-square&logo=github)](https://github.com/epfl-lasa/iam_dual_arm_control) <img src="https://img.shields.io/github/stars/epfl-lasa/iam_dual_arm_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/muddasser--mm-Thrower_Goalie_RobotArms-black?style=flat-square&logo=github)](https://github.com/muddasser-mm/Thrower_Goalie_RobotArms) <img src="https://img.shields.io/github/stars/muddasser-mm/Thrower_Goalie_RobotArms?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/TossingBot-lightblue?style=flat-square)](https://tossingbot.cs.princeton.edu) [![](https://img.shields.io/badge/Learning--to--Throw--Arbitrary--Objects--with--Residual--Physics-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11239)
 - [![](https://img.shields.io/badge/qujohn314-Throwing--Robots-black?style=flat-square&logo=github)](https://github.com/qujohn314/Throwing-Robots) <img src="https://img.shields.io/github/stars/qujohn314/Throwing-Robots?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/TossingBot-lightblue?style=flat-square)](https://tossingbot.cs.princeton.edu) [![](https://img.shields.io/badge/Learning--to--Throw--Arbitrary--Objects--with--Residual--Physics-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11239)
 </details>
 
 <details><summary><b>PARALLEL GRIPPER GRASP</b></summary>
