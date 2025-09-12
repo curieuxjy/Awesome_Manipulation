@@ -765,6 +765,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 > Please reference [Learning-Datasets: Assembly](#dataset_assembly) for datasets
 
+- [![](https://img.shields.io/badge/AnyPlace-lightblue?style=flat-square)](https://any-place.github.io) [![](https://img.shields.io/badge/ac--rad-anyplace-black?style=flat-square&logo=github)](https://github.com/ac-rad/anyplace) <img src="https://img.shields.io/github/stars/ac-rad/anyplace?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/Skill--Chaining-lightblue?style=flat-square)](https://clvrai.github.io/skill-chaining) [![](https://img.shields.io/badge/clvrai-skill--chaining-black?style=flat-square&logo=github)](https://github.com/clvrai/skill-chaining) <img src="https://img.shields.io/github/stars/clvrai/skill-chaining?style=flat-square&color=yellow">
 - [NVIDIA Robotic Assembly](https://developer.nvidia.com/blog/r2d2-unlocking-robotic-assembly-and-contact-rich-manipulation-with-nvidia-research)
@@ -962,6 +963,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/riddhiman13-predictive--multi--agent--framework-black?style=flat-square&logo=github)](https://github.com/riddhiman13/predictive-multi-agent-framework) <img src="https://img.shields.io/github/stars/riddhiman13/predictive-multi-agent-framework?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Roahm--Lab-BLAZE-lightblue?style=flat-square)](https://roahmlab.github.io/BLAZE) [![](https://img.shields.io/badge/Phasing--Through--the--Flames:--Rapid--Motion--Planning--with--the--AGHF--PDE-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.01589)
 - [![](https://img.shields.io/badge/Roahm--Lab-RAPTOR-lightblue?style=flat-square)](https://roahmlab.github.io/RAPTOR) [![](https://img.shields.io/badge/ARMOUR-lightblue?style=flat-square)](https://roahmlab.github.io/armour) [![](https://img.shields.io/badge/roahmlab-RAPTOR-black?style=flat-square&logo=github)](https://github.com/roahmlab/RAPTOR) <img src="https://img.shields.io/github/stars/roahmlab/RAPTOR?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ruiqini-P--NTFields-black?style=flat-square&logo=github)](https://github.com/ruiqini/P-NTFields) <img src="https://img.shields.io/github/stars/ruiqini/P-NTFields?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tud--amr-fabrics-black?style=flat-square&logo=github)](https://github.com/tud-amr/fabrics) <img src="https://img.shields.io/github/stars/tud-amr/fabrics?style=flat-square&color=yellow">
 </details>
 
@@ -984,8 +986,25 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>OBJECT HANGING</b></summary>
 
+- [![](https://img.shields.io/badge/AnyPlace-lightblue?style=flat-square)](https://any-place.github.io) [![](https://img.shields.io/badge/ac--rad-anyplace-black?style=flat-square&logo=github)](https://github.com/ac-rad/anyplace) <img src="https://img.shields.io/github/stars/ac-rad/anyplace?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RiEMann-lightblue?style=flat-square)](https://riemann-web.github.io) [![](https://img.shields.io/badge/HeegerGao-RiEMann-black?style=flat-square&logo=github)](https://github.com/HeegerGao/RiEMann) <img src="https://img.shields.io/github/stars/HeegerGao/RiEMann?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SKT--Hang-lightblue?style=flat-square)](https://hcis-lab.github.io/SKT-Hang) [![](https://img.shields.io/badge/HCIS--Lab-SKT--Hang-black?style=flat-square&logo=github)](https://github.com/HCIS-Lab/SKT-Hang) <img src="https://img.shields.io/github/stars/HCIS-Lab/SKT-Hang?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>OBJECT BIN PACKING</b></summary>
+
+- [![](https://img.shields.io/badge/alexfrom0815-IR--BPP-black?style=flat-square&logo=github)](https://github.com/alexfrom0815/IR-BPP) <img src="https://img.shields.io/github/stars/alexfrom0815/IR-BPP?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/alexfrom0815-Online--3D--BPP--DRL-black?style=flat-square&logo=github)](https://github.com/alexfrom0815/Online-3D-BPP-DRL) <img src="https://img.shields.io/github/stars/alexfrom0815/Online-3D-BPP-DRL?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/alexfrom0815-Online--3D--BPP--PCT-black?style=flat-square&logo=github)](https://github.com/alexfrom0815/Online-3D-BPP-PCT) <img src="https://img.shields.io/github/stars/alexfrom0815/Online-3D-BPP-PCT?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/BoxED-lightblue?style=flat-square)](https://github.com/andrejfsantos4/BoxED_Environment) [![](https://img.shields.io/badge/andrejfsantos4-BoxED-black?style=flat-square&logo=github)](https://github.com/andrejfsantos4/BoxED) <img src="https://img.shields.io/github/stars/andrejfsantos4/BoxED?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bryanat-Reinforcement--Learning--Unity--3D--Packing-black?style=flat-square&logo=github)](https://github.com/bryanat/Reinforcement-Learning-Unity-3D-Packing) <img src="https://img.shields.io/github/stars/bryanat/Reinforcement-Learning-Unity-3D-Packing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/kwpoon-PPN--Pack-black?style=flat-square&logo=github)](https://github.com/kwpoon/PPN-Pack) <img src="https://img.shields.io/github/stars/kwpoon/PPN-Pack?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/kwpoon-SDF--Pack-black?style=flat-square&logo=github)](https://github.com/kwpoon/SDF-Pack) <img src="https://img.shields.io/github/stars/kwpoon/SDF-Pack?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/lotuc-bin--pack-black?style=flat-square&logo=github)](https://github.com/lotuc/bin-pack) <img src="https://img.shields.io/github/stars/lotuc/bin-pack?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/lv416e-binax-black?style=flat-square&logo=github)](https://github.com/lv416e/binax) <img src="https://img.shields.io/github/stars/lv416e/binax?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Xiong5Heng-GOPT-black?style=flat-square&logo=github)](https://github.com/Xiong5Heng/GOPT) <img src="https://img.shields.io/github/stars/Xiong5Heng/GOPT?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RoboPack-lightblue?style=flat-square)](https://robo-pack.github.io) [![](https://img.shields.io/badge/BoAi01-robopack-black?style=flat-square&logo=github)](https://github.com/BoAi01/robopack) <img src="https://img.shields.io/github/stars/BoAi01/robopack?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RROS--Lab-IROS2024--Bin--Packing-black?style=flat-square&logo=github)](https://github.com/RROS-Lab/IROS2024-Bin-Packing) <img src="https://img.shields.io/github/stars/RROS-Lab/IROS2024-Bin-Packing?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>OBJECT THROWING</b></summary>
@@ -1041,10 +1060,27 @@ This curation covers a wide range of robotic manipulation tasks.
 
 [END PARALLEL GRIPPER GRASP]: #
 
+<details><summary><b>POURING</b></summary>
+
+- [![](https://img.shields.io/badge/cxdcxd-RRS-black?style=flat-square&logo=github)](https://github.com/cxdcxd/RRS) <img src="https://img.shields.io/github/stars/cxdcxd/RRS?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/dlsfldl-EMMP--public-black?style=flat-square&logo=github)](https://github.com/dlsfldl/EMMP-public) <img src="https://img.shields.io/github/stars/dlsfldl/EMMP-public?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/kelvin34501-OakInk2--SimEnv--IsaacGym-black?style=flat-square&logo=github)](https://github.com/kelvin34501/OakInk2-SimEnv-IsaacGym) <img src="https://img.shields.io/github/stars/kelvin34501/OakInk2-SimEnv-IsaacGym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/lianghongzhuo-AudioPouring-black?style=flat-square&logo=github)](https://github.com/lianghongzhuo/AudioPouring) <img src="https://img.shields.io/github/stars/lianghongzhuo/AudioPouring?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/lianghongzhuo-MultimodalPouring-black?style=flat-square&logo=github)](https://github.com/lianghongzhuo/MultimodalPouring) <img src="https://img.shields.io/github/stars/lianghongzhuo/MultimodalPouring?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/OSCAR-lightblue?style=flat-square)](https://cremebrule.github.io/oscar-web) [![](https://img.shields.io/badge/NVlabs-oscar-black?style=flat-square&logo=github)](https://github.com/NVlabs/oscar) <img src="https://img.shields.io/github/stars/NVlabs/oscar?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RROS--Lab-PhysicsInformedScrewDriving-black?style=flat-square&logo=github)](https://github.com/RROS-Lab/PhysicsInformedScrewDriving) <img src="https://img.shields.io/github/stars/RROS-Lab/PhysicsInformedScrewDriving?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/SoftMAC-lightblue?style=flat-square)](https://minliu01.github.io/SoftMAC) [![](https://img.shields.io/badge/minliu01-SoftMAC-black?style=flat-square&logo=github)](https://github.com/minliu01/SoftMAC) <img src="https://img.shields.io/github/stars/minliu01/SoftMAC?style=flat-square&color=yellow">
+</details>
+
 <details><summary><b>SCISSORS HANDLING</b></summary>
 
 - [![](https://img.shields.io/badge/Rofunc--BiShadowHand--Scissors-lightblue?style=flat-square)](https://rofunc.readthedocs.io/en/latest/examples/index.html) [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ScissorBot-lightblue?style=flat-square)](https://pku-epic.github.io/ScissorBot) [![](https://img.shields.io/badge/jiangranlv-ScissorBot-black?style=flat-square&logo=github)](https://github.com/jiangranlv/ScissorBot) <img src="https://img.shields.io/github/stars/jiangranlv/ScissorBot?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>SCREW DRIVING</b></summary>
+
+- [![](https://img.shields.io/badge/RROS--Lab-PhysicsInformedScrewDriving-black?style=flat-square&logo=github)](https://github.com/RROS-Lab/PhysicsInformedScrewDriving) <img src="https://img.shields.io/github/stars/RROS-Lab/PhysicsInformedScrewDriving?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>TRAINING-FREE IN-HAND MANIPULATION</b></summary>
