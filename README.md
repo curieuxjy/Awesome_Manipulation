@@ -91,6 +91,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance](https://arxiv.org/abs/2505.08444)
 - [Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](https://arxiv.org/abs/2506.10968)
 - [Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning](https://arxiv.org/abs/2506.05168)
+- [FDPP: Fine-tune Diffusion Policy with Human Preference](https://arxiv.org/abs/2501.08259)
 - [FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real](https://arxiv.org/abs/2502.17894)
 - [FFHFlow: A Flow-based Variational Approach for Learning Diverse Dexterous Grasps with Shape-Aware Introspection](https://arxiv.org/abs/2407.15161)
 - [FoAM: Foresight-Augmented Multi-Task Imitation Policy for Robotic Manipulation](https://arxiv.org/abs/2409.19528)
@@ -124,6 +125,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools](https://arxiv.org/abs/2311.02787)
 - [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](https://arxiv.org/abs/2503.21860)
 - [ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI](https://arxiv.org/abs/2410.00425)
+- [MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention](https://arxiv.org/abs/2406.16258)
 - [Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2505.04619)
 - [Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation](https://arxiv.org/abs/2505.05287)
 - [Motion Blender Gaussian Splatting for Dynamic Scene Reconstruction](https://arxiv.org/abs/2503.09040)
@@ -206,6 +208,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation](https://arxiv.org/abs/2403.12861)
 - [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) [➕](https://dex-cap.github.io/)
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) [➕](https://dexdiffuser.github.io/)
+- [DexH2R: Task-oriented Dexterous Manipulation from Human to Robots])(https://arxiv.org/abs/2411.04428)
 - [DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity](https://arxiv.org/abs/2401.12496)
 - [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://arxiv.org/abs/2407.02274)
 - [DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands](https://arxiv.org/abs/2412.01791)
@@ -1022,16 +1025,16 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>OBJECT HANGING</b></summary>
 
 - [![](https://img.shields.io/badge/AnyPlace-lightblue?style=flat-square)](https://any-place.github.io) [![](https://img.shields.io/badge/ac--rad-anyplace-black?style=flat-square&logo=github)](https://github.com/ac-rad/anyplace) <img src="https://img.shields.io/github/stars/ac-rad/anyplace?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Diffusion--EDFs-lightblue?style=flat-square)](https://sites.google.com/view/diffusion-edfs) [![](https://img.shields.io/badge/tomato1mule-diffusion_edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/diffusion_edf) <img src="https://img.shields.io/github/stars/tomato1mule/diffusion_edf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RiEMann-lightblue?style=flat-square)](https://riemann-web.github.io) [![](https://img.shields.io/badge/HeegerGao-RiEMann-black?style=flat-square&logo=github)](https://github.com/HeegerGao/RiEMann) <img src="https://img.shields.io/github/stars/HeegerGao/RiEMann?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SKT--Hang-lightblue?style=flat-square)](https://hcis-lab.github.io/SKT-Hang) [![](https://img.shields.io/badge/HCIS--Lab-SKT--Hang-black?style=flat-square&logo=github)](https://github.com/HCIS-Lab/SKT-Hang) <img src="https://img.shields.io/github/stars/HCIS-Lab/SKT-Hang?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/Diffusion--EDFs-lightblue?style=flat-square)](https://sites.google.com/view/diffusion-edfs) [![](https://img.shields.io/badge/tomato1mule-diffusion_edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/diffusion_edf) <img src="https://img.shields.io/github/stars/tomato1mule/diffusion_edf?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/tomato1mule-edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/edf) <img src="https://img.shields.io/github/stars/tomato1mule/edf?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>OBJECT THROWING</b></summary>
 
-- [![](https://img.shields.io/badge/I.AM.-lightblue?style=flat-square)](https://i-am-project.eu) [![](https://img.shields.io/badge/epfl--lasa-iam_dual_arm_control-black?style=flat-square&logo=github)](https://github.com/epfl-lasa/iam_dual_arm_control) <img src="https://img.shields.io/github/stars/epfl-lasa/iam_dual_arm_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DMMP-lightblue?style=flat-square)](https://diffmmp.github.io) [![](https://img.shields.io/badge/Differentiable--Motion--Manifold--Primitives--for--Reactive--Motion--Generation--under--Kinodynamic--Constraints-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.12193)
+- [![](https://img.shields.io/badge/I.AM.-lightblue?style=flat-square)](https://i-am-project.eu) [![](https://img.shields.io/badge/epfl--lasa-iam_dual_arm_control-black?style=flat-square&logo=github)](https://github.com/epfl-lasa/iam_dual_arm_control) <img src="https://img.shields.io/github/stars/epfl-lasa/iam_dual_arm_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/muddasser--mm-Thrower_Goalie_RobotArms-black?style=flat-square&logo=github)](https://github.com/muddasser-mm/Thrower_Goalie_RobotArms) <img src="https://img.shields.io/github/stars/muddasser-mm/Thrower_Goalie_RobotArms?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/qujohn314-Throwing--Robots-black?style=flat-square&logo=github)](https://github.com/qujohn314/Throwing-Robots) <img src="https://img.shields.io/github/stars/qujohn314/Throwing-Robots?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TossingBot-lightblue?style=flat-square)](https://tossingbot.cs.princeton.edu) [![](https://img.shields.io/badge/Learning--to--Throw--Arbitrary--Objects--with--Residual--Physics-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11239)
