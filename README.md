@@ -243,6 +243,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing](https://arxiv.org/abs/2407.07885)
 - [Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient](https://arxiv.org/abs/2406.00681)
 - [Learning Precise Affordances from Egocentric Videos for Robotic Manipulation](https://arxiv.org/abs/2408.10123)
+- [Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins](https://arxiv.org/abs/2410.17246)
 - [Learning Prehensile Dexterity by Imitating and Emulating State-only Observations](https://arxiv.org/abs/2404.05582)
 - [LEGATO: Cross-Embodiment Imitation Using a Grasping Tool](https://arxiv.org/abs/2411.03682) [➕](https://ut-hcrl.github.io/LEGATO/)
 - [Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation](https://arxiv.org/abs/2411.18623) [➕](https://lift3d-web.github.io/)
