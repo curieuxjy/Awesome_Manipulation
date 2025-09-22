@@ -139,6 +139,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864v1)
 - [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601)
 - [REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly](https://arxiv.org/abs/2502.05086)
+- [Residual Off-Policy RL for Finetuning Behavior Cloning Policies](https://residual-offpolicy-rl.github.io/)
 - [Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](https://arxiv.org/abs/2502.02853)
 - [ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations](https://arxiv.org/abs/2505.10911)
 - [RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies](https://arxiv.org/abs/2506.18123)
