@@ -466,6 +466,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>CONTROL</b></summary>
 
 - [![](https://img.shields.io/badge/A--make-awesome--control--theory-black?style=flat-square&logo=github)](https://github.com/A-make/awesome-control-theory) <img src="https://img.shields.io/github/stars/A-make/awesome-control-theory?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--BaseControl-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-BaseControl) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-BaseControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/abr-abr_control-black?style=flat-square&logo=github)](https://github.com/abr/abr_control) <img src="https://img.shields.io/github/stars/abr/abr_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DAIRLab-lightblue?style=flat-square)](https://dair.seas.upenn.edu) [![](https://img.shields.io/badge/DAIRLab-dairlib-gray?style=flat-square&logo=github)](https://github.com/DAIRLab/dairlib) <img src="https://img.shields.io/github/stars/DAIRLab/dairlib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DQ--Robotics-lightblue?style=flat-square)](https://dqrobotics.github.io) [![](https://img.shields.io/badge/dqrobotics-gray?style=flat-square&logo=github)](https://github.com/dqrobotics)
@@ -771,6 +772,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Mobile/Whole-body manipulation</b></summary>
+<a id="learning_mobile_wholebody"></a>
 
 > Please reference [Learning-Datasets: Mobile/Whole-body manipulation](#dataset_mobile) for datasets
 > 
@@ -977,6 +979,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>&nbsp;&nbsp;- Planning: Collision avoidance</b></summary>
 
 - [![](https://img.shields.io/badge/ACRoboT--buaa-RobotDiffuse-black?style=flat-square&logo=github)](https://github.com/ACRoboT-buaa/RobotDiffuse) <img src="https://img.shields.io/github/stars/ACRoboT-buaa/RobotDiffuse?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--BaseControl-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-BaseControl) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-BaseControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/CabiNet-lightblue?style=flat-square)](https://cabinet-object-rearrangement.github.io) [![](https://img.shields.io/badge/NVlabs-cabi_net-black?style=flat-square&logo=github)](https://github.com/NVlabs/cabi_net) <img src="https://img.shields.io/github/stars/NVlabs/cabi_net?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/cuRobo-lightblue?style=flat-square)](https://curobo.org) [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Geometric--Fabrics-lightblue?style=flat-square)](https://research.nvidia.com/labs/srl/project/geometric-fabrics)
@@ -1004,6 +1007,16 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_kinematics-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_kinematics) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_kinematics?style=flat-square&color=yellow">
 </details>
 
+<details><summary><b>&nbsp;&nbsp;- Planning: Mobile Manipulation</b></summary>
+
+> Please reference [Learning - Mobile/Whole-body manipulation](#learning_mobile_wholebody) for learning-based methods!
+
+- [![](https://img.shields.io/badge/Holistic--Mobile--Manipulation-lightblue?style=flat-square)](https://jhavl.github.io/holistic) [![](https://img.shields.io/badge/petercorke-robotics--toolbox--python-black?style=flat-square&logo=github)](https://github.com/petercorke/robotics-toolbox-python) <img src="https://img.shields.io/github/stars/petercorke/robotics-toolbox-python?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/BenBurgessLimerick-ManipulationOnTheMove-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/ManipulationOnTheMove) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/ManipulationOnTheMove?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--BaseControl-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-BaseControl) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-BaseControl?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--FailureRecovery-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-FailureRecovery) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-FailureRecovery?style=flat-square&color=yellow">
+</details>
+
 [END PLANNING]: #
 
 ---
@@ -1017,6 +1030,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/IKEA--Furniture--Assembly--Environment-lightblue?style=flat-square)](https://clvrai.github.io/furniture) [![](https://img.shields.io/badge/clvrai-furniture-black?style=flat-square&logo=github)](https://github.com/clvrai/furniture) <img src="https://img.shields.io/github/stars/clvrai/furniture?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/Skill--Chaining-lightblue?style=flat-square)](https://clvrai.github.io/skill-chaining) [![](https://img.shields.io/badge/clvrai-skill--chaining-black?style=flat-square&logo=github)](https://github.com/clvrai/skill-chaining) <img src="https://img.shields.io/github/stars/clvrai/skill-chaining?style=flat-square&color=yellow">
 - [NVIDIA Robotic Assembly](https://developer.nvidia.com/blog/r2d2-unlocking-robotic-assembly-and-contact-rich-manipulation-with-nvidia-research)
+  - [![](https://img.shields.io/badge/AutoMate-lightblue?style=flat-square)](https://developer.nvidia.com/blog/training-sim-to-real-transferable-robotic-assembly-skills-over-diverse-geometries) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--automate-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/automate/docs/automate.md) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--AutoMate-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/automate)
   - [![](https://img.shields.io/badge/Factory-lightblue?style=flat-square)](https://research.nvidia.com/publication/2022-05_factory-fast-contact-robotic-assembly) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--Factory-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/automate/docs/factory.md) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Factory-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/factory)
   - [![](https://img.shields.io/badge/FORGE-lightblue?style=flat-square)](https://noseworm.github.io/forge) [![](https://img.shields.io/badge/isaac--sim-IsaacLab--Forge-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/direct/forge)
   - [![](https://img.shields.io/badge/IndustReal-lightblue?style=flat-square)](https://research.nvidia.com/publication/2023-05_industreal-transferring-contact-rich-assembly-tasks-simulation-reality) [![](https://img.shields.io/badge/NVLabs-industreallib-black?style=flat-square&logo=github)](https://github.com/NVLabs/industreallib) <img src="https://img.shields.io/github/stars/NVLabs/industreallib?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--IndustRealSim-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/main/docs/industreal.md) [Blog](https://developer.nvidia.com/blog/bridging-the-sim-to-real-gap-for-industrial-robotic-assembly-applications-using-nvidia-isaac-lab)
