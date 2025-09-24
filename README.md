@@ -121,6 +121,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Learning Long-Horizon Robot Manipulation Skills via Privileged Action](https://arxiv.org/abs/2502.15442)
 - [Learning to Play Piano in the Real World](https://arxiv.org/abs/2503.15481)
 - [Learning to Transfer Human Hand Skills for Robot Manipulations](https://arxiv.org/abs/2501.04169)
+- [LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation](https://arxiv.org/abs/2509.14349)
 - [Local Policies Enable Zero-shot Long-horizon Manipulation](https://arxiv.org/abs/2410.22332)
 - [LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations](https://lodestar-robot.github.io/)
 - [Make a Donut: Hierarchical EMD-Space Planning for Zero-Shot Deformable Manipulation with Tools](https://arxiv.org/abs/2311.02787)
