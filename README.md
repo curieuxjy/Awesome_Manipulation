@@ -143,6 +143,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Residual Off-Policy RL for Finetuning Behavior Cloning Policies](https://residual-offpolicy-rl.github.io/)
 - [Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](https://arxiv.org/abs/2502.02853)
 - [ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations](https://arxiv.org/abs/2505.10911)
+- [RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping](https://arxiv.org/abs/2504.18084)
 - [RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies](https://arxiv.org/abs/2506.18123)
 - [RobustDexGrasp: Robust Dexterous Grasping of General Objects](https://arxiv.org/abs/2504.05287)
 - [RUKA: Rethinking the Design of Humanoid Hands with Learning](https://arxiv.org/abs/2504.13165) 
