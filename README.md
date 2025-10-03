@@ -707,7 +707,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/VTDexManip-lightblue?style=flat-square)](https://lqts.github.io/VTDexManip) [![](https://img.shields.io/badge/LQTS-VTDexManip-black?style=flat-square&logo=github)](https://github.com/LQTS/VTDexManip) <img src="https://img.shields.io/github/stars/LQTS/VTDexManip?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;- Learning: Visuo-motor policies With VLM/VLA/VA</b></summary>
+<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Visuo-motor policies With VLM/VLA/VA</b></summary>
 
 > Please refer to [Learning-Models](#foundation_models) for more detailed surveys
 
@@ -792,14 +792,14 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sim_isaaclab-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sim_isaaclab) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;- Learning: Bimanual/Dual-arm/hand - Fine manipulation</b></summary>
+<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Bimanual/Dual-arm/hand - Fine manipulation</b></summary>
 
 - [![](https://img.shields.io/badge/ACT-lightblue?style=flat-square)](https://tonyzhaozh.github.io/aloha) [![](https://img.shields.io/badge/tonyzhaozh-act-black?style=flat-square&logo=github)](https://github.com/tonyzhaozh/act) <img src="https://img.shields.io/github/stars/tonyzhaozh/act?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/CQN-lightblue?style=flat-square)](https://younggyo.me/cqn) [![](https://img.shields.io/badge/younggyoseo-CQN-black?style=flat-square&logo=github)](https://github.com/younggyoseo/CQN) <img src="https://img.shields.io/github/stars/younggyoseo/CQN?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/CQN--AS-lightblue?style=flat-square)](https://younggyo.me/cqn-as) [![](https://img.shields.io/badge/younggyoseo-CQN--AS-black?style=flat-square&logo=github)](https://github.com/younggyoseo/CQN-AS) <img src="https://img.shields.io/github/stars/younggyoseo/CQN-AS?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;- Learning: Bimanual/Dual-arm/hand - Hand/Throw-over</b></summary>
+<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Bimanual/Dual-arm/hand - Hand/Throw-over</b></summary>
 
 - [![](https://img.shields.io/badge/DexCatch-lightblue?style=flat-square)](https://dexcatch.github.io) [![](https://img.shields.io/badge/Tsinghua--Space--Robot--Learning--Group-DexCatch-black?style=flat-square&logo=github)](https://github.com/Tsinghua-Space-Robot-Learning-Group/DexCatch) <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/DexCatch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexPBT-lightblue?style=flat-square)](https://sites.google.com/view/dexpbt) [![](https://img.shields.io/badge/isaac--sim-IsaacGymEnvs--DexPBT-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacGymEnvs/blob/main/docs/pbt.md) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacGymEnvs?style=flat-square&color=yellow">
@@ -832,6 +832,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/RoboCasa-lightblue?style=flat-square)](https://robocasa.ai) [![](https://img.shields.io/badge/robocasa-robocasa-black?style=flat-square&logo=github)](https://github.com/robocasa/robocasa) <img src="https://img.shields.io/github/stars/robocasa/robocasa?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TidyBot++-lightblue?style=flat-square)](https://tidybot2.github.io) [![](https://img.shields.io/badge/jimmyyhwu-tidybot2-black?style=flat-square&logo=github)](https://github.com/jimmyyhwu/tidybot2) <img src="https://img.shields.io/github/stars/jimmyyhwu/tidybot2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sim_isaaclab-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sim_isaaclab) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square&color=yellow">
+</details>
 </details>
 
 <details><summary><b>LEARNING - MODELS</b></summary>
@@ -1008,10 +1009,6 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 [END LEARNING - DATASETS]: #
-
-</details>
-
-[END LEARNING]: #
 
 <details><summary><b>PLANNING</b></summary>
 
