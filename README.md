@@ -494,6 +494,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based MPC</b></summary>
 
+- [![](https://img.shields.io/badge/dimitris--anastasiou-nn--mpc--fd-black?style=flat-square&logo=github)](https://github.com/dimitris-anastasiou/nn-mpc-fd) <img src="https://img.shields.io/github/stars/dimitris-anastasiou/nn-mpc-fd?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Dynamics--DP-lightblue?style=flat-square)](https://dynamics-dp.github.io) [![](https://img.shields.io/badge/warshallrho-Dynamics--DP-black?style=flat-square&logo=github)](https://github.com/warshallrho/Dynamics-DP) <img src="https://img.shields.io/github/stars/warshallrho/Dynamics-DP?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Grasp--MPC-lightblue?style=flat-square)](https://grasp-mpc.github.io) [![](https://img.shields.io/badge/Closed--Loop--Visual--Grasping--via--Value--Guided--Model--Predictive--Control-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.06201)
 - [![](https://img.shields.io/badge/LMPC-lightblue?style=flat-square)](https://robot-teaching.github.io) [![](https://img.shields.io/badge/Demo-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1YcRN_kklw3cVVJNvgK_IEV6nDce9EJWK)
 - [![](https://img.shields.io/badge/OCS2--MPC--Net-lightblue?style=flat-square)](https://leggedrobotics.github.io/ocs2/mpcnet.html) [![](https://img.shields.io/badge/leggedrobotics-ocs2-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/ocs2) <img src="https://img.shields.io/github/stars/leggedrobotics/ocs2?style=flat-square&color=yellow">
@@ -550,6 +552,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/MIT-Drake-lightblue?style=flat-square)](https://drake.mit.edu) [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
 </details>
 
+<details><summary><b>&nbsp;&nbsp;- Neural Dynamics: Platforms</b></summary>
+
+- [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io)  [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
+</details>
+
 <details><summary><b>LEARNING</b></summary>
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Simulation Platforms</b></summary>
@@ -568,6 +575,7 @@ This curation covers a wide range of robotic manipulation tasks.
   - [![](https://img.shields.io/badge/Tadinu-awesome_mujoco-black?style=flat-square&logo=github)](https://github.com/Tadinu/awesome_mujoco) <img src="https://img.shields.io/github/stars/Tadinu/awesome_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Newton-lightblue?style=flat-square)](https://newton-physics.github.io/newton) [![](https://img.shields.io/badge/newton--physics-newton-black?style=flat-square&logo=github)](https://github.com/newton-physics/newton) <img src="https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow"> [Conceptual background](https://deepwiki.com/newton-physics/newton)
   - [![](https://img.shields.io/badge/LightwheelAI-Newton--Lightwheel-black?style=flat-square&logo=github)](https://github.com/LightwheelAI/Newton-Lightwheel) <img src="https://img.shields.io/github/stars/LightwheelAI/Newton-Lightwheel?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io)  [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/newton--physics-newton--assets-black?style=flat-square&logo=github)](https://github.com/newton-physics/newton-assets) <img src="https://img.shields.io/github/stars/newton-physics/newton-assets?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RobotFlow-lightblue?style=flat-square)](https://robotflow.ai) [![](https://img.shields.io/badge/robotflow--initiative-rfuniverse-black?style=flat-square&logo=github)](https://github.com/robotflow-initiative/rfuniverse) <img src="https://img.shields.io/github/stars/robotflow-initiative/rfuniverse?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/robotflow--initiative-pyrfuniverse-black?style=flat-square&logo=github)](https://github.com/robotflow-initiative/pyrfuniverse) <img src="https://img.shields.io/github/stars/robotflow-initiative/pyrfuniverse?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboVerse-lightblue?style=flat-square)](https://roboverseorg.github.io) [![](https://img.shields.io/badge/RoboVerseOrg-RoboVerse-black?style=flat-square&logo=github)](https://github.com/RoboVerseOrg/RoboVerse) <img src="https://img.shields.io/github/stars/RoboVerseOrg/RoboVerse?style=flat-square&color=yellow">
