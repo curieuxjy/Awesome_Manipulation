@@ -213,7 +213,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation](https://arxiv.org/abs/2403.12861)
 - [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)
 - [DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](https://arxiv.org/abs/2411.18562) 
-- [DexH2R: Task-oriented Dexterous Manipulation from Human to Robots])(https://arxiv.org/abs/2411.04428)
+- [DexH2R: Task-oriented Dexterous Manipulation from Human to Robots](https://arxiv.org/abs/2411.04428)
 - [DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity](https://arxiv.org/abs/2401.12496)
 - [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://arxiv.org/abs/2407.02274)
 - [DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands](https://arxiv.org/abs/2412.01791)
