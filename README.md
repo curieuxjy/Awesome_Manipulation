@@ -163,6 +163,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL](https://arxiv.org/abs/2506.04147)
 - [Steering Your Diffusion Policy with Latent Space Reinforcement Learning](https://arxiv.org/abs/2506.15799)
 - [Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories](https://arxiv.org/abs/2505.21851)
+- [Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation](https://arxiv.org/abs/2504.12908)
 - [Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation](https://arxiv.org/abs/2506.14754)
 - [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/abs/2506.13762)
 - [Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper](https://binghao-huang.github.io/touch_in_the_wild//Touch_in_the_Wild_arxiv.pdf)
