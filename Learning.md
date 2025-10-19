@@ -70,7 +70,7 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Environments - Frameworks - Stacks</b></summary>
 
-> Please also reference [Benchmarks](README.md#benchmarks) for benchmark environments
+> Please also reference [Github-Repos-Benchmarks](README.md#benchmarks) for benchmark environments
 
 - [![](https://img.shields.io/badge/Ai2THOR-lightblue?style=flat-square)](https://ai2thor.allenai.org) [![](https://img.shields.io/badge/allenai-ai2thor-black?style=flat-square&logo=github)](https://github.com/allenai/ai2thor) <img src="https://img.shields.io/github/stars/allenai/ai2thor?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/allenai-manipulathor-black?style=flat-square&logo=github)](https://github.com/allenai/manipulathor) <img src="https://img.shields.io/github/stars/allenai/manipulathor?style=flat-square&color=yellow">
