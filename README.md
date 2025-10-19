@@ -414,6 +414,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>BENCHMARKS</b></summary>
+<a id="benchmarks"></a>
 
 - [![](https://img.shields.io/badge/ALFRED-lightblue?style=flat-square)](https://askforalfred.com) [![](https://img.shields.io/badge/askforalfred-alfred-black?style=flat-square&logo=github)](https://github.com/askforalfred/alfred) <img src="https://img.shields.io/github/stars/askforalfred/alfred?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ARNOLD-lightblue?style=flat-square)](https://arnold-benchmark.github.io) [![](https://img.shields.io/badge/arnold--benchmark-arnold-black?style=flat-square&logo=github)](https://github.com/arnold-benchmark/arnold) <img src="https://img.shields.io/github/stars/arnold-benchmark/arnold?style=flat-square&color=yellow">
