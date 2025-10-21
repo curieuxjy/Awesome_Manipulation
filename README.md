@@ -896,10 +896,14 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>End Effectors</b></summary>
 
+> [Humanoid Hands Guide](https://humanoid.guide/hands)
+
 ||
 |-|
 |[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com)|
+|[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
+|[DexRobot, DexHand](https://www.dex-robot.com)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf)|
 |[Meta, Digit-Plexus](https://github.com/facebookresearch/digit-plexus)|
@@ -915,6 +919,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA)|
 |[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved)| 
+|[Wuji Hand](https://wuji.tech)|
 </details>
 
 <details><summary><b>Arms</b></summary>
