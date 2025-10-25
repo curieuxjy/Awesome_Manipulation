@@ -707,6 +707,12 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/TossingBot-lightblue?style=flat-square)](https://tossingbot.cs.princeton.edu) [![](https://img.shields.io/badge/Learning--to--Throw--Arbitrary--Objects--with--Residual--Physics-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11239)
 </details>
 
+<details><summary><b>PAPER TURNING</b></summary>
+
+- [![](https://img.shields.io/badge/Flipbot-lightblue?style=flat-square)](https://robotll.github.io/Flipbot) [![](https://img.shields.io/badge/RobotLL-Flipbot-black?style=flat-square&logo=github)](https://github.com/RobotLL/Flipbot) <img src="https://img.shields.io/github/stars/RobotLL/Flipbot?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/JS--RML-flexflip-black?style=flat-square&logo=github)](https://github.com/JS-RML/flexflip) <img src="https://img.shields.io/github/stars/JS-RML/flexflip?style=flat-square&color=yellow">
+</details>
+
 <details><summary><b>PARALLEL GRIPPER GRASP</b></summary>
 </details>
 
@@ -911,6 +917,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
 |[Pollen Robotics, Amazing Hand](https://github.com/pollen-robotics/AmazingHand)|
 |[PSYONIC, Ability Hand](https://www.psyonic.io/ability-hand)|
+|[qbrobotics, qb SoftHand](https://qbrobotics.com)|
 |[Robotiq](https://robotiq.com)|
 |[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161)|
 |[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series)|
