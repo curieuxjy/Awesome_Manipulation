@@ -907,6 +907,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
+|[BeingBeyond, D1 Arm+Hand](https://www.youtube.com/watch?v=XRCcJAU84yA)|
 |[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
@@ -921,11 +922,12 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Robotiq](https://robotiq.com)|
 |[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161)|
 |[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series)|
-|[Soft Robotics Lab-ETH, ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170)|
+|[Soft Robotics Lab-ETH, ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
 |[Soltani Lab-UC Davis, Krysalis Hand](https://github.com/Soltanilara/Krysalis_Hand)|
 |[Tesollo, DG-5F](https://en.tesollo.com/DG-5F)|
 |[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA)|
 |[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
+|[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved)| 
 |[Wuji Hand](https://wuji.tech)|
 </details>
