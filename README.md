@@ -241,6 +241,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [GraspXL: Generating Grasping Motions for Diverse Objects at Scale](https://arxiv.org/abs/2403.19649)
 - [Hand-Object Interaction Pretraining from Videos](https://arxiv.org/abs/2409.08273)
 - [ICRT: In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980)
+- [Imitation Bootstrapped Reinforcement Learning](https://arxiv.org/abs/2311.02198)
 - [Imitation Learning for Low-Cost Dexterous Hand Using RGBD Camera](https://ieeexplore.ieee.org/document/10796919)
 - [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://arxiv.org/abs/2411.12633) 
 - [Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations](https://arxiv.org/abs/2402.04820)
