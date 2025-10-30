@@ -716,12 +716,14 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/JS--RML-flexflip-black?style=flat-square&logo=github)](https://github.com/JS-RML/flexflip) <img src="https://img.shields.io/github/stars/JS-RML/flexflip?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>PARALLEL GRIPPER GRASP</b></summary>
+<details><summary><b>PARALLEL GRIPPER/6DOF GRASP</b></summary>
+<a id="parallel_gripper_grasp"></a>
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper grasp: Detection - Synthesis</b></summary>
 
 - [![](https://img.shields.io/badge/A--Billion--Ways--to--Grasp-lightblue?style=flat-square)](https://sites.google.com/view/abillionwaystograsp) [![](https://img.shields.io/badge/mrudorfer-burg--toolkit-black?style=flat-square&logo=github)](https://github.com/mrudorfer/burg-toolkit) <img src="https://img.shields.io/github/stars/mrudorfer/burg-toolkit?style=flat-square&color=yellow"> [Dataset](https://zenodo.org/records/4713945)
+- [![](https://img.shields.io/badge/AO--Grasp-lightblue?style=flat-square)](https://stanford-iprl-lab.github.io/ao-grasp) [![](https://img.shields.io/badge/stanford--iprl--lab-ao--grasp-black?style=flat-square&logo=github)](https://github.com/stanford-iprl-lab/ao-grasp) <img src="https://img.shields.io/github/stars/stanford-iprl-lab/ao-grasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/boschresearch-mj--grasp--sim-black?style=flat-square&logo=github)](https://github.com/boschresearch/mj-grasp-sim) <img src="https://img.shields.io/github/stars/boschresearch/mj-grasp-sim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DA2-lightblue?style=flat-square)](https://sites.google.com/view/da2dataset) [![](https://img.shields.io/badge/ymxlzgy-DA2-black?style=flat-square&logo=github)](https://github.com/ymxlzgy/DA2) <img src="https://img.shields.io/github/stars/ymxlzgy/DA2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexNet-lightblue?style=flat-square)](https://berkeleyautomation.github.io/dex-net) [![](https://img.shields.io/badge/Apgoldberg1-Dex--Net--5.0-black?style=flat-square&logo=github)](https://github.com/Apgoldberg1/Dex-Net-5.0) <img src="https://img.shields.io/github/stars/Apgoldberg1/Dex-Net-5.0?style=flat-square&color=yellow">
@@ -776,7 +778,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/ThinkGrasp-lightblue?style=flat-square)](https://h-freax.github.io/thinkgrasp_page) [![](https://img.shields.io/badge/mkt1412-GraspGPT_public-black?style=flat-square&logo=github)](https://github.com/H-Freax/ThinkGrasp) <img src="https://img.shields.io/github/stars/H-Freax/ThinkGrasp?style=flat-square&color=yellow">
 </details>
 
-[END PARALLEL GRIPPER GRASP]: #
+[END PARALLEL GRIPPER/6DOF GRASP]: #
 
 <details><summary><b>POURING</b></summary>
 
