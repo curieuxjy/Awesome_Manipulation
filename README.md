@@ -137,6 +137,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress](https://arxiv.org/abs/2502.02753)
 - [Object-centric 3D Motion Field for Robot Learning from Human Videos](https://arxiv.org/abs/2506.04227)
 - [Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation](https://arxiv.org/abs/2502.20391)
+- [Push Anything: Single- and Multi-Object Pushing From First Sight with Contact-Implicit MPC](https://arxiv.org/abs/2510.19974)
 - [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864v1)
 - [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601)
 - [REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly](https://arxiv.org/abs/2502.05086)
@@ -739,8 +740,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-contact_graspnet-black?style=flat-square&logo=github)](https://github.com/NVlabs/contact_graspnet) <img src="https://img.shields.io/github/stars/NVlabs/contact_graspnet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-GraspGen-black?style=flat-square&logo=github)](https://github.com/NVlabs/GraspGen) <img src="https://img.shields.io/github/stars/NVlabs/GraspGen?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/nvidia-PhysicalAI--Robotics--GraspGen-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GraspGen) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/nvidia/PhysicalAI-Robotics-GraspGen&query=$.downloads&label=Downloads&style=flat-square&color=orange)
-- [![](https://img.shields.io/badge/robotgradient-grasp_diffusion-black?style=flat-square&logo=github)](https://github.com/robotgradient/grasp_diffusion) <img src="https://img.shields.io/github/stars/robotgradient/grasp_diffusion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/patrickeala-GraspSampler-black?style=flat-square&logo=github)](https://github.com/patrickeala/GraspSampler) <img src="https://img.shields.io/github/stars/patrickeala/GraspSampler?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robotgradient-grasp_diffusion-black?style=flat-square&logo=github)](https://github.com/robotgradient/grasp_diffusion) <img src="https://img.shields.io/github/stars/robotgradient/grasp_diffusion?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/tasbolat1-graspflow-black?style=flat-square&logo=github)](https://github.com/tasbolat1/graspflow) <img src="https://img.shields.io/github/stars/tasbolat1/graspflow?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TaskGrasp-lightblue?style=flat-square)](https://sites.google.com/view/taskgrasp) [![](https://img.shields.io/badge/adithyamurali--TaskGrasp-black?style=flat-square&logo=github)](https://github.com/adithyamurali/TaskGrasp) <img src="https://img.shields.io/github/stars/adithyamurali/TaskGrasp?style=flat-square&color=yellow">
 </details>
