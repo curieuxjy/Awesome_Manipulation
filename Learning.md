@@ -251,6 +251,7 @@
 </details>
 
 <details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Single-arm/hand - In-hand Manipulation</b></summary>
+<a id="learning_in_hand"/>
 
 > Please also reference [Readme-Github-Repos-Task/env-specific-Training-free In-hand Manipulation](README.md#train_free_inhand)
 

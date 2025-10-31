@@ -817,6 +817,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>TRAINING-FREE IN-HAND MANIPULATION</b></summary>
 <a id="train_free_inhand"/>
 
+> Please also reference [Learning-Github-Repos-Single arm/hand: In-hand Manipulation](Learning.md#learning_in_hand)
+
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
