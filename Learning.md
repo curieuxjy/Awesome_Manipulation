@@ -77,7 +77,7 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Environments - Frameworks - Stacks</b></summary>
 
-> Please also reference [Github-Repos-Benchmarks](README.md#benchmarks) for benchmark environments
+> Please also reference [Readme-Github-Repos-Benchmarks](README.md#benchmarks) for benchmark environments
 
 - [![](https://img.shields.io/badge/Ai2THOR-lightblue?style=flat-square)](https://ai2thor.allenai.org) [![](https://img.shields.io/badge/allenai-ai2thor-black?style=flat-square&logo=github)](https://github.com/allenai/ai2thor) <img src="https://img.shields.io/github/stars/allenai/ai2thor?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/allenai-manipulathor-black?style=flat-square&logo=github)](https://github.com/allenai/manipulathor) <img src="https://img.shields.io/github/stars/allenai/manipulathor?style=flat-square&color=yellow">
@@ -236,7 +236,7 @@
 <details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Single-arm/hand - Grasping</b></summary>
 <a id="learning_grasp"/>
 
-> Please also refer to [Dataset - Grasp synthesis](#dataset_grasp_synthesis)!
+> Please also reference [Dataset - Grasp synthesis](#dataset_grasp_synthesis)!
 
 - [![](https://img.shields.io/badge/DexTouch-lightblue?style=flat-square)](https://lee-kangwon.github.io/dextouch) [![](https://img.shields.io/badge/Learning--to--Seek--and--Manipulate--Objects--with--Tactile--Dexterity-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.12496)
 - [![](https://img.shields.io/badge/DextrAH--G-lightblue?style=flat-square)](https://sites.google.com/view/dextrah-g) [![](https://img.shields.io/badge/Pixels--to--Action--Dexterous--Arm--Hand--Grasping--with--Geometric--Fabrics-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.12496)
@@ -250,7 +250,9 @@
 - [![](https://img.shields.io/badge/UniDexFPM-lightblue?style=flat-square)](https://unidexfpm.github.io) [![](https://img.shields.io/badge/tianhaowuhz-UniDexFPM-black?style=flat-square&logo=github)](https://github.com/tianhaowuhz/UniDexFPM) <img src="https://img.shields.io/github/stars/tianhaowuhz/UniDexFPM?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Single-arm/hand - In-hand adaptation</b></summary>
+<details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Single-arm/hand - In-hand Manipulation</b></summary>
+
+> Please also reference [Readme-Github-Repos-Task/env-specific-Training-free In-hand Manipulation](README.md#train_free_inhand)
 
 - [![](https://img.shields.io/badge/AIDX--Lab--Manipulation-lightblue?style=flat-square)](https://aidx-lab.org/manipulation)
   - [![](https://img.shields.io/badge/Learning--a--Shape--Conditioned--Agent--for--Purely--Tactile--In--Hand--Manipulation--of--Various--Objects-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.18834)

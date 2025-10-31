@@ -416,7 +416,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>BENCHMARKS</b></summary>
-<a id="benchmarks"></a>
+<a id="benchmarks"/>
 
 - [![](https://img.shields.io/badge/ALFRED-lightblue?style=flat-square)](https://askforalfred.com) [![](https://img.shields.io/badge/askforalfred-alfred-black?style=flat-square&logo=github)](https://github.com/askforalfred/alfred) <img src="https://img.shields.io/github/stars/askforalfred/alfred?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ARNOLD-lightblue?style=flat-square)](https://arnold-benchmark.github.io) [![](https://img.shields.io/badge/arnold--benchmark-arnold-black?style=flat-square&logo=github)](https://github.com/arnold-benchmark/arnold) <img src="https://img.shields.io/github/stars/arnold-benchmark/arnold?style=flat-square&color=yellow">
@@ -718,7 +718,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>PARALLEL GRIPPER/6DOF GRASP</b></summary>
-<a id="parallel_gripper_grasp"></a>
+<a id="parallel_gripper_grasp"/>
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper grasp: Detection - Synthesis</b></summary>
@@ -815,6 +815,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>TRAINING-FREE IN-HAND MANIPULATION</b></summary>
+<a id="train_free_inhand"/>
 
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
