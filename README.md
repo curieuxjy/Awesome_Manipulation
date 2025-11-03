@@ -416,7 +416,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>BENCHMARKS</b></summary>
-<a id="benchmarks"></a>
+<a id="benchmarks"/>
 
 - [![](https://img.shields.io/badge/ALFRED-lightblue?style=flat-square)](https://askforalfred.com) [![](https://img.shields.io/badge/askforalfred-alfred-black?style=flat-square&logo=github)](https://github.com/askforalfred/alfred) <img src="https://img.shields.io/github/stars/askforalfred/alfred?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ARNOLD-lightblue?style=flat-square)](https://arnold-benchmark.github.io) [![](https://img.shields.io/badge/arnold--benchmark-arnold-black?style=flat-square&logo=github)](https://github.com/arnold-benchmark/arnold) <img src="https://img.shields.io/github/stars/arnold-benchmark/arnold?style=flat-square&color=yellow">
@@ -654,6 +654,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/FMB-lightblue?style=flat-square)](https://functional-manipulation-benchmark.github.io) [![](https://img.shields.io/badge/rail--berkeley-fmb-black?style=flat-square&logo=github)](https://github.com/rail-berkeley/fmb) <img src="https://img.shields.io/github/stars/rail-berkeley/fmb?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Residual--Assembly-lightblue?style=flat-square)](https://residual-assembly.github.io) [![](https://img.shields.io/badge/ankile-robust--rearrangement-black?style=flat-square&logo=github)](https://github.com/ankile/robust-rearrangement) <img src="https://img.shields.io/github/stars/ankile/robust-rearrangement?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/swri--robotics-ConnTact-black?style=flat-square&logo=github)](https://github.com/swri-robotics/ConnTact) <img src="https://img.shields.io/github/stars/swri-robotics/ConnTact?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/TRANSIC-lightblue?style=flat-square)](https://transic-robot.github.io) [![](https://img.shields.io/badge/transic--robot-transic--envs-black?style=flat-square&logo=github)](https://github.com/transic-robot/transic-envs) <img src="https://img.shields.io/github/stars/transic-robot/transic-envs?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/transic--robot-transic-black?style=flat-square&logo=github)](https://github.com/transic-robot/transic) <img src="https://img.shields.io/github/stars/transic-robot/transic?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- OBJECT ASSEMBLING: PICK-PLACE</b></summary>
@@ -718,7 +719,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>PARALLEL GRIPPER/6DOF GRASP</b></summary>
-<a id="parallel_gripper_grasp"></a>
+<a id="parallel_gripper_grasp"/>
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper grasp: Detection - Synthesis</b></summary>
@@ -815,6 +816,9 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>TRAINING-FREE IN-HAND MANIPULATION</b></summary>
+<a id="train_free_inhand"/>
+
+> Please also reference [Learning-Github-Repos-Single arm/hand: In-hand Manipulation](Learning.md#learning_in_hand)
 
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
@@ -874,6 +878,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [ICRA RMDO Workshops: Representations and Manipulating Deformable Objects](https://www.youtube.com/@ICRARMDOWorkshop/playlists)
 
 <b>Dexterous Manipulation</b>
+
+- [CoRL2024 Workshop: Learning Robot Fine and Dexterous Manipulation: Perception and Control](https://dex-manipulation.github.io/corl2024) - [Videos](https://www.youtube.com/watch?v=rtHeKZJEzSg) - [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Workshop/LFDM)
 - [ICRA 2025 Workshop: Handy Moves: Dexterity in Multi-Fingered Hands](https://sites.google.com/view/dexterity-workshop-icra2025) - [Videos](https://www.youtube.com/watch?v=cUKNbwqElCw) - [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/Dexterity)
 - [RSS 2024 Workshop: Dexterous Manipulation: Design, Perception and Control](https://dex-manipulation.github.io/rss2024) - [Videos](https://www.youtube.com/playlist?list=PLcFTgk4zQOSy0p-TQEEMXaGi918fmUxwA) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2024/Workshop/DM)
 - [RSS 2025 Workshop: Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025) - [Videos](https://www.youtube.com/watch?v=7a5HYjQ4wJo) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/Dex)
