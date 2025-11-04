@@ -174,6 +174,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Versatile Loco-Manipulation through Flexible Interlimb Coordination](https://arxiv.org/abs/2506.07876)
 - [Vision in Action: Learning Active Perception from Human Demonstrations](https://arxiv.org/abs/2506.15666)
 - [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953)
+- [ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2404.15709)
 - [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/pdf/2505.18719)
 - [VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning](https://openreview.net/pdf?id=mV3W5givYb)
 - [What Matters for Batch Online Reinforcement Learning in Robotics?](https://arxiv.org/pdf/2505.08078)
