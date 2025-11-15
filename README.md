@@ -813,6 +813,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>POURING</b></summary>
 
 - [![](https://img.shields.io/badge/cxdcxd-RRS-black?style=flat-square&logo=github)](https://github.com/cxdcxd/RRS) <img src="https://img.shields.io/github/stars/cxdcxd/RRS?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DaXBench-lightblue?style=flat-square)](https://daxbench.github.io) [![](https://img.shields.io/badge/AdaCompNUS-DaXBench-black?style=flat-square&logo=github)](https://github.com/AdaCompNUS/DaXBench) <img src="https://img.shields.io/github/stars/AdaCompNUS/DaXBench?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dlsfldl-EMMP--public-black?style=flat-square&logo=github)](https://github.com/dlsfldl/EMMP-public) <img src="https://img.shields.io/github/stars/dlsfldl/EMMP-public?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/FluidLab-lightblue?style=flat-square)](https://fluidlab2023.github.io) [![](https://img.shields.io/badge/zhouxian-FluidLab-black?style=flat-square&logo=github)](https://github.com/zhouxian/FluidLab/blob/main/fluidlab/envs/pouring_env.py) <img src="https://img.shields.io/github/stars/zhouxian/FluidLab?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kelvin34501-OakInk2--SimEnv--IsaacGym-black?style=flat-square&logo=github)](https://github.com/kelvin34501/OakInk2-SimEnv-IsaacGym) <img src="https://img.shields.io/github/stars/kelvin34501/OakInk2-SimEnv-IsaacGym?style=flat-square&color=yellow">
