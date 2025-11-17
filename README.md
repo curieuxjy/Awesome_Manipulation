@@ -90,6 +90,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.0773)
 - [DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation](https://arxiv.org/abs/2507.05627)
 - [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://arxiv.org/abs/2507.05198)
+- [End-to-end RL Improves Dexterous Grasping Policies](https://arxiv.org/abs/2509.16434)
 - [Estimating Value of Assistance for Online POMDP Robotic Agents](https://dyalab.mines.edu/2025/icra-workshop/6.pdf)
 - [Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance](https://arxiv.org/abs/2505.08444)
 - [Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](https://arxiv.org/abs/2506.10968)
