@@ -773,7 +773,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/SE2--EquivariantGrasp-lightblue?style=flat-square)](https://zxp-s-works.github.io/equivariant_grasp_site) [![](https://img.shields.io/badge/ZXP--S--works-SE2--equivariant--grasp--learning-black?style=flat-square&logo=github)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning) <img src="https://img.shields.io/github/stars/ZXP-S-works/SE2-equivariant-grasp-learning?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Grasp With LLM/VLM</b></summary>
+<details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Grasp With LLM/VLM/VLA/VA</b></summary>
 
 - [![](https://img.shields.io/badge/Action--Prior--Alignment-lightblue?style=flat-square)](https://arxiv.org/abs/2503.09423) [![](https://img.shields.io/badge/xukechun-Action--Prior--Alignment-black?style=flat-square&logo=github)](https://github.com/xukechun/Action-Prior-Alignment) <img src="https://img.shields.io/github/stars/xukechun/Action-Prior-Alignment?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/F3RM-lightblue?style=flat-square)](https://f3rm.github.io) [![](https://img.shields.io/badge/f3rm-f3rm-black?style=flat-square&logo=github)](https://github.com/f3rm/f3rm) <img src="https://img.shields.io/github/stars/f3rm/f3rm?style=flat-square&color=yellow">
@@ -782,7 +782,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Grasp--Anything-lightblue?style=flat-square)](https://airvlab.github.io/grasp-anything) [![](https://img.shields.io/badge/Fsoft--AIC-Grasp--Anything-black?style=flat-square&logo=github)](https://github.com/Fsoft-AIC/Grasp-Anything) <img src="https://img.shields.io/github/stars/Fsoft-AIC/Grasp-Anything?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GraspVLA-lightblue?style=flat-square)](https://pku-epic.github.io/GraspVLA-web) [![](https://img.shields.io/badge/PKU--EPIC-GraspVLA-black?style=flat-square&logo=github)](https://github.com/PKU-EPIC/GraspVLA) <img src="https://img.shields.io/github/stars/PKU-EPIC/GraspVLA?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ThinkGrasp-lightblue?style=flat-square)](https://h-freax.github.io/thinkgrasp_page) [![](https://img.shields.io/badge/mkt1412-GraspGPT_public-black?style=flat-square&logo=github)](https://github.com/H-Freax/ThinkGrasp) <img src="https://img.shields.io/github/stars/H-Freax/ThinkGrasp?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/VISO--Grasp--vMF--Contact-lightblue?style=flat-square)] [![](https://img.shields.io/badge/YitianShi-vMF--Contact-black?style=flat-square&logo=github)](https://github.com/YitianShi/vMF-Contact) <img src="https://img.shields.io/github/stars/YitianShi/vMF-Contact?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/VISO--Grasp-lightblue?style=flat-square)](https://arxiv.org/abs/2503.12609) [![](https://img.shields.io/badge/vMF--Contact-lightblue?style=flat-square)](https://arxiv.org/abs/2411.03591) [![](https://img.shields.io/badge/YitianShi-vMF--Contact-black?style=flat-square&logo=github)](https://github.com/YitianShi/vMF-Contact) <img src="https://img.shields.io/github/stars/YitianShi/vMF-Contact?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Policy learning</b></summary>
