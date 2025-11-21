@@ -956,6 +956,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[DexRobot, DexHand](https://www.dex-robot.com)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf)|
+|[Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) - [Github](https://github.com/benrichardson28/isyhand_ros2)|
 |[Meta, Digit-Plexus](https://github.com/facebookresearch/digit-plexus)|
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
 |[Pollen Robotics, Amazing Hand](https://github.com/pollen-robotics/AmazingHand)|
