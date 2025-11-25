@@ -655,6 +655,15 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>TASK + ENVIRONMENT-SPECIFIC</b>
 
+<details><summary><b>CLOTH FOLDING</b></summary>
+
+- [![](https://img.shields.io/badge/DexGarmentLab-lightblue?style=flat-square)](https://wayrise.github.io/DexGarmentLab) [![](https://img.shields.io/badge/wayrise-DexGarmentLab-black?style=flat-square&logo=github)](https://github.com/wayrise/DexGarmentLab) <img src="https://img.shields.io/github/stars/wayrise/DexGarmentLab?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DexVLA-lightblue?style=flat-square)](https://dex-vla.github.io) [![](https://img.shields.io/badge/juruobenruo-DexVLA-black?style=flat-square&logo=github)](https://github.com/juruobenruo/DexVLA) <img src="https://img.shields.io/github/stars/juruobenruo/DexVLA?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ET--SEED-lightblue?style=flat-square)](https://et-seed.github.io) [![](https://img.shields.io/badge/yuechen0614-ET--SEED-black?style=flat-square&logo=github)](https://github.com/yuechen0614/ET-SEED) <img src="https://img.shields.io/github/stars/yuechen0614/ET-SEED?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/UniGarmentManip-lightblue?style=flat-square)](https://warshallrho.github.io/unigarmentmanip) [![](https://img.shields.io/badge/luhr2003-UniGarmentManip-black?style=flat-square&logo=github)](https://github.com/luhr2003/UniGarmentManip) <img src="https://img.shields.io/github/stars/luhr2003/UniGarmentManip?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/X--VLA-lightblue?style=flat-square)](https://thu-air-dream.github.io/X-VLA) [![](https://img.shields.io/badge/2toinf-X--VLA-black?style=flat-square&logo=github)](https://github.com/2toinf/X-VLA) <img src="https://img.shields.io/github/stars/2toinf/X-VLA?style=flat-square&color=yellow">
+</details>
+
 <details><summary><b>OBJECT ASSEMBLING</b></summary>
 
 > Please reference [Learning-Datasets: Assembly](Learning.md#dataset_assembly) for datasets
@@ -836,7 +845,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>SUCTION GRIPPER GRASP</b></summary>
 
-- [![](https://img.shields.io/badge/Apgoldberg1-Dex--Net--5.0-black?style=flat-square&logo=github)](https://github.com/Apgoldberg1/Dex-Net-5.0) <img src="https://img.shields.io/github/stars/Apgoldberg1/Dex-Net-5.0?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Dex--Net-lightblue?style=flat-square)](https://berkeleyautomation.github.io/dex-net) [![](https://img.shields.io/badge/BerkeleyAutomation-dex--net-black?style=flat-square&logo=github)](https://github.com/BerkeleyAutomation/dex-net) <img src="https://img.shields.io/github/stars/BerkeleyAutomation/dex-net?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DYNAMO--GRASP-lightblue?style=flat-square)](https://sites.google.com/view/dynamo-grasp) [![](https://img.shields.io/badge/dynamo--grasp-dynamo--grasp-black?style=flat-square&logo=github)](https://github.com/dynamo-grasp/dynamo-grasp) <img src="https://img.shields.io/github/stars/dynamo-grasp/dynamo-grasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/junchengli1-Sim--Suction--API-black?style=flat-square&logo=github)](https://github.com/junchengli1/Sim-Suction-API) <img src="https://img.shields.io/github/stars/junchengli1/Sim-Suction-API?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/rcao--hk-UISN-black?style=flat-square&logo=github)](https://github.com/rcao-hk/UISN) <img src="https://img.shields.io/github/stars/rcao-hk/UISN?style=flat-square&color=yellow">
