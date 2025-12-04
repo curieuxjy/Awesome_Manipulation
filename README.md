@@ -1010,5 +1010,5 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Kuka](https://www.kuka.com)|
 |[myCobot](https://www.elephantrobotics.com) - [Github](https://github.com/elephantrobotics) - [MJCF](https://github.com/elephantrobotics/mycobot_mujoco)|
 |[Ufactory](https://www.ufactory.us/xarm) - [Github](https://github.com/xArm-developer) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
-|[UR](https://www.universal-robots.com)|
+|[UR](https://www.universal-robots.com) - [Github](https://github.com/UniversalRobots) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
 </details>
