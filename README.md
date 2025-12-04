@@ -969,6 +969,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[BeingBeyond, D1 Arm+Hand](https://www.youtube.com/watch?v=XRCcJAU84yA)|
 |[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com) - [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)|
+|[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
 |[DexRobot, DexHand](https://www.dex-robot.com) - [URDF](https://github.com/iotdesignshop/dexhand_description)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
