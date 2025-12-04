@@ -1003,11 +1003,12 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
-|[Doosan](https://www.doosanrobotics.com) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/175)|
-|[Franka](https://franka.de)|
-|[Kinova](https://www.kinovarobotics.com)|
+|[Doosan](https://www.doosanrobotics.com) - [Github](https://github.com/doosan-robotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/175)|
+|[Franka](https://franka.de) - [Github](https://github.com/frankarobotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
+|[Kinova](https://www.kinovarobotics.com) - [Github](https://github.com/kinovarobotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kinova_gen3)|
 |[Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)|
 |[Kuka](https://www.kuka.com)|
-|[Ufactory](https://www.ufactory.us/xarm)|
+|[myCobot](https://www.elephantrobotics.com) - [Github](https://github.com/elephantrobotics) - [MJCF](https://github.com/elephantrobotics/mycobot_mujoco)|
+|[Ufactory](https://www.ufactory.us/xarm) - [Github](https://github.com/xArm-developer) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
 |[UR](https://www.universal-robots.com)|
 </details>
