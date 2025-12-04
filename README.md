@@ -969,7 +969,6 @@ This curation covers a wide range of robotic manipulation tasks.
 |[BeingBeyond, D1 Arm+Hand](https://www.youtube.com/watch?v=XRCcJAU84yA)|
 |[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com) - [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)|
-|[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
 |[DexRobot, DexHand](https://www.dex-robot.com) - [URDF](https://github.com/iotdesignshop/dexhand_description)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
@@ -979,18 +978,25 @@ This curation covers a wide range of robotic manipulation tasks.
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
 |[Pollen Robotics, Amazing Hand](https://github.com/pollen-robotics/AmazingHand)|
 |[PSYONIC, Ability Hand](https://www.psyonic.io/ability-hand) - [Github](https://github.com/psyonicinc/ability-hand-api)|
-|[qbrobotics, qb SoftHand](https://qbrobotics.com)|
 |[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
 |[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161) - [Github](https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver)|
 |[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series) - [URDF](https://github.com/shadow-robot/sr_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand) - [MuJoCoROS](https://github.com/shadow-robot/mujoco_ros_pkgs)|
-|[Soft Robotics Lab-ETH, ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
 |[Soltani Lab-UC Davis, Krysalis Hand](https://github.com/Soltanilara/Krysalis_Hand)|
 |[Tesollo, DG-5F](https://en.tesollo.com/DG-5F)|
 |[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open)|
 |[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
-|[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
 |[Wuji Hand](https://wuji.tech)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Soft End Effectors</b></summary>
+
+||
+|-|
+|[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
+|[ETH, Soft Robotic Hands](https://srl.ethz.ch/platforms/srh.html) - [ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
+|[qbrobotics, qb SoftHand](https://qbrobotics.com)|
+|[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
 </details>
 
 <details><summary><b>Arms</b></summary>
