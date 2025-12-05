@@ -1012,3 +1012,13 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Ufactory](https://www.ufactory.us/xarm) - [Github](https://github.com/xArm-developer) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
 |[UR](https://www.universal-robots.com) - [Github](https://github.com/UniversalRobots) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
 </details>
+
+<details><summary><b>&nbsp;&nbsp;- Dual-Arm Robots</b></summary>
+
+||
+|-|
+|[GALBOT](https://www.galbot.com)|
+|[TRI, Punyo](https://punyo.tech)|
+|[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
+|[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
+</details>
