@@ -437,6 +437,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/ALFRED-lightblue?style=flat-square)](https://askforalfred.com) [![](https://img.shields.io/badge/askforalfred-alfred-black?style=flat-square&logo=github)](https://github.com/askforalfred/alfred) <img src="https://img.shields.io/github/stars/askforalfred/alfred?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ARNOLD-lightblue?style=flat-square)](https://arnold-benchmark.github.io) [![](https://img.shields.io/badge/arnold--benchmark-arnold-black?style=flat-square&logo=github)](https://github.com/arnold-benchmark/arnold) <img src="https://img.shields.io/github/stars/arnold-benchmark/arnold?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ASIMOV-lightblue?style=flat-square)](https://asimov-benchmark.github.io) [![](https://img.shields.io/badge/asimov--benchmark-code-black?style=flat-square&logo=github)](https://github.com/asimov-benchmark/code) <img src="https://img.shields.io/github/stars/asimov-benchmark/code?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/ASIMOV--V2-lightblue?style=flat-square)](https://asimov-benchmark.github.io/v2) [![](https://img.shields.io/badge/Colab-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1ANSRfztNCHqCQNHl9sDtmPMAXD4l2UiW)
 - [![](https://img.shields.io/badge/AutoBio-lightblue?style=flat-square)](https://arxiv.org/abs/2505.14030) [![](https://img.shields.io/badge/autobio--bench-AutoBio-black?style=flat-square&logo=github)](https://github.com/autobio-bench/AutoBio) <img src="https://img.shields.io/github/stars/autobio-bench/AutoBio?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/BEHAVIOR--1K-lightblue?style=flat-square)](https://behavior.stanford.edu/behavior-1k) [![](https://img.shields.io/badge/StanfordVL-BEHAVIOR--1K-black?style=flat-square&logo=github)](https://github.com/StanfordVL/BEHAVIOR-1K) <img src="https://img.shields.io/github/stars/StanfordVL/BEHAVIOR-1K?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/BiGym-lightblue?style=flat-square)](https://chernyadev.github.io/bigym) [![](https://img.shields.io/badge/chernyadev-bigym-black?style=flat-square&logo=github)](https://github.com/chernyadev/bigym) <img src="https://img.shields.io/github/stars/chernyadev/bigym?style=flat-square&color=yellow">
@@ -553,6 +554,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>&nbsp;&nbsp;- Sampling-based MPC</b></summary>
 
 - [![](https://img.shields.io/badge/bdaiinstitute-judo-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/judo) <img src="https://img.shields.io/github/stars/bdaiinstitute/judo?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Bimanual--Manipulation-lightblue?style=flat-square)](https://sites.google.com/view/bimanualakslabunitartu)  [![](https://img.shields.io/badge/AKS--Lab--Univertsity--of--Tartu-bimanual_manipulation-black?style=flat-square&logo=github)](https://github.com/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation) <img src="https://img.shields.io/github/stars/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/patsyuk03-thesis_2025-black?style=flat-square&logo=github)](https://github.com/patsyuk03/thesis_2025) <img src="https://img.shields.io/github/stars/patsyuk03/thesis_2025?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_mpc) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tud--amr-gray?style=flat-square&logo=github)](https://github.com/tud-amr)
   - [![](https://img.shields.io/badge/biased--mppi-lightblue?style=flat-square)](https://autonomousrobots.nl/paper_websites/biased-mppi) [![](https://img.shields.io/badge/tud--amr-biased--mppi-black?style=flat-square&logo=github)](https://github.com/tud-amr/biased-mppi) <img src="https://img.shields.io/github/stars/tud-amr/biased-mppi?style=flat-square&color=yellow">
@@ -654,6 +657,16 @@ This curation covers a wide range of robotic manipulation tasks.
 ---
 
 <b>TASK + ENVIRONMENT-SPECIFIC</b>
+
+<details><summary><b>CLOTH FOLDING</b></summary>
+
+- [![](https://img.shields.io/badge/DexGarmentLab-lightblue?style=flat-square)](https://wayrise.github.io/DexGarmentLab) [![](https://img.shields.io/badge/wayrise-DexGarmentLab-black?style=flat-square&logo=github)](https://github.com/wayrise/DexGarmentLab) <img src="https://img.shields.io/github/stars/wayrise/DexGarmentLab?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DexVLA-lightblue?style=flat-square)](https://dex-vla.github.io) [![](https://img.shields.io/badge/juruobenruo-DexVLA-black?style=flat-square&logo=github)](https://github.com/juruobenruo/DexVLA) <img src="https://img.shields.io/github/stars/juruobenruo/DexVLA?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ET--SEED-lightblue?style=flat-square)](https://et-seed.github.io) [![](https://img.shields.io/badge/yuechen0614-ET--SEED-black?style=flat-square&logo=github)](https://github.com/yuechen0614/ET-SEED) <img src="https://img.shields.io/github/stars/yuechen0614/ET-SEED?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ReKep-lightblue?style=flat-square)](https://rekep-robot.github.io) [![](https://img.shields.io/badge/huangwl18-ReKep-black?style=flat-square&logo=github)](https://github.com/huangwl18/ReKep) <img src="https://img.shields.io/github/stars/huangwl18/ReKep?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/UniGarmentManip-lightblue?style=flat-square)](https://warshallrho.github.io/unigarmentmanip) [![](https://img.shields.io/badge/luhr2003-UniGarmentManip-black?style=flat-square&logo=github)](https://github.com/luhr2003/UniGarmentManip) <img src="https://img.shields.io/github/stars/luhr2003/UniGarmentManip?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/X--VLA-lightblue?style=flat-square)](https://thu-air-dream.github.io/X-VLA) [![](https://img.shields.io/badge/2toinf-X--VLA-black?style=flat-square&logo=github)](https://github.com/2toinf/X-VLA) <img src="https://img.shields.io/github/stars/2toinf/X-VLA?style=flat-square&color=yellow">
+</details>
 
 <details><summary><b>OBJECT ASSEMBLING</b></summary>
 
@@ -836,7 +849,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>SUCTION GRIPPER GRASP</b></summary>
 
-- [![](https://img.shields.io/badge/Apgoldberg1-Dex--Net--5.0-black?style=flat-square&logo=github)](https://github.com/Apgoldberg1/Dex-Net-5.0) <img src="https://img.shields.io/github/stars/Apgoldberg1/Dex-Net-5.0?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Dex--Net-lightblue?style=flat-square)](https://berkeleyautomation.github.io/dex-net) [![](https://img.shields.io/badge/BerkeleyAutomation-dex--net-black?style=flat-square&logo=github)](https://github.com/BerkeleyAutomation/dex-net) <img src="https://img.shields.io/github/stars/BerkeleyAutomation/dex-net?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DYNAMO--GRASP-lightblue?style=flat-square)](https://sites.google.com/view/dynamo-grasp) [![](https://img.shields.io/badge/dynamo--grasp-dynamo--grasp-black?style=flat-square&logo=github)](https://github.com/dynamo-grasp/dynamo-grasp) <img src="https://img.shields.io/github/stars/dynamo-grasp/dynamo-grasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/junchengli1-Sim--Suction--API-black?style=flat-square&logo=github)](https://github.com/junchengli1/Sim-Suction-API) <img src="https://img.shields.io/github/stars/junchengli1/Sim-Suction-API?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/rcao--hk-UISN-black?style=flat-square&logo=github)](https://github.com/rcao-hk/UISN) <img src="https://img.shields.io/github/stars/rcao-hk/UISN?style=flat-square&color=yellow">
@@ -943,46 +956,69 @@ This curation covers a wide range of robotic manipulation tasks.
 
 # Platforms 🦾
 
+> [Robot descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
+
 <details><summary><b>End Effectors</b></summary>
 
 > [Humanoid Hands Guide](https://humanoid.guide/hands)
+
+> [DexURDF](https://github.com/dexsuite/dex-urdf)
 
 ||
 |-|
 |[BeingBeyond, D1 Arm+Hand](https://www.youtube.com/watch?v=XRCcJAU84yA)|
 |[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
-|[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com)|
+|[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com) - [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
-|[DexRobot, DexHand](https://www.dex-robot.com)|
+|[DexRobot, DexHand](https://www.dex-robot.com) - [URDF](https://github.com/iotdesignshop/dexhand_description)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf)|
+|[Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) - [Github](https://github.com/benrichardson28/isyhand_ros2)|
 |[Meta, Digit-Plexus](https://github.com/facebookresearch/digit-plexus)|
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
 |[Pollen Robotics, Amazing Hand](https://github.com/pollen-robotics/AmazingHand)|
-|[PSYONIC, Ability Hand](https://www.psyonic.io/ability-hand)|
-|[qbrobotics, qb SoftHand](https://qbrobotics.com)|
-|[Robotiq](https://robotiq.com)|
-|[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161)|
-|[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series)|
-|[Soft Robotics Lab-ETH, ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
+|[PSYONIC, Ability Hand](https://www.psyonic.io/ability-hand) - [Github](https://github.com/psyonicinc/ability-hand-api)|
+|[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
+|[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161) - [Github](https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver)|
+|[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series) - [URDF](https://github.com/shadow-robot/sr_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand) - [MuJoCoROS](https://github.com/shadow-robot/mujoco_ros_pkgs)|
 |[Soltani Lab-UC Davis, Krysalis Hand](https://github.com/Soltanilara/Krysalis_Hand)|
 |[Tesollo, DG-5F](https://en.tesollo.com/DG-5F)|
-|[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA)|
+|[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open)|
 |[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
-|[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
-|[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved)| 
+|[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
 |[Wuji Hand](https://wuji.tech)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Soft End Effectors</b></summary>
+
+||
+|-|
+|[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
+|[ETH, Soft Robotic Hands](https://srl.ethz.ch/platforms/srh.html) - [ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
+|[qbrobotics, qb SoftHand](https://qbrobotics.com)|
+|[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
 </details>
 
 <details><summary><b>Arms</b></summary>
 
 ||
 |-|
-|[Doosan](https://www.doosanrobotics.com) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/175)|
-|[Franka](https://franka.de)|
-|[Kinova](https://www.kinovarobotics.com)|
+|[Doosan](https://www.doosanrobotics.com) - [Github](https://github.com/doosan-robotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/175)|
+|[Franka](https://franka.de) - [Github](https://github.com/frankarobotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
+|[Kinova](https://www.kinovarobotics.com) - [Github](https://github.com/kinovarobotics) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kinova_gen3)|
 |[Kossow](https://www.kassowrobots.com/products/7-axis-collaborative-robot-arm-kr-series)|
 |[Kuka](https://www.kuka.com)|
-|[Ufactory](https://www.ufactory.us/xarm)|
-|[UR](https://www.universal-robots.com)|
+|[myCobot](https://www.elephantrobotics.com) - [Github](https://github.com/elephantrobotics) - [MJCF](https://github.com/elephantrobotics/mycobot_mujoco)|
+|[Ufactory](https://www.ufactory.us/xarm) - [Github](https://github.com/xArm-developer) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
+|[UR](https://www.universal-robots.com) - [Github](https://github.com/UniversalRobots) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Dual-Arm Robots</b></summary>
+
+||
+|-|
+|[GALBOT](https://www.galbot.com)|
+|[TRI, Punyo](https://punyo.tech)|
+|[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
+|[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
 </details>
