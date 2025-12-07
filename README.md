@@ -869,6 +869,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Contact--MPC--Differentiable-black?style=flat-square&logo=gitlab)](https://gitlab.cc-asp.fraunhofer.de/hanikevi/contact_mpc)
+  - [![](https://img.shields.io/badge/Contact--MPC--PCA-black?style=flat-square)](https://openreview.net/pdf?id=d8qYLDH2vj)  [![](https://img.shields.io/badge/lakshmipathyarjun6/mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/lakshmipathyarjun6/mujoco_mpc) <img src="https://img.shields.io/github/stars/lakshmipathyarjun6/mujoco_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Director--of--G-in_hand_manipulation_2-black?style=flat-square&logo=github)](https://github.com/Director-of-G/in_hand_manipulation_2) <img src="https://img.shields.io/github/stars/Director-of-G/in_hand_manipulation_2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/jsll--MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MMintLab-gray?style=flat-square&logo=github)](https://github.com/MMintLab) [![](https://img.shields.io/badge/Tactile--Non--prehensile-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/research/tactile-nonprehensile)
@@ -964,7 +966,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 > [Robot descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 
-<details><summary><b>End Effectors</b></summary>
+<details><summary><b>End-Effectors</b></summary>
 
 > [Humanoid Hands Guide](https://humanoid.guide/hands)
 
@@ -995,7 +997,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Wuji Hand](https://wuji.tech)|
 </details>
 
-<details><summary><b>&nbsp;&nbsp;- Soft End Effectors</b></summary>
+<details><summary><b>&nbsp;&nbsp;- Soft End-Effectors</b></summary>
 
 ||
 |-|
