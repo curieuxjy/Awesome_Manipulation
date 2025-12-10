@@ -27,6 +27,7 @@ This curation covers a wide range of robotic manipulation tasks.
   
 ## Surveys
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
+- [A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)
 - [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)
 - [A Systematic Review on Custom Data Gloves](https://arxiv.org/abs/2405.15417)
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
