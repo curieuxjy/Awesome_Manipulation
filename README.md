@@ -166,6 +166,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](https://arxiv.org/abs/2502.01071)
 - [scene_synthesizer: A Python Library for Procedural Scene Generation in Robot Manipulation](https://joss.theoj.org/papers/10.21105/joss.07561)
 - [ScrewSplat: An End-to-End Method for Articulated Object Recognition](https://www.arxiv.org/abs/2508.02146)
+- [SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey](https://arxiv.org/abs/2503.09829)
 - [Self-supervised perception for tactile skin covered dexterous hands](https://arxiv.org/abs/2505.11420)
 - [Sequential Multi-Object Grasping with One Dexterous Hand](https://arxiv.org/abs/2503.09078)
 - [Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids](https://arxiv.org/abs/2502.20396)
