@@ -37,6 +37,16 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
 - [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
 
+## Rankings & Statistics
+- [IFR: International Federation of Robotics](https://ifr.org/r-and-d)
+- [ETO Research Almanac](https://almanac.eto.tech)
+  - [AI](https://almanac.eto.tech/topics/ai)
+  - [Robotics](https://almanac.eto.tech/topics/robotics) 
+- [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
+- [Google Scholar](https://scholar.google.com/citations?view_op=top_venues)
+  - [AI](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
+  - [Automation & Control Theory](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
+  - [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
 ---
 
 # Papers 📑
