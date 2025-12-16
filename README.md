@@ -45,12 +45,12 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
 
 ## Rankings & Statistics
-- [IFR: International Federation of Robotics](https://ifr.org/r-and-d)
 - [ETO Research Almanac](https://almanac.eto.tech)
+- [IFR: International Federation of Robotics](https://ifr.org/r-and-d)
   - [AI](https://almanac.eto.tech/topics/ai)
   - [Robotics](https://almanac.eto.tech/topics/robotics) 
-- [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
 - [Google Scholar](https://scholar.google.com/citations?view_op=top_venues)
+- [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
   - [AI](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
   - [Automation & Control Theory](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
   - [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
@@ -348,6 +348,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486)
 - [Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation](https://arxiv.org/abs/2309.00987)
 - [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://arxiv.org/abs/2301.08343)
+- [Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations](https://arxiv.org/abs/2303.01497)
 - [UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://arxiv.org/abs/2304.00464)
 - [Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes](https://arxiv.org/abs/2211.11744)
 
