@@ -607,7 +607,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Neural Dynamics: Platforms</b></summary>
 
-- [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io)  [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/facebookresearch-differentiable--robot--model-black?style=flat-square&logo=github)](https://github.com/facebookresearch/differentiable-robot-model) <img src="https://img.shields.io/github/stars/facebookresearch/differentiable-robot-model?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io) [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>LEARNING</b></summary>
@@ -1012,6 +1013,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com) - [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
 |[DexRobot, DexHand](https://www.dex-robot.com) - [URDF](https://github.com/iotdesignshop/dexhand_description)|
+|[DexUMI](https://dex-umi.github.io)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf)|
 |[Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) - [Github](https://github.com/benrichardson28/isyhand_ros2)|
@@ -1033,7 +1035,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
-|[LEGATO-Gripper](https://ut-hcrl.github.io/LEGATO-Gripper) - [Github](https://github.com/UT-HCRL/LEGATO)|
+|[LEGATO](https://ut-hcrl.github.io/LEGATO-Gripper) - [Github](https://github.com/UT-HCRL/LEGATO)|
+|[MagiClaw](https://ancorasir.com/?p=6790) - [Github](https://github.com/ancorasir/MagiClaw) - [AncoraSpring](https://ancoraspring.com)|
 |[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
 |[UMI](https://github.com/real-stanford/universal_manipulation_interface) - [Actuated-UMI](https://github.com/actuated-umi/actuated-umi-gripper) - [FastUMI](https://github.com/zxzm-zak/FastUMI_Data)|
 </details>
@@ -1042,6 +1045,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
+|[BionicDL Lab](https://bionicdl.ancorasir.com) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger)|
 |[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
 |[ETH, Soft Robotic Hands](https://srl.ethz.ch/platforms/srh.html) - [ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
 |[qbrobotics, qb SoftHand](https://qbrobotics.com)|
