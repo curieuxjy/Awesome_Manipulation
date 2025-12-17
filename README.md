@@ -208,6 +208,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [What Matters for Batch Online Reinforcement Learning in Robotics?](https://arxiv.org/pdf/2505.08078)
 - [When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning](https://arxiv.org/abs/2502.03270)
 - [X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](https://arxiv.org/abs/2505.07096)
+- [XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation](https://arxiv.org/abs/2508.00097)
 - [Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks](https://arxiv.org/pdf/2505.02915)
 - [ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking](https://arxiv.org/abs/2502.01004)
 - [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054)
