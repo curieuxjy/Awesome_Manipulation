@@ -749,6 +749,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>OBJECT HANGING</b></summary>
 
+
+- [![](https://img.shields.io/badge/anthonysimeonov-ndf_robot-black?style=flat-square&logo=github)](https://github.com/anthonysimeonov/ndf_robot) <img src="https://img.shields.io/github/stars/anthonysimeonov/ndf_robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AnyPlace-lightblue?style=flat-square)](https://any-place.github.io) [![](https://img.shields.io/badge/ac--rad-anyplace-black?style=flat-square&logo=github)](https://github.com/ac-rad/anyplace) <img src="https://img.shields.io/github/stars/ac-rad/anyplace?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Diffusion--EDFs-lightblue?style=flat-square)](https://sites.google.com/view/diffusion-edfs) [![](https://img.shields.io/badge/tomato1mule-diffusion_edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/diffusion_edf) <img src="https://img.shields.io/github/stars/tomato1mule/diffusion_edf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RiEMann-lightblue?style=flat-square)](https://riemann-web.github.io) [![](https://img.shields.io/badge/HeegerGao-RiEMann-black?style=flat-square&logo=github)](https://github.com/HeegerGao/RiEMann) <img src="https://img.shields.io/github/stars/HeegerGao/RiEMann?style=flat-square&color=yellow">
@@ -1042,7 +1044,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[LEGATO](https://ut-hcrl.github.io/LEGATO-Gripper) - [Github](https://github.com/UT-HCRL/LEGATO)|
 |[MagiClaw](https://ancorasir.com/?p=6790) - [Github](https://github.com/ancorasir/MagiClaw) - [AncoraSpring](https://ancoraspring.com)|
 |[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
-|[UMI](https://github.com/real-stanford/universal_manipulation_interface) - [Actuated-UMI](https://github.com/actuated-umi/actuated-umi-gripper) - [FastUMI](https://github.com/zxzm-zak/FastUMI_Data)|
+|[UMI](https://github.com/real-stanford/universal_manipulation_interface) - [Actuated-UMI](https://github.com/actuated-umi/actuated-umi-gripper) - [FastUMI](https://github.com/zxzm-zak/FastUMI_Data) - [TacThru-UMI](https://github.com/YuyangLee/TacThru)|
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Soft End-Effectors</b></summary>
@@ -1079,4 +1081,66 @@ This curation covers a wide range of robotic manipulation tasks.
 |[TRI, Punyo](https://punyo.tech)|
 |[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
 |[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;Tactile Sensors</b></summary>
+
+> [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch)
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Sensors: Optical types</b></summary>
+
+||
+|-|
+|[9DTact](https://linchangyi1.github.io/9DTact) - [Github](https://github.com/linchangyi1/9DTact)|
+|[CrystalTac](https://spj.science.org/doi/10.34133/cbsystems.0231)|
+|[DEXOP](https://dex-op.github.io) - [Arxiv](https://arxiv.org/abs/2509.04441)|
+|[Digit](https://digit.ml) - [GelSight-Digit](https://pages.gelsight.com/digit-tactile-sensor) - [Allegro_Digit](https://github.com/duyipai/Allegro_Digit) - [Digit-Plexus](https://github.com/facebookresearch/digit-plexus) - [Digit360](https://github.com/facebookresearch/digit360) - [NeuralFeels](https://github.com/facebookresearch/neuralfeels) - [Sparsh](https://github.com/facebookresearch/sparsh) - [Sparsh-X](https://github.com/facebookresearch/sparsh-multisensory-touch)|
+|[FingerVision](https://www.fingervision.jp/en)|
+|[FreeTacMan](https://opendrivelab.com/FreeTacMan) - [Github](https://github.com/OpenDriveLab/FreeTacMan)|
+|[GelSight](http://www.gelsight.com) - [SDK](https://github.com/gelsightinc/gsrobotics) - [MuJoCo](https://github.com/rlamprell/GelSightMujoco) - [Gazebo](https://github.com/danfergo/gelsight_simulation) - [Taxim](https://github.com/Robo-Touch/Taxim/tree/taxim-robot) - [TacEx](https://github.com/DH-Ng/TacEx)|
+|[MC-Tac](https://github.com/robotflow-initiative/MC-Tac)|
+|[PropSE](https://prop-se.github.io) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) - [ProSoRo](https://prosoro.github.io) - [EVOMIA](https://github.com/ancorasir/EVOMIA)|
+|[STS](https://ieeexplore.ieee.org/document/9423118) - [Finger-STS](https://ieeexplore.ieee.org/document/9832483) - [TacThru](https://github.com/YuyangLee/TacThru)|
+|[Tac3D](https://arxiv.org/abs/2202.06211) - [AnyTouch](https://github.com/GeWu-Lab/AnyTouch)|
+|[TensorTouch](https://tensor-touch.github.io) - [Github](https://github.com/armlabstanford/tensor-touch)|
+|[TRI-Soft-bubble](https://punyo.tech/bubble-gripper.html)|
+|[WSTac](https://sites.google.com/view/wstac) - [DOI](https://doi.org/10.1145/3594739.3612916)|
+|[XELA](https://www.xelarobotics.com/tactile-sensors) - [mHand](https://sites.google.com/site/bashifunabashi/mhand-project) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Sensors: Non-optical types (Piezoresistive, Piezoelectric, Capacitive, Elastoresistive, etc.)</b></summary>
+
+||
+|-|
+|[AnySkin](https://any-skin.github.io) & [Github](https://github.com/raunaqbhirangi/anyskin) - [ReSkin](https://reskin.dev) & [Github](https://github.com/raunaqbhirangi/reskin_sensor) - [VisuoSkin](https://github.com/raunaqbhirangi/visuoskin)|
+|[Bio-Skin](https://williamalexanda.github.io/Bio-Skin) - [Github](https://github.com/WilliamAlexanda/Open_Bio-Skin)|
+|[FlexiTac](https://flexitac.github.io)|
+|[Neuroinformatics Group, Universität Bielefeld](https://ni.www.techfak.uni-bielefeld.de/tactile) - [Github](https://github.com/ubi-agni) - [tactile_toolbox](https://github.com/ubi-agni/tactile_toolbox) - [tactile_filters](https://github.com/ubi-agni/tactile_filters)|
+|[Nissha](https://connect.nissha.com/filmdevice/en/shear-force-sensor/robot)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Gloves</b></summary>
+
+||
+|-|
+|[HaptX Gloves G1, ELSA](https://www.elsa-jp.co.jp/products/detail/haptx-gloves-g1)|
+|[OSMO](https://jessicayin.github.io/osmo_tactile_glove) - [Github](https://github.com/jessicayin/osmo_tactile_glove)|
+|[SenseGlove](https://www.senseglove.com)|
+|[STAG, MIT](https://stag.csail.mit.edu) - [Github](https://github.com/Erkil1452/touch)|
+|[TAMS](https://www.mdpi.com/1424-8220/24/6/1912) - [Github](https://github.com/TAMS-Group/tams_glove)|
+|[VCLATactileGlove](https://yzhu.io/publication/glove2017iros) - [Github](https://github.com/xiaozhuchacha/VCLATactileGlove)|
+|[VTDexManip](https://lqts.github.io/VTDexManip) - [Github](https://github.com/LQTS/VTDexManip)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Labs</b></summary>
+
+||
+|-|
+|[CoRe Lab, PKU](https://yzhu.io/tag/tactile)|
+|[BionicDL Lab, SUSTech](https://bionicdl.ancorasir.com) - [PropSE](https://prop-se.github.io) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) - [ProSoRo](https://prosoro.github.io) - [EVOMIA](https://github.com/ancorasir/EVOMIA)|
+|[Haptics Lab, Kyoto Institute of Technology](https://www.cis.kit.ac.jp/~nagano)|
+|[LASR Lab, TU Dresden](https://lasr.org) - [Github](https://github.com/lasr-lab)|
+|[MCube Lab, MIT](https://mcube.mit.edu/research/tactile_localization.html) - [Tactile Dexterity](https://mcube.mit.edu/research/tactile_dexterity.html)|
+|[MMINT Lab, University of Michigan](https://www.mmintlab.com) - [GelSlim-4.0](https://www.mmintlab.com/research/gelslim-4-0) - [Hardware](https://github.com/MMintLab/gelslim_hardware) - [Depth](https://github.com/MMintLab/gelslim_depth) - [Shear](https://github.com/MMintLab/gelslim_shear)|
+</details>
 </details>
