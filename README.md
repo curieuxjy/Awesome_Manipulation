@@ -1032,7 +1032,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Soltani Lab-UC Davis, Krysalis Hand](https://github.com/Soltanilara/Krysalis_Hand)|
 |[Tesollo, DG-5F](https://en.tesollo.com/DG-5F)|
 |[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open)|
-|[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
+|[Tokyo Robotics, Torobo](https://robotics.tokyo/technologies/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
 |[Wuji Hand](https://wuji.tech)|
 </details>
@@ -1077,8 +1077,12 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
+|[Baxter](https://github.com/RethinkRobotics/baxter_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/137)|
 |[GALBOT](https://www.galbot.com)|
+|[PAL Robotics, TIAGo Pro](https://pal-robotics.com/robot/tiago-pro) - [Github](https://github.com/pal-robotics/tiago_pro_robot) - [TIAGo++-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago_dual)|
 |[Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) - [Github](https://github.com/pollen-robotics) - [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) - [Dora](https://dora-rs.ai)|
+|[PR2](https://wiki.ros.org/Robots/PR2) - [MJCF](https://github.com/vikashplus/PR2) - [Robosuite-PR2](https://github.com/ARISE-Initiative/robosuite/tree/robocasa_v0.1/robosuite/models/assets/robots/pr2)|
+|[Tokyo Robotics, Torobo](https://robotics.tokyo) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[TRI, Punyo](https://punyo.tech)|
 |[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
 |[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
