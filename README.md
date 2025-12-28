@@ -1078,7 +1078,7 @@ This curation covers a wide range of robotic manipulation tasks.
 ||
 |-|
 |[GALBOT](https://www.galbot.com)|
-|[Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) - [Github](https://github.com/pollen-robotics) - [Dora](https://dora-rs.ai)|
+|[Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) - [Github](https://github.com/pollen-robotics) - [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) - [Dora](https://dora-rs.ai)|
 |[TRI, Punyo](https://punyo.tech)|
 |[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
 |[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
