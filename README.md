@@ -50,10 +50,10 @@ This curation covers a wide range of robotic manipulation tasks.
   - [AI](https://almanac.eto.tech/topics/ai)
   - [Robotics](https://almanac.eto.tech/topics/robotics) 
 - [Google Scholar](https://scholar.google.com/citations?view_op=top_venues)
-- [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
   - [AI](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)
   - [Automation & Control Theory](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory)
   - [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
+- [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
 ---
 
 # Papers 📑
@@ -607,7 +607,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Neural Dynamics: Platforms</b></summary>
 
-- [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io)  [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/facebookresearch-differentiable--robot--model-black?style=flat-square&logo=github)](https://github.com/facebookresearch/differentiable-robot-model) <img src="https://img.shields.io/github/stars/facebookresearch/differentiable-robot-model?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io) [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>LEARNING</b></summary>
@@ -648,6 +649,7 @@ This curation covers a wide range of robotic manipulation tasks.
   - [![](https://img.shields.io/badge/NVlabs-FABRICS-black?style=flat-square&logo=github)](https://github.com/NVlabs/FABRICS) <img src="https://img.shields.io/github/stars/NVlabs/FABRICS?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/tud--amr-fabrics-black?style=flat-square&logo=github)](https://github.com/tud-amr/fabrics) <img src="https://img.shields.io/github/stars/tud-amr/fabrics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/KavrakiLab-pyre-black?style=flat-square&logo=github)](https://github.com/KavrakiLab/pyre) <img src="https://img.shields.io/github/stars/KavrakiLab/pyre?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DP0376NNHQo)
+- [![](https://img.shields.io/badge/krishauser-SemiInfiniteOptimization-black?style=flat-square&logo=github)](https://github.com/krishauser/SemiInfiniteOptimization) <img src="https://img.shields.io/github/stars/krishauser/SemiInfiniteOptimization?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MoPA--RL-lightblue?style=flat-square)](https://clvrai.github.io/mopa-rl) [![](https://img.shields.io/badge/clvrai-mopa--rl-black?style=flat-square&logo=github)](https://github.com/clvrai/mopa-rl) <img src="https://img.shields.io/github/stars/clvrai/mopa-rl?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/MoPA--PD-lightblue?style=flat-square)](https://clvrai.github.io/mopa-pd) [![](https://img.shields.io/badge/clvrai-mopa--pd-black?style=flat-square&logo=github)](https://github.com/clvrai/mopa-pd) <img src="https://img.shields.io/github/stars/clvrai/mopa-pd?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OSCBF-lightblue?style=flat-square)](https://stanfordasl.github.io/oscbf) [![](https://img.shields.io/badge/StanfordASL-oscbf-black?style=flat-square&logo=github)](https://github.com/StanfordASL/oscbf) <img src="https://img.shields.io/github/stars/StanfordASL/oscbf?style=flat-square&color=yellow">
@@ -747,6 +749,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>OBJECT HANGING</b></summary>
 
+
+- [![](https://img.shields.io/badge/anthonysimeonov-ndf_robot-black?style=flat-square&logo=github)](https://github.com/anthonysimeonov/ndf_robot) <img src="https://img.shields.io/github/stars/anthonysimeonov/ndf_robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AnyPlace-lightblue?style=flat-square)](https://any-place.github.io) [![](https://img.shields.io/badge/ac--rad-anyplace-black?style=flat-square&logo=github)](https://github.com/ac-rad/anyplace) <img src="https://img.shields.io/github/stars/ac-rad/anyplace?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Diffusion--EDFs-lightblue?style=flat-square)](https://sites.google.com/view/diffusion-edfs) [![](https://img.shields.io/badge/tomato1mule-diffusion_edf-black?style=flat-square&logo=github)](https://github.com/tomato1mule/diffusion_edf) <img src="https://img.shields.io/github/stars/tomato1mule/diffusion_edf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RiEMann-lightblue?style=flat-square)](https://riemann-web.github.io) [![](https://img.shields.io/badge/HeegerGao-RiEMann-black?style=flat-square&logo=github)](https://github.com/HeegerGao/RiEMann) <img src="https://img.shields.io/github/stars/HeegerGao/RiEMann?style=flat-square&color=yellow">
@@ -841,12 +845,14 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/ChenN--Scott-MotionGrasp-black?style=flat-square&logo=github)](https://github.com/ChenN-Scott/MotionGrasp) <img src="https://img.shields.io/github/stars/ChenN-Scott/MotionGrasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ethz--asl-active_grasp-black?style=flat-square&logo=github)](https://github.com/ethz-asl/active_grasp) <img src="https://img.shields.io/github/stars/ethz-asl/active_grasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Grasp--MPC-lightblue?style=flat-square)](https://grasp-mpc.github.io) [![](https://img.shields.io/badge/Closed--Loop--Visual--Grasping--via--Value--Guided--Model--Predictive--Control-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.06201)
+- [![](https://img.shields.io/badge/LEGATO-lightblue?style=flat-square)](https://ut-hcrl.github.io/LEGATO) [![](https://img.shields.io/badge/UT--HCRL-LEGATO-black?style=flat-square&logo=github)](https://github.com/UT-HCRL/LEGATO) <img src="https://img.shields.io/github/stars/UT-HCRL/LEGATO?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-DefGraspSim-black?style=flat-square&logo=github)](https://github.com/NVlabs/DefGraspSim) <img src="https://img.shields.io/github/stars/NVlabs/DefGraspSim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/QD--Grasp-lightblue?style=flat-square)](https://qdgrasp.github.io) [![](https://img.shields.io/badge/l2g-qd_grasp-black?style=flat-square&logo=gitlab)](https://gitlab.isir.upmc.fr/l2g/qd_grasp) [![](https://img.shields.io/badge/l2g-qd_grasp_6dof-black?style=flat-square&logo=gitlab)](https://gitlab.isir.upmc.fr/l2g/qd_grasp_6dof) [![](https://img.shields.io/badge/QDGset_no_shapenet-black?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/QDGrasp/QDGset_no_shapenet)
 - [![](https://img.shields.io/badge/RoboCook-lightblue?style=flat-square)](https://hshi74.github.io/robocook) [![](https://img.shields.io/badge/hshi74-robocook-black?style=flat-square&logo=github)](https://github.com/hshi74/robocook) <img src="https://img.shields.io/github/stars/hshi74/robocook?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboCraft-lightblue?style=flat-square)](https://hxu.rocks/robocraft) [![](https://img.shields.io/badge/hshi74-RoboCraft-black?style=flat-square&logo=github)](https://github.com/hshi74/RoboCraft) <img src="https://img.shields.io/github/stars/hshi74/RoboCraft?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Search--For--Grasp-lightblue?style=flat-square)](https://searchforgrasp.github.io) [![](https://img.shields.io/badge/seungyeon--k-Search--for--Grasp--public-black?style=flat-square&logo=github)](https://github.com/seungyeon-k/Search-for-Grasp-public) <img src="https://img.shields.io/github/stars/seungyeon-k/Search-for-Grasp-public?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/T2SQNet-lightblue?style=flat-square)](https://t2sqnet.github.io) [![](https://img.shields.io/badge/seungyeon--k-T2SQNet--public-black?style=flat-square&logo=github)](https://github.com/seungyeon-k/T2SQNet-public) <img src="https://img.shields.io/github/stars/seungyeon-k/T2SQNet-public?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/UMI-lightblue?style=flat-square)](https://umi-data.github.io) [![](https://img.shields.io/badge/real--stanford-universal_manipulation_interface-black?style=flat-square&logo=github)](https://github.com/real-stanford/universal_manipulation_interface) <img src="https://img.shields.io/github/stars/real-stanford/universal_manipulation_interface?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/VPG-lightblue?style=flat-square)](https://vpg.cs.princeton.edu) [![](https://img.shields.io/badge/andyzeng-visual--pushing--grasping-black?style=flat-square&logo=github)](https://github.com/andyzeng/visual-pushing-grasping) <img src="https://img.shields.io/github/stars/andyzeng/visual-pushing-grasping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/wisdomagboh-multi--object--grasping-black?style=flat-square&logo=github)](https://github.com/wisdomagboh/multi-object-grasping) <img src="https://img.shields.io/github/stars/wisdomagboh/multi-object-grasping?style=flat-square&color=yellow">
 </details>
@@ -892,7 +898,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/rcao--hk-UISN-black?style=flat-square&logo=github)](https://github.com/rcao-hk/UISN) <img src="https://img.shields.io/github/stars/rcao-hk/UISN?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>TRAINING-FREE IN-HAND MANIPULATION</b></summary>
+<details><summary><b>TRAINING-FREE IN-HAND/GRIPPER MANIPULATION</b></summary>
 <a id="train_free_inhand"/>
 
 > Please also reference [Learning-Github-Repos-Single arm/hand: In-hand Manipulation](Learning.md#learning_in_hand)
@@ -902,12 +908,14 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Caltech--AMBER-drop-black?style=flat-square&logo=github)](https://github.com/Caltech-AMBER/drop) <img src="https://img.shields.io/github/stars/Caltech-AMBER/drop?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Contact--MPC--Differentiable-black?style=flat-square&logo=gitlab)](https://gitlab.cc-asp.fraunhofer.de/hanikevi/contact_mpc)
   - [![](https://img.shields.io/badge/Contact--MPC--PCA-black?style=flat-square)](https://openreview.net/pdf?id=d8qYLDH2vj)  [![](https://img.shields.io/badge/lakshmipathyarjun6/mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/lakshmipathyarjun6/mujoco_mpc) <img src="https://img.shields.io/github/stars/lakshmipathyarjun6/mujoco_mpc?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DISF-lightblue?style=flat-square)](https://tomoya-yamanokuchi.github.io/disf-project-page) [![](https://img.shields.io/badge/tomoya--yamanokuchi-disf--official-black?style=flat-square&logo=github)](https://github.com/tomoya-yamanokuchi/disf-official) <img src="https://img.shields.io/github/stars/tomoya-yamanokuchi/disf-official?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Director--of--G-in_hand_manipulation_2-black?style=flat-square&logo=github)](https://github.com/Director-of-G/in_hand_manipulation_2) <img src="https://img.shields.io/github/stars/Director-of-G/in_hand_manipulation_2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/jsll--MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MMintLab-gray?style=flat-square&logo=github)](https://github.com/MMintLab) [![](https://img.shields.io/badge/Tactile--Non--prehensile-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/research/tactile-nonprehensile)
   - [![](https://img.shields.io/badge/MMintLab-bimanual--drake--limit--surface--med-black?style=flat-square&logo=github)](https://github.com/MMintLab/bimanual-drake-limit-surface-med) <img src="https://img.shields.io/github/stars/MMintLab/bimanual-drake-limit-surface-med?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/bimanual-dual-limit-surfaces)
   - [![](https://img.shields.io/badge/MMintLab-manipulation_via_membranes-black?style=flat-square&logo=github)](https://github.com/MMintLab/manipulation_via_membranes) <img src="https://img.shields.io/github/stars/MMintLab/manipulation_via_membranes?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/research/manipulation-via-membranes)
 - [![](https://img.shields.io/badge/PatrizioPerugini-Probabilistic_prehensile_pushing-black?style=flat-square&logo=github)](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing) <img src="https://img.shields.io/github/stars/PatrizioPerugini/Probabilistic_prehensile_pushing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ReflexiveGrasp-lightblue?style=flat-square)](https://reflexivegrasp.github.io) [Arxiv](https://arxiv.org/abs/2509.15876)
 - [![](https://img.shields.io/badge/RGMC--XL--team-ingrasp_manipulation-black?style=flat-square&logo=github)](https://github.com/RGMC-XL-team/ingrasp_manipulation) <img src="https://img.shields.io/github/stars/RGMC-XL-team/ingrasp_manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--learning-in_hand_manipulation-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/in_hand_manipulation)
 - [![](https://img.shields.io/badge/robot--learning-relaxed_rigidity_in_grasp-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/relaxed_rigidity_in_grasp) [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
@@ -1006,10 +1014,12 @@ This curation covers a wide range of robotic manipulation tasks.
 ||
 |-|
 |[BeingBeyond, D1 Arm+Hand](https://www.youtube.com/watch?v=XRCcJAU84yA)|
-|[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482)|
+|[BIGAI, F-TAC Hand](https://arxiv.org/abs/2412.14482) - [Codes](https://doi.org/10.5281/zenodo.10141935)|
 |[CMU, Leap Hand](https://arxiv.org/abs/2309.06440) - [V1](https://v1.leaphand.com) - [V2](https://v2.leaphand.com) - [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)|
 |[Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)|
 |[DexRobot, DexHand](https://www.dex-robot.com) - [URDF](https://github.com/iotdesignshop/dexhand_description)|
+|[DEXOP](https://dex-op.github.io) - [Arxiv](https://arxiv.org/abs/2509.04441)|
+|[DexUMI](https://dex-umi.github.io) - [Github](https://github.com/real-stanford/DexUMI)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf)|
 |[Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) - [Github](https://github.com/benrichardson28/isyhand_ros2)|
@@ -1017,22 +1027,33 @@ This curation covers a wide range of robotic manipulation tasks.
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
 |[Pollen Robotics, Amazing Hand](https://github.com/pollen-robotics/AmazingHand)|
 |[PSYONIC, Ability Hand](https://www.psyonic.io/ability-hand) - [Github](https://github.com/psyonicinc/ability-hand-api)|
-|[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
 |[Schunk, SVH](https://schunk.com/de/en/gripping-systems/special-gripper/svh/c/PGR_3161) - [Github](https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver)|
 |[Shadow Hand](https://www.shadowrobot.com/dexterous-hand-series) - [URDF](https://github.com/shadow-robot/sr_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand) - [MuJoCoROS](https://github.com/shadow-robot/mujoco_ros_pkgs)|
 |[Soltani Lab-UC Davis, Krysalis Hand](https://github.com/Soltanilara/Krysalis_Hand)|
 |[Tesollo, DG-5F](https://en.tesollo.com/DG-5F)|
 |[TetherIA, Aero Hand](https://tetheria.ai) - [Github](https://github.com/TetherIA) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open)|
-|[Tokyo Robotics, Torobo](https://robotics.tokyo/products/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
+|[Tokyo Robotics, Torobo](https://robotics.tokyo/technologies/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
 |[Wuji Hand](https://wuji.tech)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Parallel Gripper End-Effectors</b></summary>
+
+||
+|-|
+|[LEGATO](https://ut-hcrl.github.io/LEGATO-Gripper) - [Github](https://github.com/UT-HCRL/LEGATO)|
+|[MagiClaw](https://ancorasir.com/?p=6790) - [Github](https://github.com/ancorasir/MagiClaw) - [AncoraSpring](https://ancoraspring.com)|
+|[Robotiq](https://robotiq.com) - [Github](https://github.com/PickNikRobotics/ros2_robotiq_gripper) - [MJCF-2F85](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85) - [MJCF-2F85-V4](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotiq_2f85_v4) |
+|[UMI](https://github.com/real-stanford/universal_manipulation_interface) - [Actuated-UMI](https://github.com/actuated-umi/actuated-umi-gripper) - [FastUMI](https://github.com/zxzm-zak/FastUMI_Data) - [TacThru-UMI](https://github.com/YuyangLee/TacThru)|
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Soft End-Effectors</b></summary>
 
 ||
 |-|
+|[BionicDL Lab](https://bionicdl.ancorasir.com) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) - [ProSoRo](https://prosoro.github.io) - [EVOMIA](https://github.com/ancorasir/EVOMIA)|
 |[CMU, Foam Hand](https://labs.ri.cmu.edu/foamroboticslab)|
+|[CMU, MOE](https://moehair.github.io) - [KineSoft](https://kinesoft-policy.github.io) - [HairBot](https://github.com/uksangyoo/hairbot)|
 |[ETH, Soft Robotic Hands](https://srl.ethz.ch/platforms/srh.html) - [ORCA Hand](https://www.orcahand.com) - [Github](https://github.com/orcahand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/170) - [mimic robotics](https://www.mimicrobotics.com)|
 |[qbrobotics, qb SoftHand](https://qbrobotics.com)|
 |[TU Berlin, RBO Hand](https://www.tu.berlin/en/robotics/research-areas/soft-manipulation)|
@@ -1056,8 +1077,75 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
+|[Baxter](https://github.com/RethinkRobotics/baxter_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/137)|
 |[GALBOT](https://www.galbot.com)|
+|[PAL Robotics, TIAGo Pro](https://pal-robotics.com/robot/tiago-pro) - [Github](https://github.com/pal-robotics/tiago_pro_robot) - [TIAGo++-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago_dual)|
+|[Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) - [Github](https://github.com/pollen-robotics) - [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) - [Dora](https://dora-rs.ai)|
+|[PR2](https://wiki.ros.org/Robots/PR2) - [MJCF](https://github.com/vikashplus/PR2) - [Robosuite-PR2](https://github.com/ARISE-Initiative/robosuite/tree/robocasa_v0.1/robosuite/models/assets/robots/pr2)|
+|[Tokyo Robotics, Torobo](https://robotics.tokyo) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[TRI, Punyo](https://punyo.tech)|
 |[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
 |[TUM, GARMI](https://geriatronics.mirmi.tum.de/en/garmi) - [Github](https://github.com/tum-robotics) - [URDF/MJCF](https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/garmi_packages/garmi_description)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;Tactile Sensors</b></summary>
+
+> [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch)
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Sensors: Optical types</b></summary>
+
+||
+|-|
+|[9DTact](https://linchangyi1.github.io/9DTact) - [Github](https://github.com/linchangyi1/9DTact)|
+|[CrystalTac](https://spj.science.org/doi/10.34133/cbsystems.0231)|
+|[DEXOP](https://dex-op.github.io) - [Arxiv](https://arxiv.org/abs/2509.04441)|
+|[Digit](https://digit.ml) - [GelSight-Digit](https://pages.gelsight.com/digit-tactile-sensor) - [Allegro_Digit](https://github.com/duyipai/Allegro_Digit) - [Digit-Plexus](https://github.com/facebookresearch/digit-plexus) - [Digit360](https://github.com/facebookresearch/digit360) - [NeuralFeels](https://github.com/facebookresearch/neuralfeels) - [Sparsh](https://github.com/facebookresearch/sparsh) - [Sparsh-X](https://github.com/facebookresearch/sparsh-multisensory-touch)|
+|[FingerVision](https://www.fingervision.jp/en)|
+|[FreeTacMan](https://opendrivelab.com/FreeTacMan) - [Github](https://github.com/OpenDriveLab/FreeTacMan)|
+|[GelSight](http://www.gelsight.com) - [SDK](https://github.com/gelsightinc/gsrobotics) - [MuJoCo](https://github.com/rlamprell/GelSightMujoco) - [Gazebo](https://github.com/danfergo/gelsight_simulation) - [Taxim](https://github.com/Robo-Touch/Taxim/tree/taxim-robot) - [TacEx](https://github.com/DH-Ng/TacEx)|
+|[MC-Tac](https://github.com/robotflow-initiative/MC-Tac)|
+|[PropSE](https://prop-se.github.io) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) - [ProSoRo](https://prosoro.github.io) - [EVOMIA](https://github.com/ancorasir/EVOMIA)|
+|[STS](https://ieeexplore.ieee.org/document/9423118) - [Finger-STS](https://ieeexplore.ieee.org/document/9832483) - [TacThru](https://github.com/YuyangLee/TacThru)|
+|[Tac3D](https://arxiv.org/abs/2202.06211) - [AnyTouch](https://github.com/GeWu-Lab/AnyTouch)|
+|[TensorTouch](https://tensor-touch.github.io) - [Github](https://github.com/armlabstanford/tensor-touch)|
+|[TRI-Soft-bubble](https://punyo.tech/bubble-gripper.html)|
+|[WSTac](https://sites.google.com/view/wstac) - [DOI](https://doi.org/10.1145/3594739.3612916)|
+|[XELA](https://www.xelarobotics.com/tactile-sensors) - [mHand](https://sites.google.com/site/bashifunabashi/mhand-project) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Sensors: Non-optical types (Piezoresistive, Piezoelectric, Capacitive, Elastoresistive, etc.)</b></summary>
+
+||
+|-|
+|[AnySkin](https://any-skin.github.io) & [Github](https://github.com/raunaqbhirangi/anyskin) - [ReSkin](https://reskin.dev) & [Github](https://github.com/raunaqbhirangi/reskin_sensor) - [VisuoSkin](https://github.com/raunaqbhirangi/visuoskin)|
+|[Bio-Skin](https://williamalexanda.github.io/Bio-Skin) - [Github](https://github.com/WilliamAlexanda/Open_Bio-Skin)|
+|[FlexiTac](https://flexitac.github.io)|
+|[Neuroinformatics Group, Universität Bielefeld](https://ni.www.techfak.uni-bielefeld.de/tactile) - [Github](https://github.com/ubi-agni) - [tactile_toolbox](https://github.com/ubi-agni/tactile_toolbox) - [tactile_filters](https://github.com/ubi-agni/tactile_filters)|
+|[Nissha](https://connect.nissha.com/filmdevice/en/shear-force-sensor/robot)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Gloves</b></summary>
+
+||
+|-|
+|[HaptX Gloves G1, ELSA](https://www.elsa-jp.co.jp/products/detail/haptx-gloves-g1)|
+|[OSMO](https://jessicayin.github.io/osmo_tactile_glove) - [Github](https://github.com/jessicayin/osmo_tactile_glove)|
+|[SenseGlove](https://www.senseglove.com)|
+|[STAG, MIT](https://stag.csail.mit.edu) - [Github](https://github.com/Erkil1452/touch)|
+|[TAMS](https://www.mdpi.com/1424-8220/24/6/1912) - [Github](https://github.com/TAMS-Group/tams_glove)|
+|[VCLATactileGlove](https://yzhu.io/publication/glove2017iros) - [Github](https://github.com/xiaozhuchacha/VCLATactileGlove)|
+|[VTDexManip](https://lqts.github.io/VTDexManip) - [Github](https://github.com/LQTS/VTDexManip)|
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Tactile Labs</b></summary>
+
+||
+|-|
+|[CoRe Lab, PKU](https://yzhu.io/tag/tactile)|
+|[BionicDL Lab, SUSTech](https://bionicdl.ancorasir.com) - [PropSE](https://prop-se.github.io) - [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) - [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) - [ProSoRo](https://prosoro.github.io) - [EVOMIA](https://github.com/ancorasir/EVOMIA)|
+|[Haptics Lab, Kyoto Institute of Technology](https://www.cis.kit.ac.jp/~nagano)|
+|[LASR Lab, TU Dresden](https://lasr.org) - [Github](https://github.com/lasr-lab)|
+|[MCube Lab, MIT](https://mcube.mit.edu/research/tactile_localization.html) - [Tactile Dexterity](https://mcube.mit.edu/research/tactile_dexterity.html)|
+|[MMINT Lab, University of Michigan](https://www.mmintlab.com) - [GelSlim-4.0](https://www.mmintlab.com/research/gelslim-4-0) - [Hardware](https://github.com/MMintLab/gelslim_hardware) - [Depth](https://github.com/MMintLab/gelslim_depth) - [Shear](https://github.com/MMintLab/gelslim_shear)|
+</details>
 </details>
