@@ -1104,10 +1104,10 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
-|[9DTact](https://linchangyi1.github.io/9DTact) - [Github](https://github.com/linchangyi1/9DTact)|
 |[CrystalTac](https://spj.science.org/doi/10.34133/cbsystems.0231)|
 |[DEXOP](https://dex-op.github.io) - [Arxiv](https://arxiv.org/abs/2509.04441)|
 |[Digit](https://digit.ml) - [GelSight-Digit](https://pages.gelsight.com/digit-tactile-sensor) - [Allegro_Digit](https://github.com/duyipai/Allegro_Digit) - [Digit-Plexus](https://github.com/facebookresearch/digit-plexus) - [Digit360](https://github.com/facebookresearch/digit360) - [NeuralFeels](https://github.com/facebookresearch/neuralfeels) - [Sparsh](https://github.com/facebookresearch/sparsh) - [Sparsh-X](https://github.com/facebookresearch/sparsh-multisensory-touch)|
+|[DTact](https://sites.google.com/view/dtact-sensor) - [Github](https://github.com/linchangyi1/DTact) - [9DTact](https://linchangyi1.github.io/9DTact) - [Github](https://github.com/linchangyi1/9DTact)|
 |[FingerVision](https://www.fingervision.jp/en)|
 |[FreeTacMan](https://opendrivelab.com/FreeTacMan) - [Github](https://github.com/OpenDriveLab/FreeTacMan)|
 |[GelSight](http://www.gelsight.com) - [SDK](https://github.com/gelsightinc/gsrobotics) - [MuJoCo](https://github.com/rlamprell/GelSightMujoco) - [Gazebo](https://github.com/danfergo/gelsight_simulation) - [Taxim](https://github.com/Robo-Touch/Taxim/tree/taxim-robot) - [TacEx](https://github.com/DH-Ng/TacEx)|
