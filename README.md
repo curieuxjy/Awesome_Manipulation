@@ -843,6 +843,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Policy learning</b></summary>
 
+> Please also reference Learning-Github-Repos-Single arm/hand: [Visuo(Tactile)](Learning.md#learning_visuo_tactile)
+
 - [![](https://img.shields.io/badge/AdaGrasp-lightblue?style=flat-square)](https://adagrasp.cs.columbia.edu) [![](https://img.shields.io/badge/real--stanford-adagrasp-black?style=flat-square&logo=github)](https://github.com/real-stanford/adagrasp) <img src="https://img.shields.io/github/stars/real-stanford/adagrasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ammar--n--abbas-sim2real--ur--gym--gazebo-black?style=flat-square&logo=github)](https://github.com/ammar-n-abbas/sim2real-ur-gym-gazebo) <img src="https://img.shields.io/github/stars/ammar-n-abbas/sim2real-ur-gym-gazebo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AndrejOrsula-drl_grasping-black?style=flat-square&logo=github)](https://github.com/AndrejOrsula/drl_grasping) <img src="https://img.shields.io/github/stars/AndrejOrsula/drl_grasping?style=flat-square&color=yellow">
@@ -866,6 +868,17 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Flipbot-lightblue?style=flat-square)](https://robotll.github.io/Flipbot) [![](https://img.shields.io/badge/RobotLL-Flipbot-black?style=flat-square&logo=github)](https://github.com/RobotLL/Flipbot) <img src="https://img.shields.io/github/stars/RobotLL/Flipbot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/JS--RML-flexflip-black?style=flat-square&logo=github)](https://github.com/JS-RML/flexflip) <img src="https://img.shields.io/github/stars/JS-RML/flexflip?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MOE-lightblue?style=flat-square)](https://moehair.github.io) [![](https://img.shields.io/badge/uksangyoo-hairbot-black?style=flat-square&logo=github)](https://github.com/uksangyoo/hairbot) <img src="https://img.shields.io/github/stars/uksangyoo/hairbot?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Training-free manipulation</b></summary>
+
+- [![](https://img.shields.io/badge/DISF-lightblue?style=flat-square)](https://tomoya-yamanokuchi.github.io/disf-project-page) [![](https://img.shields.io/badge/tomoya--yamanokuchi-disf--official-black?style=flat-square&logo=github)](https://github.com/tomoya-yamanokuchi/disf-official) <img src="https://img.shields.io/github/stars/tomoya-yamanokuchi/disf-official?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/jsll--MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/MMintLab-bimanual--drake--limit--surface--med-black?style=flat-square&logo=github)](https://github.com/MMintLab/bimanual-drake-limit-surface-med) <img src="https://img.shields.io/github/stars/MMintLab/bimanual-drake-limit-surface-med?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/bimanual-dual-limit-surfaces)
+- [![](https://img.shields.io/badge/PatrizioPerugini-Probabilistic_prehensile_pushing-black?style=flat-square&logo=github)](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing) <img src="https://img.shields.io/github/stars/PatrizioPerugini/Probabilistic_prehensile_pushing?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ReflexiveGrasp-lightblue?style=flat-square)](https://reflexivegrasp.github.io) [Arxiv](https://arxiv.org/abs/2509.15876)
+- [![](https://img.shields.io/badge/XianyiCheng-CMGMP-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/CMGMP) <img src="https://img.shields.io/github/stars/XianyiCheng/CMGMP?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JuLlliG3vGc) [![](https://img.shields.io/badge/Talk-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-xlFyYVJMzg)
+- [![](https://img.shields.io/badge/XianyiCheng-HiDex-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/HiDex) <img src="https://img.shields.io/github/stars/XianyiCheng/HiDex?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fScfat1Ys6U)
 </details>
 
 [END PARALLEL GRIPPER/6DOF GRASP]: #
@@ -905,7 +918,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>TRAINING-FREE IN-HAND/GRIPPER MANIPULATION</b></summary>
 <a id="train_free_inhand"/>
 
-> Please also reference [Learning-Github-Repos-Single arm/hand: In-hand Manipulation](Learning.md#learning_in_hand)
+> Please also reference Learning-Github-Repos-Single arm/hand: [In-hand Manipulation](Learning.md#learning_in_hand) & [Visuo(Tactile)](Learning.md#learning_visuo_tactile)
 
 - [![](https://img.shields.io/badge/asu--iris-Complementarity--Free--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/asu--iris-ContactSDF-black?style=flat-square&logo=github)](https://github.com/asu-iris/ContactSDF) <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
@@ -913,13 +926,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Contact--MPC--Differentiable-black?style=flat-square&logo=gitlab)](https://gitlab.cc-asp.fraunhofer.de/hanikevi/contact_mpc)
   - [![](https://img.shields.io/badge/Contact--MPC--PCA-black?style=flat-square)](https://openreview.net/pdf?id=d8qYLDH2vj)  [![](https://img.shields.io/badge/lakshmipathyarjun6/mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/lakshmipathyarjun6/mujoco_mpc) <img src="https://img.shields.io/github/stars/lakshmipathyarjun6/mujoco_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Director--of--G-in_hand_manipulation_2-black?style=flat-square&logo=github)](https://github.com/Director-of-G/in_hand_manipulation_2) <img src="https://img.shields.io/github/stars/Director-of-G/in_hand_manipulation_2?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/DISF-lightblue?style=flat-square)](https://tomoya-yamanokuchi.github.io/disf-project-page) [![](https://img.shields.io/badge/tomoya--yamanokuchi-disf--official-black?style=flat-square&logo=github)](https://github.com/tomoya-yamanokuchi/disf-official) <img src="https://img.shields.io/github/stars/tomoya-yamanokuchi/disf-official?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/jsll--MuJoCo--simulating--prehensile--pushing-black?style=flat-square&logo=github)](https://github.com/jsll/MuJoCo-simulating-prehensile-pushing) <img src="https://img.shields.io/github/stars/jsll/MuJoCo-simulating-prehensile-pushing?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/MMintLab-gray?style=flat-square&logo=github)](https://github.com/MMintLab) [![](https://img.shields.io/badge/Tactile--Non--prehensile-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/research/tactile-nonprehensile)
-  - [![](https://img.shields.io/badge/MMintLab-bimanual--drake--limit--surface--med-black?style=flat-square&logo=github)](https://github.com/MMintLab/bimanual-drake-limit-surface-med) <img src="https://img.shields.io/github/stars/MMintLab/bimanual-drake-limit-surface-med?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/bimanual-dual-limit-surfaces)
-  - [![](https://img.shields.io/badge/MMintLab-manipulation_via_membranes-black?style=flat-square&logo=github)](https://github.com/MMintLab/manipulation_via_membranes) <img src="https://img.shields.io/github/stars/MMintLab/manipulation_via_membranes?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.mmintlab.com/research/manipulation-via-membranes)
-- [![](https://img.shields.io/badge/PatrizioPerugini-Probabilistic_prehensile_pushing-black?style=flat-square&logo=github)](https://github.com/PatrizioPerugini/Probabilistic_prehensile_pushing) <img src="https://img.shields.io/github/stars/PatrizioPerugini/Probabilistic_prehensile_pushing?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/ReflexiveGrasp-lightblue?style=flat-square)](https://reflexivegrasp.github.io) [Arxiv](https://arxiv.org/abs/2509.15876)
 - [![](https://img.shields.io/badge/RGMC--XL--team-ingrasp_manipulation-black?style=flat-square&logo=github)](https://github.com/RGMC-XL-team/ingrasp_manipulation) <img src="https://img.shields.io/github/stars/RGMC-XL-team/ingrasp_manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--learning-in_hand_manipulation-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/in_hand_manipulation)
 - [![](https://img.shields.io/badge/robot--learning-relaxed_rigidity_in_grasp-black?style=flat-square&logo=bitbucket)](https://bitbucket.org/robot-learning/relaxed_rigidity_in_grasp) [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://robot-learning.cs.utah.edu/project/in_hand_manipulation)
@@ -927,8 +933,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/UM--ARM--Lab-MultiFingerTrajOpt-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/MultiFingerTrajOpt) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/MultiFingerTrajOpt?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/UM--ARM--Lab-ccai-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/ccai) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/ccai?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-hydrax-black?style=flat-square&logo=github)](https://github.com/vincekurtz/hydrax) <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/XianyiCheng-CMGMP-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/CMGMP) <img src="https://img.shields.io/github/stars/XianyiCheng/CMGMP?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JuLlliG3vGc) [![](https://img.shields.io/badge/Talk-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-xlFyYVJMzg)
-- [![](https://img.shields.io/badge/XianyiCheng-HiDex-black?style=flat-square&logo=github)](https://github.com/XianyiCheng/HiDex) <img src="https://img.shields.io/github/stars/XianyiCheng/HiDex?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fScfat1Ys6U)
 </details>
 
 </details>
