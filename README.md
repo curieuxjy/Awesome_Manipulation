@@ -578,6 +578,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/AGIMUS-lightblue?style=flat-square)](https://www.agimus-project.eu) [![](https://img.shields.io/badge/agimus--project-agimus_controller-black?style=flat-square&logo=github)](https://github.com/agimus-project/agimus_controller) <img src="https://img.shields.io/github/stars/agimus-project/agimus_controller?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bjack205-altro-black?style=flat-square&logo=github)](https://github.com/bjack205/altro) <img src="https://img.shields.io/github/stars/bjack205/altro?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/cmower-optas-black?style=flat-square&logo=github)](https://github.com/cmower/optas) <img src="https://img.shields.io/github/stars/cmower/optas?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/machines--in--motion-force_feedback_mpc-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/force_feedback_mpc) <img src="https://img.shields.io/github/stars/machines-in-motion/force_feedback_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SemRoCo-giskardpy-black?style=flat-square&logo=github)](https://github.com/SemRoCo/giskardpy) <img src="https://img.shields.io/github/stars/SemRoCo/giskardpy?style=flat-square&color=yellow">
 </details>
 
@@ -603,6 +604,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>DYNAMICS</b></summary>
 
 - [![](https://img.shields.io/badge/LAAS--CNRS-Pinocchio-lightblue?style=flat-square)](https://stack-of-tasks.github.io/pinocchio) [![](https://img.shields.io/badge/stack--of--tasks-pinocchio-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/pinocchio) <img src="https://img.shields.io/github/stars/stack-of-tasks/pinocchio?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/ymontmarin-_tps_robotique-black?style=flat-square&logo=github)](https://github.com/ymontmarin/_tps_robotique) <img src="https://img.shields.io/github/stars/ymontmarin/_tps_robotique?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MIT-Drake-lightblue?style=flat-square)](https://drake.mit.edu) [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
 </details>
 
