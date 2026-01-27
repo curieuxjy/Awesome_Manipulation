@@ -60,6 +60,14 @@ This curation covers a wide range of robotic manipulation tasks.
 > 🔤 The items below are in alphabetical order.
 
 <details>
+<summary><b>2026</b></summary>
+
+- [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
+
+</details>
+
+
+<details>
 <summary><b>2025</b></summary>
 
 <img src="./asset/2025.png" width="100%" class="center"/>
