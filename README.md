@@ -55,7 +55,7 @@ This curation covers a wide range of robotic manipulation tasks.
   - [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
 - [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
 
-## Standard for Real-world tasks
+## Benchmark/Standard for Real-world tasks
 - [ManipulationNet](https://manipulation-net.org)
 ---
 
