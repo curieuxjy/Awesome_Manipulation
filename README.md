@@ -65,7 +65,9 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2026</b></summary>
 
+- [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
+- [SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863)
 
 </details>
 
@@ -87,6 +89,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Beyond Visuals: Investigating Force Feedback in Extended Reality for Robot Data Collection](https://arxiv.org/abs/2503.20714v1)
 - [Bio-Skin: A Cost-Effective Thermostatic Tactile Sensor with Multi-Modal Force and Temperature Detection](https://arxiv.org/abs/2503.07989)
 - [Biohybrid hand actuated by multiple human muscle tissues](https://www.science.org/doi/10.1126/scirobotics.adr5512)
+- [BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization](https://arxiv.org/abs/2412.16490)
 - [Bunny-VisionPro Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/abs/2407.03162)
 - [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/abs/2409.17549)
 - [CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion](https://arxiv.org/abs/2506.14769)
@@ -536,8 +539,8 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>CONTROL</b></summary>
 
 - [![](https://img.shields.io/badge/A--make-awesome--control--theory-black?style=flat-square&logo=github)](https://github.com/A-make/awesome-control-theory) <img src="https://img.shields.io/github/stars/A-make/awesome-control-theory?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/alibaba--damo--academy-RynnMotion-black?style=flat-square&logo=github)](https://github.com/alibaba-damo-academy/RynnMotion) <img src="https://img.shields.io/github/stars/alibaba-damo-academy/RynnMotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/abr-abr_control-black?style=flat-square&logo=github)](https://github.com/abr/abr_control) <img src="https://img.shields.io/github/stars/abr/abr_control?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/alibaba--damo--academy-RynnMotion-black?style=flat-square&logo=github)](https://github.com/alibaba-damo-academy/RynnMotion) <img src="https://img.shields.io/github/stars/alibaba-damo-academy/RynnMotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--BaseControl-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-BaseControl) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-BaseControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DAIRLab-lightblue?style=flat-square)](https://dair.seas.upenn.edu) [![](https://img.shields.io/badge/DAIRLab-dairlib-gray?style=flat-square&logo=github)](https://github.com/DAIRLab/dairlib) <img src="https://img.shields.io/github/stars/DAIRLab/dairlib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DQ--Robotics-lightblue?style=flat-square)](https://dqrobotics.github.io) [![](https://img.shields.io/badge/dqrobotics-gray?style=flat-square&logo=github)](https://github.com/dqrobotics)
@@ -839,15 +842,15 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper: Grasp Detection From Point Cloud</b></summary>
 
+- [![](https://img.shields.io/badge/AliRezaBeigy-grasp_pose_generator-black?style=flat-square&logo=github)](https://github.com/AliRezaBeigy/grasp_pose_generator) <img src="https://img.shields.io/github/stars/AliRezaBeigy/grasp_pose_generator?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AO--Grasp-lightblue?style=flat-square)](https://stanford-iprl-lab.github.io/ao-grasp) [![](https://img.shields.io/badge/stanford--iprl--lab-ao--grasp-black?style=flat-square&logo=github)](https://github.com/stanford-iprl-lab/ao-grasp) <img src="https://img.shields.io/github/stars/stanford-iprl-lab/ao-grasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ASGrasp-lightblue?style=flat-square)](https://pku-epic.github.io/ASGrasp) [![](https://img.shields.io/badge/jun7--shi-ASGrasp-black?style=flat-square&logo=github)](https://github.com/jun7-shi/ASGrasp) <img src="https://img.shields.io/github/stars/jun7-shi/ASGrasp?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/AliRezaBeigy-grasp_pose_generator-black?style=flat-square&logo=github)](https://github.com/AliRezaBeigy/grasp_pose_generator) <img src="https://img.shields.io/github/stars/AliRezaBeigy/grasp_pose_generator?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Edge--Grasp--Network-lightblue?style=flat-square)](https://haojhuang.github.io/edge_grasp_page) [![](https://img.shields.io/badge/HaojHuang-Edge--Grasp--Network-black?style=flat-square&logo=github)](https://github.com/HaojHuang/Edge-Grasp-Network) <img src="https://img.shields.io/github/stars/HaojHuang/Edge-Grasp-Network?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/graspnet-anygrasp_sdk-black?style=flat-square&logo=github)](https://github.com/graspnet/anygrasp_sdk) <img src="https://img.shields.io/github/stars/graspnet/anygrasp_sdk?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/graspnet-graspnet--baseline-black?style=flat-square&logo=github)](https://github.com/graspnet/graspnet-baseline) <img src="https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/graspnet-graspness_unofficial-black?style=flat-square&logo=github)](https://github.com/graspnet/graspness_unofficial) <img src="https://img.shields.io/github/stars/graspnet/graspness_unofficial?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kuldeepbrd1-graspLDM-black?style=flat-square&logo=github)](https://github.com/kuldeepbrd1/graspLDM) <img src="https://img.shields.io/github/stars/kuldeepbrd1/graspLDM?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/upc--ghy-GraspFast-black?style=flat-square&logo=github)](https://github.com/upc-ghy/GraspFast) <img src="https://img.shields.io/github/stars/upc-ghy/GraspFast?style=flat-square&color=yellow">
 </details>
 
