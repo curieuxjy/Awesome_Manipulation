@@ -1170,6 +1170,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[PAL Robotics, TIAGo Pro](https://pal-robotics.com/robot/tiago-pro) - [Github](https://github.com/pal-robotics/tiago_pro_robot) - [TIAGo++-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago_dual)|
 |[Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) - [Github](https://github.com/pollen-robotics) - [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) - [Dora](https://dora-rs.ai)|
 |[PR2](https://wiki.ros.org/Robots/PR2) - [MJCF](https://github.com/vikashplus/PR2) - [Robosuite-PR2](https://github.com/ARISE-Initiative/robosuite/tree/robocasa_v0.1/robosuite/models/assets/robots/pr2)|
+|[Reflex Robotics](https://www.reflexrobotics.com)|
 |[Tokyo Robotics, Torobo](https://robotics.tokyo) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[TRI, Punyo](https://punyo.tech)|
 |[Trossen Robotics, ALOHA](https://www.trossenrobotics.com/aloha-kits) - [Github](https://github.com/tonyzhaozh/aloha) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha)|
