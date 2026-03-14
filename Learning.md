@@ -62,6 +62,14 @@
 - [![](https://img.shields.io/badge/Scene--Synthesizer-lightblue?style=flat-square)](https://scene-synthesizer.github.io) [![](https://img.shields.io/badge/NVlabs-scene_synthesizer-black?style=flat-square&logo=github)](https://github.com/NVlabs/scene_synthesizer) <img src="https://img.shields.io/github/stars/NVlabs/scene_synthesizer?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SceneSmith-lightblue?style=flat-square)](hhttps://scenesmith.github.io) [![](https://img.shields.io/badge/nepfaff-scenesmith-black?style=flat-square&logo=github)](https://github.com/nepfaff/scenesmith) <img src="https://img.shields.io/github/stars/nepfaff/scenesmith?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Steerable--Scene--Generation-lightblue?style=flat-square)](https://steerable-scene-generation.github.io) [![](https://img.shields.io/badge/nepfaff-steerable--scene--generation-black?style=flat-square&logo=github)](https://github.com/nepfaff/steerable-scene-generation) <img src="https://img.shields.io/github/stars/nepfaff/steerable-scene-generation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/WorldLabs-lightblue?style=flat-square)](https://www.worldlabs.ai) - [CaseStudy-1](https://www.worldlabs.ai/case-studies/1-robotics) - [CaseStudy-2](https://www.worldlabs.ai/case-studies/2-lightwheel)
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Learning: Simulation Platforms - 3D Reconstruction</b></summary>
+
+- [![](https://img.shields.io/badge/GSWorld-lightblue?style=flat-square)](https://3dgsworld.github.io) [![](https://img.shields.io/badge/luccachiang-GSWorld-black?style=flat-square&logo=github)](https://github.com/luccachiang/GSWorld) <img src="https://img.shields.io/github/stars/luccachiang/GSWorld?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/PhysTwin-lightblue?style=flat-square)](https://diffhand.csail.mit.edu) [![](https://img.shields.io/badge/Jianghanxiao-PhysTwin-black?style=flat-square&logo=github)](https://github.com/Jianghanxiao/PhysTwin) <img src="https://img.shields.io/github/stars/Jianghanxiao/PhysTwin?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/WorldLabs-lightblue?style=flat-square)](https://www.worldlabs.ai) - [CaseStudy-1](https://www.worldlabs.ai/case-studies/1-robotics) - [CaseStudy-2](https://www.worldlabs.ai/case-studies/2-lightwheel)
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Simulation Platforms - Tactile</b></summary>
