@@ -58,6 +58,7 @@ This curation covers a wide range of robotic manipulation tasks.
 ## Benchmark/Standard for Real-world tasks
 - [ManipulationNet](https://manipulation-net.org)
 - [RoboArena](https://robo-arena.github.io)
+- [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 ---
 
 # Papers 📑
