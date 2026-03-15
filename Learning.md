@@ -612,7 +612,7 @@
 <details><summary><b>&nbsp;&nbsp;- Dataset: Grasp Synthesis</b></summary>
 <a id="dataset_grasp_synthesis"/>
 
-> Please refer to [Learning: Single arm/hand - Grasping](#learning_grasp) for (pre-)grasping action learning.
+> Please refer to [Learning: Single arm/hand - Grasping](#learning_grasp) for (pre-)grasping action learning and also [README - Training-free Grasp](README.md#train_free_grasp)
 
 > These repos focus on multi-fingered robotic grasps. For 6dof ones, please reference [README - Task/Env-specific:Parallel Gripper/6DOF Grasp](README.md#parallel_gripper_grasp).
 
@@ -629,7 +629,6 @@
 - [![](https://img.shields.io/badge/GraspNet-lightblue?style=flat-square)](https://graspnet.net/datasets.html) [![](https://img.shields.io/badge/graspnet-graspnetAPI-black?style=flat-square&logo=github)](https://github.com/graspnet/graspnetAPI) <img src="https://img.shields.io/github/stars/graspnet/graspnetAPI?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GraspXL-lightblue?style=flat-square)](https://eth-ait.github.io/graspxl) [![](https://img.shields.io/badge/zdchan-graspxl-black?style=flat-square&logo=github)](https://github.com/zdchan/graspxl) <img src="https://img.shields.io/github/stars/zdchan/graspxl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RobotFingerPrint-lightblue?style=flat-square)](https://irvlutd.github.io/RobotFingerPrint) [![](https://img.shields.io/badge/IRVLUTD-robot--finger--print-black?style=flat-square&logo=github)](https://github.com/IRVLUTD/robot-finger-print) <img src="https://img.shields.io/github/stars/IRVLUTD/robot-finger-print?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/TaskDexGrasp-lightblue?style=flat-square)](https://pku-epic.github.io/TaskDexGrasp) [![](https://img.shields.io/badge/JYChen18-TaskDexGrasp-black?style=flat-square&logo=github)](https://github.com/JYChen18/TaskDexGrasp) <img src="https://img.shields.io/github/stars/JYChen18/TaskDexGrasp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UGG-lightblue?style=flat-square)](https://jiaxin-lu.github.io/ugg) [![](https://img.shields.io/badge/Jiaxin--Lu-ugg-black?style=flat-square&logo=github)](https://github.com/Jiaxin-Lu/ugg) <img src="https://img.shields.io/github/stars/Jiaxin-Lu/ugg?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UniDexGrasp-lightblue?style=flat-square)](https://pku-epic.github.io/UniDexGrasp) [![](https://img.shields.io/badge/PKU--EPIC-UniDexGrasp-black?style=flat-square&logo=github)](https://github.com/PKU-EPIC/UniDexGrasp) <img src="https://img.shields.io/github/stars/PKU-EPIC/UniDexGrasp?style=flat-square&color=yellow">   - [UniDexGrasp_CVPR2023](https://mirrors.pku.edu.cn/dl-release/UniDexGrasp_CVPR2023)
   - [![](https://img.shields.io/badge/UniDexGrasp2-lightblue?style=flat-square)](https://pku-epic.github.io/UniDexGrasp++) [![](https://img.shields.io/badge/PKU--EPIC-UniDexGrasp2-black?style=flat-square&logo=github)](https://github.com/PKU-EPIC/UniDexGrasp2) <img src="https://img.shields.io/github/stars/PKU-EPIC/UniDexGrasp2?style=flat-square&color=yellow">
