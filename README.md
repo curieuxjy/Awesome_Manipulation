@@ -713,6 +713,12 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_kinematics-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_kinematics) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_kinematics?style=flat-square&color=yellow">
 </details>
 
+<details><summary><b>&nbsp;&nbsp;- Planning: Grasping</b></summary>
+
+- [![](https://img.shields.io/badge/GraspIt!-lightblue?style=flat-square)](https://graspit-simulator.github.io) [![](https://img.shields.io/badge/graspit--simulator-graspit-black?style=flat-square&logo=github)](https://github.com/graspit-simulator/graspit) <img src="https://img.shields.io/github/stars/graspit-simulator/graspit?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Simox-lightblue?style=flat-square)](https://simox.sourceforge.net) [![](https://img.shields.io/badge/kit--h2t--simox-black?style=flat-square&logo=gitlab)](https://git.h2t.iar.kit.edu/sw/simox)
+</details>
+
 <details><summary><b>&nbsp;&nbsp;- Planning: Mobile Manipulation</b></summary>
 
 > Please reference [Learning-Mobile/Whole-body manipulation](Learning.md#learning_mobile_wholebody) for learning-based methods!
