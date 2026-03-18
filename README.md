@@ -56,9 +56,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
 
 ## Benchmark/Standard for Real-world tasks
+- [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 - [ManipulationNet](https://manipulation-net.org)
 - [RoboArena](https://robo-arena.github.io)
-- [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 ---
 
 # Papers 📑
@@ -67,10 +67,13 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2026</b></summary>
 
+- [Cross-Hand Latent Representation for Vision-Language-Action Models](https://arxiv.org/abs/2603.10158)
 - [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
 - [SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863)
 - [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484)
+- [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/abs/2602.21625)
+- [Visuo-Tactile World Models](https://arxiv.org/abs/2602.06001)
 
 </details>
 
@@ -888,9 +891,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/graspnet-anygrasp_sdk-black?style=flat-square&logo=github)](https://github.com/graspnet/anygrasp_sdk) <img src="https://img.shields.io/github/stars/graspnet/anygrasp_sdk?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/graspnet-graspnet--baseline-black?style=flat-square&logo=github)](https://github.com/graspnet/graspnet-baseline) <img src="https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/graspnet-graspness_unofficial-black?style=flat-square&logo=github)](https://github.com/graspnet/graspness_unofficial) <img src="https://img.shields.io/github/stars/graspnet/graspness_unofficial?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/maximiliangilles-MetaGraspNet-black?style=flat-square&logo=github)](https://github.com/maximiliangilles/MetaGraspNet) <img src="https://img.shields.io/github/stars/maximiliangilles/MetaGraspNet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kuldeepbrd1-graspLDM-black?style=flat-square&logo=github)](https://github.com/kuldeepbrd1/graspLDM) <img src="https://img.shields.io/github/stars/kuldeepbrd1/graspLDM?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/maximeadjigble-grasplocomo-black?style=flat-square&logo=github)](https://github.com/maximeadjigble/grasplocomo) <img src="https://img.shields.io/github/stars/maximeadjigble/grasplocomo?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/maximiliangilles-MetaGraspNet-black?style=flat-square&logo=github)](https://github.com/maximiliangilles/MetaGraspNet) <img src="https://img.shields.io/github/stars/maximiliangilles/MetaGraspNet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/upc--ghy-GraspFast-black?style=flat-square&logo=github)](https://github.com/upc-ghy/GraspFast) <img src="https://img.shields.io/github/stars/upc-ghy/GraspFast?style=flat-square&color=yellow">
 </details>
 
