@@ -507,7 +507,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/isaac--sim-IsaacLabEvalTasks-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLabEvalTasks) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLabEvalTasks?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LIBERO-lightblue?style=flat-square)](https://libero-project.github.io) [![](https://img.shields.io/badge/Lifelong--Robot--Learning-LIBERO-black?style=flat-square&logo=github)](https://github.com/Lifelong-Robot-Learning/LIBERO) <img src="https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/MiYanDoris-GraspVLA--playground-black?style=flat-square&logo=github)](https://github.com/MiYanDoris/GraspVLA-playground) <img src="https://img.shields.io/github/stars/MiYanDoris/GraspVLA-playground?style=flat-square&color=yellow">
-  - [![](https://img.shields.io/badge/SafeLIBERO--Spatial-lightblue?style=flat-square)](https://vlsa-aegis.github.io) [![](https://img.shields.io/badge/THU--RCSCT-vlsa-aegis-black?style=flat-square&logo=github)](https://github.com/THU-RCSCT/vlsa-aegis) <img src="https://img.shields.io/github/stars/THU-RCSCT/vlsa-aegis?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/SafeLIBERO--Spatial-lightblue?style=flat-square)](https://vlsa-aegis.github.io) [![](https://img.shields.io/badge/THU--RCSCT-vlsa--aegis-black?style=flat-square&logo=github)](https://github.com/THU-RCSCT/vlsa-aegis) <img src="https://img.shields.io/github/stars/THU-RCSCT/vlsa-aegis?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/M3Bench-lightblue?style=flat-square)](https://zeyuzhang.com/papers/m3bench) [![](https://img.shields.io/badge/TooSchoolForCool-M3Bench-black?style=flat-square&logo=github)](https://github.com/TooSchoolForCool/M3Bench) <img src="https://img.shields.io/github/stars/TooSchoolForCool/M3Bench?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ManipulationNet-lightblue?style=flat-square)](https://manipulation-net.org) [Github](https://github.com/ManipulationNet)
 - [![](https://img.shields.io/badge/Meta--World-lightblue?style=flat-square)](https://metaworld.farama.org) [![](https://img.shields.io/badge/Farama--Foundation-Metaworld-black?style=flat-square&logo=github)](https://github.com/Farama-Foundation/Metaworld) <img src="https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Meta--World+-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.11289)
@@ -1153,6 +1153,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[DexUMI](https://dex-umi.github.io) - [Github](https://github.com/real-stanford/DexUMI)|
 |[DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)|
 |[Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) - [URDF](https://github.com/dexsuite/dex-urdf) - [MJCF-Left-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_left_hand.xml) - [MJCF-Right-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_right_hand.xml)|
+|[InMoov Hand](https://inmoov.fr/youvideo) - [Github1](https://github.com/HBC-Tech-coder/Inmoov-AI-Cloud-Robotic-Hand) - [Github2](https://github.com/elicazer/BionicArm) - [Github3](https://github.com/Daniyar1239/Wireless-robotic-hand-with-DIY-flex-sensors)|
 |[Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) - [Github](https://github.com/benrichardson28/isyhand_ros2)|
 |[Meta, Digit-Plexus](https://github.com/facebookresearch/digit-plexus)|
 |[NYU, RUKA](https://github.com/ruka-hand/RUKA)|
@@ -1210,6 +1211,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ||
 |-|
+|[AGIBOT](https://www.agibot.com/) - [Github](https://github.com/AgibotTech)|
 |[Baxter](https://github.com/RethinkRobotics/baxter_common) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/137)|
 |[DexForce, W1](https://en.dexforce.com) - [Github](https://github.com/DexForce)|
 |[GALBOT](https://www.galbot.com)|
