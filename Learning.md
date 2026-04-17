@@ -56,6 +56,7 @@
   - [![](https://img.shields.io/badge/choo--group-GeoWarp-black?style=flat-square&logo=github)](https://github.com/choo-group/GeoWarp) <img src="https://img.shields.io/github/stars/choo-group/GeoWarp?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/dylanturpin-fast--graspd-black?style=flat-square&logo=github)](https://github.com/dylanturpin/fast-graspd) <img src="https://img.shields.io/github/stars/dylanturpin/fast-graspd?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/erwincoumans-warp_cpp-black?style=flat-square&logo=github)](https://github.com/erwincoumans/warp_cpp) <img src="https://img.shields.io/github/stars/erwincoumans/warp_cpp?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/guoriyue-3dgs--warp--scratch-black?style=flat-square&logo=github)](https://github.com/guoriyue/3dgs-warp-scratch) <img src="https://img.shields.io/github/stars/guoriyue/3dgs-warp-scratch?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/Rewarped-lightblue?style=flat-square)](https://rewarped.github.io) [![](https://img.shields.io/badge/rewarped-rewarped-black?style=flat-square&logo=github)](https://github.com/rewarped/rewarped) <img src="https://img.shields.io/github/stars/rewarped/rewarped?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/zeshunzong-warp--mpm-black?style=flat-square&logo=github)](https://github.com/zeshunzong/warp-mpm) <img src="https://img.shields.io/github/stars/zeshunzong/warp-mpm?style=flat-square&color=yellow">
 </details>
