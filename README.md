@@ -655,10 +655,11 @@ This curation covers a wide range of robotic manipulation tasks.
   - [![](https://img.shields.io/badge/RussTedrake/manipulation-black?style=flat-square&logo=github)](https://github.com/RussTedrake/manipulation) <img src="https://img.shields.io/github/stars/RussTedrake/manipulation?style=flat-square&color=yellow">
 </details>
 
-<details><summary><b>&nbsp;&nbsp;- Neural Dynamics: Platforms</b></summary>
+<details><summary><b>&nbsp;&nbsp;- Neural Dynamics: Frameworks</b></summary>
 
 - [![](https://img.shields.io/badge/facebookresearch-differentiable--robot--model-black?style=flat-square&logo=github)](https://github.com/facebookresearch/differentiable-robot-model) <img src="https://img.shields.io/github/stars/facebookresearch/differentiable-robot-model?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io) [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Robotic--World--Model-lightblue?style=flat-square)](https://sites.google.com/view/roboticworldmodel) [![](https://img.shields.io/badge/Uncertainty--Aware--RWM-lightblue?style=flat-square)](https://sites.google.com/view/uncertainty-aware-rwm) [![](https://img.shields.io/badge/leggedrobotics-robotic_world_model-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/robotic_world_model) <img src="https://img.shields.io/github/stars/leggedrobotics/robotic_world_model?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>KINEMATICS</b></summary>
