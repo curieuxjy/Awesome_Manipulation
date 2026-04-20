@@ -32,6 +32,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
 - [Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2508.13073)
 - [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)
+- [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/abs/2510.20808)
 - [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)
 
 ### 2024
@@ -974,7 +975,8 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Canonical--Policy-lightblue?style=flat-square)](https://zhangzhiyuanzhang.github.io/cp-website) [![](https://img.shields.io/badge/ZhangZhiyuanZhang-canonical_policy-black?style=flat-square&logo=github)](https://github.com/ZhangZhiyuanZhang/canonical_policy) <img src="https://img.shields.io/github/stars/ZhangZhiyuanZhang/canonical_policy?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/codemasterzhao-hierarchical_equivariant_policy_via_frame_transfer-black?style=flat-square&logo=github)](https://github.com/codemasterzhao/hierarchical_equivariant_policy_via_frame_transfer) <img src="https://img.shields.io/github/stars/codemasterzhao/hierarchical_equivariant_policy_via_frame_transfer?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dlsfldl-EMMP--public-black?style=flat-square&logo=github)](https://github.com/dlsfldl/EMMP-public) <img src="https://img.shields.io/github/stars/dlsfldl/EMMP-public?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/EquAct-lightblue?style=flat-square)](https://equivact.github.io) [![](https://img.shields.io/badge/An--SE(3)--Equivariant--Multi--Task--Transformer--for--Open--Loop--Robotic--Manipulation-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.21351)
+- [![](https://img.shields.io/badge/EquAct-lightblue?style=flat-square)](https://arxiv.org/abs/2505.21351) [![](https://img.shields.io/badge/ZXP--S--works-EquAct-black?style=flat-square&logo=github)](https://github.com/ZXP-S-works/EquAct) <img src="https://img.shields.io/github/stars/ZXP-S-works/EquAct?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/EquivAct-lightblue?style=flat-square)](https://equivact.github.io) [![](https://img.shields.io/badge/SIM(3)--Equivariant--Visuomotor--Policies--beyond--Rigid--Object--Manipulation-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2310.16050)
 - [![](https://img.shields.io/badge/EquiBot-lightblue?style=flat-square)](https://equi-bot.github.io) [![](https://img.shields.io/badge/yjy0625-equibot-black?style=flat-square&logo=github)](https://github.com/yjy0625/equibot) <img src="https://img.shields.io/github/stars/yjy0625/equibot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/EquiRL-lightblue?style=flat-square)](https://sites.google.com/view/equi-rl-pomdp) [![](https://img.shields.io/badge/pointW-equi_rl-black?style=flat-square&logo=github)](https://github.com/pointW/equi_rl) <img src="https://img.shields.io/github/stars/pointW/equi_rl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Equivariant--Transporter--Network-lightblue?style=flat-square)](https://haojhuang.github.io/etp_page) [![](https://img.shields.io/badge/HaojHuang-Equivariant--Transporter--Net-black?style=flat-square&logo=github)](https://github.com/HaojHuang/Equivariant-Transporter-Net) <img src="https://img.shields.io/github/stars/HaojHuang/Equivariant-Transporter-Net?style=flat-square&color=yellow">
@@ -1186,6 +1188,7 @@ This curation covers a wide range of robotic manipulation tasks.
 |[Tokyo Robotics, Torobo](https://robotics.tokyo/technologies/hand) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/113)|
 |[Wonik Robotics, Allegro Hand](https://www.allegrohand.com) - [Plexus](https://digit.ml/plexus.html) - [XELA](https://www.xelarobotics.com/xela-integrations/allegro-hand-curved) - [Allegro-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) - [AllegroXela-URDF](https://github.com/UM-ARM-Lab/MFR_benchmark/tree/main/MFR_benchmark/assets/xela_models)|
 |[Wuji Hand](https://wuji.tech)|
+|[Yale, GrabLab, OpenHand](https://www.eng.yale.edu/grablab/openhand) - [Github](https://github.com/grablab)|
 </details>
 
 <details><summary><b>&nbsp;&nbsp;- Parallel Gripper End-Effectors</b></summary>
