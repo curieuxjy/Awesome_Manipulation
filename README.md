@@ -1161,6 +1161,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 # Hardware Platforms 🦾
 
+> [LeRobotDepot](https://github.com/maximilienroberti/lerobotdepot)
+
 > [Robot descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 
 > [Gepetto-Example Robot Data](https://github.com/Gepetto/example-robot-data)
