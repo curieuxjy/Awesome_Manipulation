@@ -83,8 +83,8 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning: Simulation Platforms - 3D Reconstruction</b></summary>
 
-- [![](https://img.shields.io/badge/GSWorld-lightblue?style=flat-square)](https://3dgsworld.github.io) [![](https://img.shields.io/badge/luccachiang-GSWorld-black?style=flat-square&logo=github)](https://github.com/luccachiang/GSWorld) <img src="https://img.shields.io/github/stars/luccachiang/GSWorld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Embodied--Gaussians-lightblue?style=flat-square)](https://embodied-gaussians.github.io) [![](https://img.shields.io/badge/bdaiinstitute-embodied_gaussians-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/embodied_gaussians) <img src="https://img.shields.io/github/stars/bdaiinstitute/embodied_gaussians?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/GSWorld-lightblue?style=flat-square)](https://3dgsworld.github.io) [![](https://img.shields.io/badge/luccachiang-GSWorld-black?style=flat-square&logo=github)](https://github.com/luccachiang/GSWorld) <img src="https://img.shields.io/github/stars/luccachiang/GSWorld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/PhysTwin-lightblue?style=flat-square)](https://jianghanxiao.github.io/phystwin-web) [![](https://img.shields.io/badge/Jianghanxiao-PhysTwin-black?style=flat-square&logo=github)](https://github.com/Jianghanxiao/PhysTwin) <img src="https://img.shields.io/github/stars/Jianghanxiao/PhysTwin?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboGSim-lightblue?style=flat-square)](https://robogsim.github.io) [Arxiv](https://arxiv.org/abs/2411.11839)
 - [![](https://img.shields.io/badge/RoboSimGS-lightblue?style=flat-square)](https://robosimgs.github.io) [![](https://img.shields.io/badge/Maxwell--Zhao-RoboSimGS-black?style=flat-square&logo=github)](https://github.com/Maxwell-Zhao/RoboSimGS) <img src="https://img.shields.io/github/stars/Maxwell-Zhao/RoboSimGS?style=flat-square&color=yellow">
@@ -570,12 +570,12 @@
 
 <details><summary><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Learning: Human to Robot - Retargeting</b></summary>
 
+- [![](https://img.shields.io/badge/Dex--Retargeting-lightblue?style=flat-square)](https://yzqin.github.io/anyteleop) [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DexMachina-lightblue?style=flat-square)](https://project-dexmachina.github.io) [![](https://img.shields.io/badge/MandiZhao-dexmachina-black?style=flat-square&logo=github)](https://github.com/MandiZhao/dexmachina) <img src="https://img.shields.io/github/stars/MandiZhao/dexmachina?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GMR-lightblue?style=flat-square)](https://yanjieze.com/humanoid-foundation/#GMR) [![](https://img.shields.io/badge/YanjieZe-GMR-black?style=flat-square&logo=github)](https://github.com/YanjieZe/GMR) <img src="https://img.shields.io/github/stars/YanjieZe/GMR?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/lakshmipathyarjun6-kinematic--motion--retargeting-black?style=flat-square&logo=github)](https://github.com/lakshmipathyarjun6/kinematic-motion-retargeting) <img src="https://img.shields.io/github/stars/lakshmipathyarjun6/kinematic-motion-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ManipTrans-lightblue?style=flat-square)](https://maniptrans.github.io) [![](https://img.shields.io/badge/ManipTrans-ManipTrans-black?style=flat-square&logo=github)](https://github.com/ManipTrans/ManipTrans) <img src="https://img.shields.io/github/stars/ManipTrans/ManipTrans?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SPIDER-lightblue?style=flat-square)](https://jc-bao.github.io/spider-project) [![](https://img.shields.io/badge/facebookresearch/spider-black?style=flat-square&logo=github)](https://github.com/facebookresearch/spider) <img src="https://img.shields.io/github/stars/facebookresearch/spider?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/Dex--Retargeting-lightblue?style=flat-square)](https://yzqin.github.io/anyteleop) [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 </details>
 </details>
 
