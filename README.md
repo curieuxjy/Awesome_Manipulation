@@ -68,6 +68,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>2026</b></summary>
 
+- [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/abs/2603.05687)
 - [Cross-Hand Latent Representation for Vision-Language-Action Models](https://arxiv.org/abs/2603.10158)
 - [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
@@ -75,6 +76,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484)
 - [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/abs/2602.21625)
 - [Visuo-Tactile World Models](https://arxiv.org/abs/2602.06001)
+- [What Matters for Simulation to Online Reinforcement Learning on Real Robots](https://arxiv.org/abs/2602.20220)
 
 </details>
 
