@@ -60,9 +60,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 - [ManipulationNet](https://manipulation-net.org)
 - [RoboArena](https://robo-arena.github.io)
+
 ---
 
 # Papers 📑
+
 > 🔤 The items below are in alphabetical order.
 
 <details>
@@ -71,9 +73,11 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/abs/2603.05687)
 - [Cross-Hand Latent Representation for Vision-Language-Action Models](https://arxiv.org/abs/2603.10158)
 - [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
+- [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
 - [SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863)
 - [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484)
+- [SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System](https://arxiv.org/abs/2506.06690)
 - [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/abs/2602.21625)
 - [Visuo-Tactile World Models](https://arxiv.org/abs/2602.06001)
 - [What Matters for Simulation to Online Reinforcement Learning on Real Robots](https://arxiv.org/abs/2602.20220)
@@ -134,6 +138,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions](https://arxiv.org/pdf/2504.04603)
 - [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/abs/2502.0773)
 - [DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation](https://arxiv.org/abs/2507.05627)
+- [DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception](https://arxiv.org/abs/2509.17350)
 - [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://arxiv.org/abs/2507.05198)
 - [End-to-end RL Improves Dexterous Grasping Policies](https://arxiv.org/abs/2509.16434)
 - [Estimating Value of Assistance for Online POMDP Robotic Agents](https://dyalab.mines.edu/2025/icra-workshop/6.pdf)
