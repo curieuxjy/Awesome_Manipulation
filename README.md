@@ -12,6 +12,7 @@ This curation covers a wide range of robotic manipulation tasks.
 # Good to Start 🤓
 
 ## Books/Tutorials
+
 - [A Math Cookbook for Robot Manipulation, Prof. Sylvain Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch)
 - [A Mathematical Introduction to Robotic Manipulation, Richard Murray](https://dl.acm.org/doi/10.5555/561828)
 - [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://see.stanford.edu/course/cs223a)
@@ -26,7 +27,9 @@ This curation covers a wide range of robotic manipulation tasks.
 - [ROS-Industrial](https://rosindustrial.org) - [Docs](https://industrial-training-master.readthedocs.io)
   
 ## Surveys
+
 ### 2025
+
 - [A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)
 - [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
@@ -36,16 +39,20 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)
 
 ### 2024
+
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
 - [A Systematic Review on Custom Data Gloves](https://arxiv.org/abs/2405.15417)
 
 ### 2023
+
 - [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
 
 ### 2022
+
 - [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
 
 ## Rankings & Statistics
+
 - [ETO Research Almanac](https://almanac.eto.tech)
 - [IFR: International Federation of Robotics](https://ifr.org/r-and-d)
   - [AI](https://almanac.eto.tech/topics/ai)
@@ -57,6 +64,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [RoboRanking: A Robotics Faculty Hub and University Ranking System](https://www.roboranking.org)
 
 ## Benchmark/Standard for Real-world tasks
+
 - [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 - [ManipulationNet](https://manipulation-net.org)
 - [RoboArena](https://robo-arena.github.io)
@@ -72,14 +80,22 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/abs/2603.05687)
 - [Cross-Hand Latent Representation for Vision-Language-Action Models](https://arxiv.org/abs/2603.10158)
+- [Development of a High-Speed Event Vision-Based Roller Tactile Sensor for Large-Surface Inspection](https://arxiv.org/abs/2507.19914)
 - [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
+- [GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System](https://arxiv.org/abs/2508.15990)
 - [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788)
+- [NeuralTouch: Leveraging Implicit Neural Descriptor for Precise Sim-to-Real Tactile Robot Control](https://arxiv.org/abs/2510.20390)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
+- [roto 2.0: The Robot Tactile Olympiad](https://arxiv.org/abs/2605.21429)
 - [SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863)
 - [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484)
 - [SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System](https://arxiv.org/abs/2506.06690)
 - [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/abs/2602.21625)
+- [Training Tactile Sensors to Learn Force Sensing from Each Other](https://arxiv.org/abs/2503.01058)
+- [UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking](https://arxiv.org/abs/2602.10093)
 - [Visuo-Tactile World Models](https://arxiv.org/abs/2602.06001)
+- [ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing](https://arxiv.org/abs/2603.18784)
+- [ViTacGen: Robotic Pushing with Vision-to-Touch Generation](https://arxiv.org/abs/2510.14117)
 - [What Matters for Simulation to Online Reinforcement Learning on Real Robots](https://arxiv.org/abs/2602.20220)
 
 </details>
