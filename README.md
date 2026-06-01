@@ -46,8 +46,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ### ~2023
 
-- [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
 - [Review of Learning-Based Robotic Manipulation in Cluttered Environments](https://www.mdpi.com/1424-8220/22/20/7938)
+- [Review on human-like robot manipulation using dexterous hands](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12073)
 
 ## Rankings & Statistics
 
@@ -81,12 +81,12 @@ This curation covers a wide range of robotic manipulation tasks.
 - [BrainCo, Revo](https://www.brainco-hz.com) · [Github](https://github.com/braincotech)
 - [CMU, Leap Hand](https://arxiv.org/abs/2309.06440) · [V1](https://v1.leaphand.com) · [V2](https://v2.leaphand.com) · [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/master/assets/leap_hand) · [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/leap_hand)
 - [Dexcel Robotics, Apex Hand](https://www.dexcelbot.com)
-- [DexRobot, DexHand](https://www.dex-robot.com) · [URDF](https://github.com/iotdesignshop/dexhand_description)
 - [DEXOP](https://dex-op.github.io) · [Arxiv](https://arxiv.org/abs/2509.04441)
+- [DexRobot, DexHand](https://www.dex-robot.com) · [URDF](https://github.com/iotdesignshop/dexhand_description)
 - [DexUMI](https://dex-umi.github.io) · [Github](https://github.com/real-stanford/DexUMI)
 - [DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)
-- [Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) · [URDF](https://github.com/dexsuite/dex-urdf) · [MJCF-Left-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_left_hand.xml) · [MJCF-Right-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_right_hand.xml)
 - [InMoov Hand](https://inmoov.fr/youvideo) · [Github1](https://github.com/HBC-Tech-coder/Inmoov-AI-Cloud-Robotic-Hand) · [Github2](https://github.com/elicazer/BionicArm) · [Github3](https://github.com/Daniyar1239/Wireless-robotic-hand-with-DIY-flex-sensors)
+- [Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) · [URDF](https://github.com/dexsuite/dex-urdf) · [MJCF-Left-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_left_hand.xml) · [MJCF-Right-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_right_hand.xml)
 - [Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) · [Github](https://github.com/benrichardson28/isyhand_ros2)
 - [Meta, Digit-Plexus](https://github.com/facebookresearch/digit-plexus)
 - [NYU, RUKA](https://github.com/ruka-hand/RUKA)
@@ -207,8 +207,8 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>Tactile Labs</b></summary>
 
-- [CoRe Lab, PKU](https://yzhu.io/tag/tactile)
 - [BionicDL Lab, SUSTech](https://bionicdl.ancorasir.com) · [PropSE](https://prop-se.github.io) · [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) · [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) · [ProSoRo](https://prosoro.github.io) · [EVOMIA](https://github.com/ancorasir/EVOMIA)
+- [CoRe Lab, PKU](https://yzhu.io/tag/tactile)
 - [Haptics Lab, Kyoto Institute of Technology](https://www.cis.kit.ac.jp/~nagano)
 - [LASR Lab, TU Dresden](https://lasr.org) · [Github](https://github.com/lasr-lab)
 - [MCube Lab, MIT](https://mcube.mit.edu/research/tactile_localization.html) · [Tactile Dexterity](https://mcube.mit.edu/research/tactile_dexterity.html)
@@ -231,6 +231,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Development of a High-Speed Event Vision-Based Roller Tactile Sensor for Large-Surface Inspection](https://arxiv.org/abs/2507.19914)
 - [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710)
 - [GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System](https://arxiv.org/abs/2508.15990)
+- [GenHand: generalised human grasp kinematic retargeting](https://www.nature.com/articles/s44182-026-00076-1)
 - [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788)
 - [NeuralTouch: Leveraging Implicit Neural Descriptor for Precise Sim-to-Real Tactile Robot Control](https://arxiv.org/abs/2510.20390)
 - [RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots](https://openreview.net/forum?id=tQJYKwc3n4)
