@@ -176,7 +176,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [FreeTacMan](https://opendrivelab.com/FreeTacMan) · [Github](https://github.com/OpenDriveLab/FreeTacMan)
 - [GelSight](http://www.gelsight.com) · [SDK](https://github.com/gelsightinc/gsrobotics) · [MuJoCo](https://github.com/rlamprell/GelSightMujoco) · [Gazebo](https://github.com/danfergo/gelsight_simulation) · [Taxim](https://github.com/Robo-Touch/Taxim/tree/taxim-robot) · [TacEx](https://github.com/DH-Ng/TacEx) · [FEATS](https://github.com/feats-ai/feats)
 - [MC-Tac](https://github.com/robotflow-initiative/MC-Tac)
-- [Melexis, Tactaxis](https://www.melexis.com/en/news/2026/21apr2026-melexis-and-oymotion-elevate-tactile-sensing-for-next-generation-robotic-hands) - [ICRA'26 Tutorial](https://github.com/MilanAmighi/ICRA-2026-Hands-on-tutorial-3D-tactile-sensor-integration-in-robotic-fingers-for-smart-manipulation)
 - [PropSE](https://prop-se.github.io) · [SoftRoboticTongs](https://github.com/bionicdl-sustech/SoftRoboticTongs) · [AmphibiousSoftFinger](https://github.com/bionicdl-sustech/AmphibiousSoftFinger) · [ProSoRo](https://prosoro.github.io) · [EVOMIA](https://github.com/ancorasir/EVOMIA)
 - [ProTac](https://quan-luu.github.io/protac-website) · [Github](https://github.com/Ho-lab-jaist/protac)
 - [STS](https://ieeexplore.ieee.org/document/9423118) · [Finger-STS](https://ieeexplore.ieee.org/document/9832483) · [TacThru](https://github.com/YuyangLee/TacThru)
@@ -193,6 +192,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [AnySkin](https://any-skin.github.io) & [Github](https://github.com/raunaqbhirangi/anyskin) · [ReSkin](https://reskin.dev) & [Github](https://github.com/raunaqbhirangi/reskin_sensor) · [VisuoSkin](https://github.com/raunaqbhirangi/visuoskin)
 - [Bio-Skin](https://williamalexanda.github.io/Bio-Skin) · [Github](https://github.com/WilliamAlexanda/Open_Bio-Skin)
 - [FlexiTac](https://flexitac.github.io)
+- [Melexis, Tactaxis](https://www.melexis.com/en/news/2026/21apr2026-melexis-and-oymotion-elevate-tactile-sensing-for-next-generation-robotic-hands) - [ICRA'26 Tutorial](https://github.com/MilanAmighi/ICRA-2026-Hands-on-tutorial-3D-tactile-sensor-integration-in-robotic-fingers-for-smart-manipulation)
 - [Neuroinformatics Group, Universität Bielefeld](https://ni.www.techfak.uni-bielefeld.de/tactile) · [Github](https://github.com/ubi-agni) · [tactile_toolbox](https://github.com/ubi-agni/tactile_toolbox) · [tactile_filters](https://github.com/ubi-agni/tactile_filters)
 - [Nissha](https://connect.nissha.com/filmdevice/en/shear-force-sensor/robot)
 - [SpikeATac](https://roamlab.github.io/spikeatac/index.html)
@@ -1736,11 +1736,13 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/LAAS--CNRS-Humanoid--Path--Planner-lightblue?style=flat-square)](https://humanoid-path-planner.github.io/hpp-doc)
 - [![](https://img.shields.io/badge/MoveIt-lightblue?style=flat-square)](https://moveit.ai) [![](https://img.shields.io/badge/MoveIt-gray?style=flat-square&logo=github)](https://github.com/moveit)
 - [![](https://img.shields.io/badge/OMPL-lightblue?style=flat-square)](https://ompl.kavrakilab.org) [![](https://img.shields.io/badge/ompl-ompl-black?style=flat-square&logo=github)](https://github.com/ompl/ompl) <img src="https://img.shields.io/github/stars/ompl/ompl?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/ompl-omplapp-black?style=flat-square&logo=github)](https://github.com/ompl/omplapp) <img src="https://img.shields.io/github/stars/ompl/omplapp?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/KavrakiLab-ompl--workshop-black?style=flat-square&logo=github)](https://github.com/KavrakiLab/ompl-workshop) <img src="https://img.shields.io/github/stars/KavrakiLab/ompl-workshop?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pantor-frankx-black?style=flat-square&logo=github)](https://github.com/pantor/frankx) <img src="https://img.shields.io/github/stars/pantor/frankx?style=flat-square&color=yellow"> 
+- [![](https://img.shields.io/badge/open--planning-roboplan-black?style=flat-square&logo=github)](https://github.com/open-planning/roboplan) <img src="https://img.shields.io/github/stars/open-planning/roboplan?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/sea--bass-pyroboplan-black?style=flat-square&logo=github)](https://github.com/sea-bass/pyroboplan) <img src="https://img.shields.io/github/stars/sea-bass/pyroboplan?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pantor-ruckig-black?style=flat-square&logo=github)](https://github.com/pantor/ruckig) <img src="https://img.shields.io/github/stars/pantor/ruckig?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Ruckig-lightblue?style=flat-square)](https://ruckig.com)
-- [![](https://img.shields.io/badge/sea--bass-pyroboplan-black?style=flat-square&logo=github)](https://github.com/sea-bass/pyroboplan) <img src="https://img.shields.io/github/stars/sea-bass/pyroboplan?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tesseract--robotics-tesseract-black?style=flat-square&logo=github)](https://github.com/tesseract-robotics/tesseract) <img src="https://img.shields.io/github/stars/tesseract-robotics/tesseract?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/tesseract--robotics-trajopt-black?style=flat-square&logo=github)](https://github.com/tesseract-robotics/trajopt) <img src="https://img.shields.io/github/stars/tesseract-robotics/trajopt?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/tesseract--robotics-trajopt-black?style=flat-square&logo=github)](https://github.com/tesseract-robotics/trajopt) <img src="https://img.shields.io/github/stars/tesseract-robotics/trajopt?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-ltl_gcs-black?style=flat-square&logo=github)](https://github.com/vincekurtz/ltl_gcs) <img src="https://img.shields.io/github/stars/vincekurtz/ltl_gcs?style=flat-square&color=yellow">
 
 <details><summary><b>Planning: Collision avoidance</b></summary>
