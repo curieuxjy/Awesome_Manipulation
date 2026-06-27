@@ -88,6 +88,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [DexRobot, DexHand](https://www.dex-robot.com) · [URDF](https://github.com/iotdesignshop/dexhand_description)
 - [DexUMI](https://dex-umi.github.io) · [Github](https://github.com/real-stanford/DexUMI)
 - [DLR Hands](https://www.dlr.de/en/rm/research/robotic-systems/hands)
+- [Honda Hand](https://global.honda/en/tech/Avatar_robot)
 - [InMoov Hand](https://inmoov.fr/youvideo) · [Github1](https://github.com/HBC-Tech-coder/Inmoov-AI-Cloud-Robotic-Hand) · [Github2](https://github.com/elicazer/BionicArm) · [Github3](https://github.com/Daniyar1239/Wireless-robotic-hand-with-DIY-flex-sensors)
 - [Inspire-Robots, RH56DFX](https://inspire-robots.store/collections/all/products/the-dexterous-hands-rh56dfx-series) · [URDF](https://github.com/dexsuite/dex-urdf) · [MJCF-Left-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_left_hand.xml) · [MJCF-Right-Robosuite](https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/models/assets/grippers/inspire_right_hand.xml)
 - [Max Planck Institute for Intelligent Systems, ISyHand](https://isyhand.is.mpg.de) · [Github](https://github.com/benrichardson28/isyhand_ros2)
@@ -146,6 +147,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [Baxter](https://github.com/RethinkRobotics/baxter_common) · [MJCF](https://github.com/google-deepmind/mujoco_menagerie/issues/137)
 - [DexForce, W1](https://en.dexforce.com) · [Github](https://github.com/DexForce)
 - [GALBOT](https://www.galbot.com)
+- [Honda Avatar Robot](https://global.honda/en/tech/Avatar_robot)
 - [PAL Robotics, TIAGo Pro](https://pal-robotics.com/robot/tiago-pro) · [Github](https://github.com/pal-robotics/tiago_pro_robot) · [TIAGo++-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago_dual)
 - [Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) · [Github](https://github.com/pollen-robotics) · [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) · [Dora](https://dora-rs.ai)
 - [PR2](https://wiki.ros.org/Robots/PR2) · [MJCF](https://github.com/vikashplus/PR2) · [Robosuite-PR2](https://github.com/ARISE-Initiative/robosuite/tree/robocasa_v0.1/robosuite/models/assets/robots/pr2)
@@ -215,6 +217,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details><summary><b>Tactile Gloves</b></summary>
 
 - [HaptX Gloves G1, ELSA](https://www.elsa-jp.co.jp/products/detail/haptx-gloves-g1)
+- [MANUS Metagloves Pro Haptic](https://www.manus-meta.com/products/metagloves-pro-haptic)
 - [OSMO](https://jessicayin.github.io/osmo_tactile_glove) · [Github](https://github.com/jessicayin/osmo_tactile_glove)
 - [SenseGlove](https://www.senseglove.com)
 - [STAG, MIT](https://stag.csail.mit.edu) · [Github](https://github.com/Erkil1452/touch)
