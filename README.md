@@ -63,6 +63,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ## Benchmark/Standard for Real-world tasks
 
+- [ICRA-WBCD](https://wbcdcompetition.github.io)
 - [LightWheel-Robofinals](https://lightwheel.ai/robofinals)
 - [ManipulationNet](https://manipulation-net.org)
 - [RoboArena](https://robo-arena.github.io)
@@ -1444,7 +1445,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/TrossenRobotics-trossen_arm_mujoco-black?style=flat-square&logo=github)](https://github.com/TrossenRobotics/trossen_arm_mujoco) <img src="https://img.shields.io/github/stars/TrossenRobotics/trossen_arm_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Tsunami--kun-awesome--humanoid--manipulation-black?style=flat-square&logo=github)](https://github.com/Tsunami-kun/awesome-humanoid-manipulation) <img src="https://img.shields.io/github/stars/Tsunami-kun/awesome-humanoid-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UltraDexGrasp-lightblue?style=flat-square)](https://yangsizhe.github.io/ultradexgrasp) [![](https://img.shields.io/badge/InternRobotics-UltraDexGrasp-black?style=flat-square&logo=github)](https://github.com/InternRobotics/UltraDexGrasp) <img src="https://img.shields.io/github/stars/InternRobotics/UltraDexGrasp?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/ICRA--WBCD-lightblue?style=flat-square)](https://wbcdcompetition.github.io)
 
 <details><summary><b>Learning: Bimanual/Dual-arm/hand - Fine manipulation</b></summary>
 
@@ -1902,7 +1902,7 @@ This curation covers a wide range of robotic manipulation tasks.
   - [![](https://img.shields.io/badge/Victorlouisdg-cloth--competition-black?style=flat-square&logo=github)](https://github.com/Victorlouisdg/cloth-competition) <img src="https://img.shields.io/github/stars/Victorlouisdg/cloth-competition?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/FlingBot-lightblue?style=flat-square)](https://flingbot.cs.columbia.edu) [![](https://img.shields.io/badge/real--stanford-flingbot-black?style=flat-square&logo=github)](https://github.com/real-stanford/flingbot) <img src="https://img.shields.io/github/stars/real-stanford/flingbot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ReKep-lightblue?style=flat-square)](https://rekep-robot.github.io) [![](https://img.shields.io/badge/huangwl18-ReKep-black?style=flat-square&logo=github)](https://github.com/huangwl18/ReKep) <img src="https://img.shields.io/github/stars/huangwl18/ReKep?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/kywind-cloth_sim-black?style=flat-square&logo=github)](https://github.com/kywind/cloth_sim) <img src="https://img.shields.io/github/stars/kywind-cloth_sim?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/kywind-cloth_sim-black?style=flat-square&logo=github)](https://github.com/kywind/cloth_sim) <img src="https://img.shields.io/github/stars/kywind/cloth_sim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UniGarmentManip-lightblue?style=flat-square)](https://warshallrho.github.io/unigarmentmanip) [![](https://img.shields.io/badge/luhr2003-UniGarmentManip-black?style=flat-square&logo=github)](https://github.com/luhr2003/UniGarmentManip) <img src="https://img.shields.io/github/stars/luhr2003/UniGarmentManip?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/X--VLA-lightblue?style=flat-square)](https://thu-air-dream.github.io/X-VLA) [![](https://img.shields.io/badge/2toinf-X--VLA-black?style=flat-square&logo=github)](https://github.com/2toinf/X-VLA) <img src="https://img.shields.io/github/stars/2toinf/X-VLA?style=flat-square&color=yellow">
 </details>
