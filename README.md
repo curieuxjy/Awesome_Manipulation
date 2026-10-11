@@ -925,8 +925,6 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/placo-lightblue?style=flat-square)](https://placo.readthedocs.io) [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square&logo=github)](https://github.com/rhoban/placo) <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pyroki-lightblue?style=flat-square)](https://pyroki-toolkit.github.io) [![](https://img.shields.io/badge/chungmin99-pyroki-black?style=flat-square&logo=github)](https://github.com/chungmin99/pyroki) <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RCIK-lightblue?style=flat-square)](https://sglab.kaist.ac.kr/RCIK) [![](https://img.shields.io/badge/cheulkang-RCIK-black?style=flat-square&logo=github)](https://github.com/cheulkang/RCIK) <img src="https://img.shields.io/github/stars/cheulkang/RCIK?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/RM4D-lightblue?style=flat-square)](https://mrudorfer.github.io/rm4d) [![](https://img.shields.io/badge/mrudorfer-rm4d-black?style=flat-square&logo=github)](https://github.com/mrudorfer/rm4d) <img src="https://img.shields.io/github/stars/mrudorfer/rm4d?style=flat-square&color=yellow">
-  - [![](https://img.shields.io/badge/mrudorfer-rm4d-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/rm4d) <img src="https://img.shields.io/github/stars/bdaiinstitute/rm4d?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Simple--Robotics-LoIK-black?style=flat-square&logo=github)](https://github.com/Simple-Robotics/LoIK) <img src="https://img.shields.io/github/stars/Simple-Robotics/LoIK?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UM--ARM--Lab-pytorch_kinematics-black?style=flat-square&logo=github)](https://github.com/UM-ARM-Lab/pytorch_kinematics) <img src="https://img.shields.io/github/stars/UM-ARM-Lab/pytorch_kinematics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/utiasSTARS-GraphIK-black?style=flat-square&logo=github)](https://github.com/utiasSTARS/GraphIK) <img src="https://img.shields.io/github/stars/utiasSTARS/GraphIK?style=flat-square&color=yellow">
@@ -1914,6 +1912,27 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 [END PLANNING]: #
+
+
+<details><summary><b>REACHABILITY</b></summary>
+
+- [![](https://img.shields.io/badge/CORA-lightblue?style=flat-square)](https://tumcps.github.io/CORA) [![](https://img.shields.io/badge/TUMcps-CORA-black?style=flat-square&logo=github)](https://github.com/TUMcps/CORA) <img src="https://img.shields.io/github/stars/TUMcps/CORA?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/ajthor-socks-black?style=flat-square&logo=github)](https://github.com/ajthor/socks) <img src="https://img.shields.io/github/stars/ajthor/socks?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/Roahm--Lab-ARMOUR-lightblue?style=flat-square)](https://roahmlab.github.io/armour) [![](https://img.shields.io/badge/roahmlab-armour-black?style=flat-square&logo=github)](https://github.com/roahmlab/armour) <img src="https://img.shields.io/github/stars/roahmlab/armour?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/Roahm--Lab-WAITR-lightblue?style=flat-square)](https://roahmlab.github.io/waitr-dev) [![](https://img.shields.io/badge/roahmlab-waitr--dev-black?style=flat-square&logo=github)](https://github.com/roahmlab/waitr-dev) <img src="https://img.shields.io/github/stars/roahmlab/waitr-dev?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/hungpham2511-toppra-black?style=flat-square&logo=github)](https://github.com/hungpham2511/toppra/blob/master/toppra/algorithm/reachabilitybased/reachability_algorithm.py) <img src="https://img.shields.io/github/stars/hungpham2511/toppra?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/RM4D-lightblue?style=flat-square)](https://mrudorfer.github.io/rm4d) [![](https://img.shields.io/badge/mrudorfer-rm4d-black?style=flat-square&logo=github)](https://github.com/mrudorfer/rm4d) <img src="https://img.shields.io/github/stars/mrudorfer/rm4d?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/mrudorfer-rm4d-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/rm4d) <img src="https://img.shields.io/github/stars/bdaiinstitute/rm4d?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>MANIPULABILITY</b></summary>
+
+- [![](https://img.shields.io/badge/lrozo-ManipulabilityTracking-black?style=flat-square&logo=github)](https://github.com/lrozo/ManipulabilityTracking) <img src="https://img.shields.io/github/stars/lrozo/ManipulabilityTracking?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/lrozo-ManipulabilityTransfer-black?style=flat-square&logo=github)](https://github.com/lrozo/ManipulabilityTransfer) <img src="https://img.shields.io/github/stars/lrozo/ManipulabilityTransfer?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/MMC-lightblue?style=flat-square)](https://jhavl.github.io/mmc) [![](https://img.shields.io/badge/petercorke-robotics--toolbox--python-black?style=flat-square&logo=github)](https://github.com/petercorke/robotics-toolbox-python) <img src="https://img.shields.io/github/stars/petercorke/robotics-toolbox-python?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Manipulability-lightblue?style=flat-square)](https://sites.google.com/view/manipulability) [![](https://img.shields.io/badge/NoemieJaquier-Manipulability-black?style=flat-square&logo=github)](https://github.com/NoemieJaquier/Manipulability) <img src="https://img.shields.io/github/stars/NoemieJaquier/Manipulability?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robotlearn-pyrobolearn--manipulability-black?style=flat-square&logo=github)](https://github.com/robotlearn/pyrobolearn/tree/master/examples/manipulability) <img src="https://img.shields.io/github/stars/robotlearn/pyrobolearn?style=flat-square&color=yellow">
+</details>
 
 ---
 
