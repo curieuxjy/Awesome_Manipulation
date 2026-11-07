@@ -29,6 +29,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 ### Books/Tutorials - ML-based
 - [Learn-Robotics AI](https://learnrobotics.ai)
+- [Open Source Robotics](https://robotics.growbotics.ai/use-cases/educational-robotics)
 - [Robot Learning: From Fundamentals to Foundation Models, Oier Mees, ETH](https://cvg.ethz.ch/lectures/Robot-Learning) · [Video](https://www.youtube.com/watch?v=qvTP6T5oq1w) · [Github](https://github.com/mees-robot-learning-course/ethz-course-2026)
 - [Robotics Notebooks, Chong Liu](https://github.com/ImChong/Robotics_Notebooks)
 
@@ -669,6 +670,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/Embodied--AI--Research--Index-lightblue?style=flat-square)](https://dld0621.github.io/Embodied-AI-Paper-Analysis) [![](https://img.shields.io/badge/Dld0621-Embodied--AI--Paper--Analysis-black?style=flat-square&logo=github)](https://github.com/Dld0621/Embodied-AI-Paper-Analysis) <img src="https://img.shields.io/github/stars/Dld0621/Embodied-AI-Paper-Analysis?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GeorgeDu-vision--based--robotic--grasping-black?style=flat-square&logo=github)](https://github.com/GeorgeDu/vision-based-robotic-grasping) <img src="https://img.shields.io/github/stars/GeorgeDu/vision-based-robotic-grasping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Github-dexterous--manipulation-black?style=flat-square&logo=github)](https://github.com/topics/dexterous-manipulation)
+- [![](https://img.shields.io/badge/Growbotics--AI-awesome--open--source--robotics-black?style=flat-square&logo=github)](https://github.com/Growbotics-AI/awesome-open-source-robotics) <img src="https://img.shields.io/github/stars/Growbotics-AI/awesome-open-source-robotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/hnuzhy-RobotManipulation-black?style=flat-square&logo=github)](https://github.com/hnuzhy/RobotManipulation) <img src="https://img.shields.io/github/stars/hnuzhy/RobotManipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kingchou007-Awesome--Dexterous--Manipulation-black?style=flat-square&logo=github)](https://github.com/kingchou007/Awesome-Dexterous-Manipulation) <img src="https://img.shields.io/github/stars/kingchou007/Awesome-Dexterous-Manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Learn--Robotics--AI-lightblue?style=flat-square)](https://learnrobotics.ai/library)
