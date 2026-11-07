@@ -163,6 +163,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [GALBOT](https://www.galbot.com)
 - [Honda Avatar Robot](https://global.honda/en/tech/Avatar_robot)
 - [Kawada Robotics](https://www.kawadarobot.co.jp/en)・[NEXTAGE](https://nextage.kawadarobot.co.jp) · [Github](https://github.com/tork-a/rtmros_nextage)
+- [MABEL](https://robotmabel.github.io) · [Github](https://github.com/robotmabel)
 - [PAL Robotics, TIAGo Pro](https://pal-robotics.com/robot/tiago-pro) · [Github](https://github.com/pal-robotics/tiago_pro_robot) · [TIAGo++-MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago_dual)
 - [Pollen Robotics, Reachy 2](https://docs.pollen-robotics.com) · [Github](https://github.com/pollen-robotics) · [MJCF](https://github.com/pollen-robotics/reachy2_mujoco_assets) · [Dora](https://dora-rs.ai)
 - [PR2](https://wiki.ros.org/Robots/PR2) · [MJCF](https://github.com/vikashplus/PR2) · [Robosuite-PR2](https://github.com/ARISE-Initiative/robosuite/tree/robocasa_v0.1/robosuite/models/assets/robots/pr2)
