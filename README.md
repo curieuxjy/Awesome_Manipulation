@@ -932,6 +932,7 @@ This curation covers a wide range of robotic manipulation tasks.
 </details>
 
 <details><summary><b>KINEMATICS</b></summary>
+<a id="kinematics"/>
 
 - [![](https://img.shields.io/badge/CoMMALab-cricket-black?style=flat-square&logo=github)](https://github.com/CoMMALab/cricket) <img src="https://img.shields.io/github/stars/CoMMALab/cricket?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/EAIK-lightblue?style=flat-square)](https://ostermd.github.io/EAIK) [![](https://img.shields.io/badge/OstermD-EAIK-black?style=flat-square&logo=github)](https://github.com/OstermD/EAIK) <img src="https://img.shields.io/github/stars/OstermD/EAIK?style=flat-square&color=yellow">
@@ -1886,13 +1887,14 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>Planning: Collision avoidance</b></summary>
 
+> Please refer to [KINEMATICS](#kinematics) for collision-aware ik/trajectory optimization (eg: mink, PyRoki, PyRoFFI, cuRobo, etc.)!
+
 - [![](https://img.shields.io/badge/ACRoboT--buaa-RobotDiffuse-black?style=flat-square&logo=github)](https://github.com/ACRoboT-buaa/RobotDiffuse) <img src="https://img.shields.io/github/stars/ACRoboT-buaa/RobotDiffuse?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/anindex-gtmp-black?style=flat-square&logo=github)](https://github.com/anindex/gtmp) <img src="https://img.shields.io/github/stars/anindex/gtmp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/BenBurgessLimerick-MotM--BaseControl-black?style=flat-square&logo=github)](https://github.com/BenBurgessLimerick/MotM-BaseControl) <img src="https://img.shields.io/github/stars/BenBurgessLimerick/MotM-BaseControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/CabiNet-lightblue?style=flat-square)](https://cabinet-object-rearrangement.github.io) [![](https://img.shields.io/badge/NVlabs-cabi_net-black?style=flat-square&logo=github)](https://github.com/NVlabs/cabi_net) <img src="https://img.shields.io/github/stars/NVlabs/cabi_net?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/CDFMP-lightblue?style=flat-square)](https://sites.google.com/view/cdfmp) [![](https://img.shields.io/badge/yimingli1998-cdf-black?style=flat-square&logo=github)](https://github.com/yimingli1998/cdf) <img src="https://img.shields.io/github/stars/yimingli1998/cdf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/COLMPC-lightblue?style=flat-square)](https://gepettoweb.laas.fr/articles/haffemayer2025.html) [![](https://img.shields.io/badge/agimus--project-colmpc-black?style=flat-square&logo=github)](https://github.com/agimus-project/colmpc) <img src="https://img.shields.io/github/stars/agimus-project/colmpc?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/cuRobo-lightblue?style=flat-square)](https://nvlabs.github.io/curobo) [![](https://img.shields.io/badge/NVlabs-curobo-black?style=flat-square&logo=github)](https://github.com/NVlabs/curobo) <img src="https://img.shields.io/github/stars/NVlabs/curobo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Geometric--Fabrics-lightblue?style=flat-square)](https://research.nvidia.com/labs/srl/project/geometric-fabrics)
   - [![](https://img.shields.io/badge/adubredu-KinodynamicFabrics.jl-black?style=flat-square&logo=github)](https://github.com/adubredu/KinodynamicFabrics.jl) <img src="https://img.shields.io/github/stars/adubredu/KinodynamicFabrics.jl?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/NVlabs-FABRICS-black?style=flat-square&logo=github)](https://github.com/NVlabs/FABRICS) <img src="https://img.shields.io/github/stars/NVlabs/FABRICS?style=flat-square&color=yellow">
